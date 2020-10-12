@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.min.css"> -->
+		<link rel="stylesheet" href="{{ site.url }}/assets/stylesheets/bulma.css">
+		<link rel="stylesheet" href="{{ site.url }}/assets/stylesheets/custom.css">
+		<script src="{{ site.url}}/assets/javascripts/navbar.js"></script>
+		<script defer src="https://use.fontawesome.com/releases/v5.14.0/js/all.js"></script>
+  </head>
+  <body>
+		{% include header.html %}
+		<div class="container is-widescreen">
+			<ul class="steps has-content-centered">
+			  <li class="steps-segment">
+			    <span class="steps-marker"></span>
+			    <div class="steps-content">
+			      <p class="is-size-4">Choose Type (1/6)</p>
+			      <p>This is the first step, which means you start here.</p>
+			    </div>
+			  </li>
+			  <li class="steps-segment">
+			    <span class="steps-marker"></span>
+			    <div class="steps-content">
+			      <p class="is-size-4">Choose Descriptor (1/47)</p>
+			      <p>This is the second step. Once you complete the first step, you will end up here.</p>
+			    </div>
+			  </li>
+			  <li class="steps-segment is-active">
+			    <span class="steps-marker"></span>
+			    <div class="steps-content">
+			      <p class="is-size-4">Choose Focus (1/39)</p>
+			      <p>This is the third step. This is halfway between the start and the end.</p>
+			    </div>
+			  </li>
+			  <li class="steps-segment">
+			    <span class="steps-marker"></span>
+			    <div class="steps-content">
+			      <p class="is-size-4">Choose Type Abilities (2/5 - 2/9)</p>
+			      <p>The fourth step. Nearly there!</p>
+			    </div>
+			  </li>
+			  <li class="steps-segment">
+			    <span class="steps-marker"></span>
+			    <div class="steps-content">
+			      <p class="is-size-4">Resolve Skills Choices</p>
+			      <p>And finally the last step. You have successfully completed all 5 steps.</p>
+			    </div>
+			  </li>
+			  <li class="steps-segment">
+			    <span class="steps-marker"></span>
+			    <div class="steps-content">
+			      <p class="is-size-4">Starting Equipment</p>
+			      <p>And finally the last step. You have successfully completed all 5 steps.</p>
+			    </div>
+			  </li>
+			  <li class="steps-segment">
+			    <span class="steps-marker"></span>
+			    <div class="steps-content">
+			      <p class="is-size-4">Resolve Connections</p>
+			      <p>And finally the last step. You have successfully completed all 5 steps.</p>
+			    </div>
+			  </li>
+			</ul>
+			{{ content }}		
+		</div>
+		{% include footer.html %}
+  </body>
+</html>

@@ -1,0 +1,15 @@
+Class (Type),Might Pool Starting Value,Speed Pool Starting Value,Intellect Pool Starting Value,Additional Points to divide as like,Effort,Might Edge,Speed Edge,Intellect Edge,Cypher Use (Limit),Starting Shins,Recovery Roll,Notes:
+Glaive,11,10,7,+6,1,1,1,0,2,5,1d6 + tier,
+Nano,7,9,12,+6,1,0,0,1,3,4,1d6 + tier,
+Jack,10,10,10,+6,1,*,*,*,2,8,1d6 + tier,*Any one Edge 1 rest 0
+Arkus,8,9,11,+6,1,0,0,1,2,9,1d6 + tier,
+Wright,9,7,12,+6,1,0,0,1,3,5,1d6 + tier,
+Delve,9,9,10,+6,1,0,1,1,2,3,1d6 + tier,
+Varjellen,**,**,**,+3 (instead of +6),-,-,-,-,-,-,1d6 + tier -1,**Once per day you can reorder your pools.
+Vector,10,10,8,+6,1,1,1,0,2,n/a,1d6 + tier,
+Paradox,8,8,12,+6,1,0,0,1,3,n/a,1d6 + tier,
+Spinner,9,9,10,+6,1,0,1,1,2,n/a,1d6 + tier,
+Warrior,10,10,8,+6,1,1,0,1,2,n/a,1d6 + tier,4 special abilities
+Adept,7,9,12,+6,1,0,0,1,3,n/a,1d6 + tier,4 special abilities
+Explorer,10,9,9,+6,1,1,0,0,2,n/a,1d6 + tier,4 special abilities
+Speaker,8,9,11,+6,1,0,0,1,2,n/a,1d6 + tier,4 special abilities
