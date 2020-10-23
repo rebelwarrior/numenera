@@ -1,4 +1,6 @@
-// Navbar (from Bulma site)
+/* Navbar (from Bulma site) */
+// Add class="navbar-burger" data-target="navMenu" 
+// Add class="navbar-menu" id="navMenu"
 document.addEventListener('DOMContentLoaded', () => {
 
   // Get all "navbar-burger" elements
@@ -24,3 +26,4 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
 });
+

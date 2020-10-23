@@ -1,14 +1,43 @@
 <nav class="navbar" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
-    <a class="navbar-item" href="#">
-      <img src="{{ site.url }}/assets/images/NumeneraLogo.svg" alt="Numenera Logo from Monte Cook Games" width="250" height="75">
+    <a class="navbar-item" href="/">
+      <img src="{{ site.url }}/assets/images/NumeneraLogo.svg" 
+			     alt="Numenera Logo adapted from Monte Cook Games" 
+					 width="250" height="75">
     </a>
-
-    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+    
+		<a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
     </a>
   </div>
+  <div class="navbar-menu" id="navMenu">
+    <div class="navbar-start">
+      <a class="navbar-item" href="/">
+        Home
+      </a>
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link" href="character_creation">
+          Character Generation
+        </a>
+
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="character_creation">
+            Character Creation
+          </a>
+          <hr class="navbar-divider">
+          <a class="navbar-item">
+            50 Questions
+          </a>
+        </div>
+			</div>	
+      <a class="navbar-item" href="ninth_world">
+        The Setting
+      </a>
+      <a class="navbar-item" href="gm_resources">
+        GM Resources
+      </a>
+    </div>
+  </div>
 </nav>
-<br>
