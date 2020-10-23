@@ -64,5 +64,7 @@ Pick your Background and the answer to the question:  `Why does your character a
 
 If you wanna deep dive [Ginny Di](https://youtu.be/OCrCrn2vuAc) has a list of 50 questions you can answer. 
 
+[The 50 Questions](50-questions)
+
 #### Resolve Connections from Focus
 {:.subtitle.is-4}

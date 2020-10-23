@@ -3,9 +3,6 @@
 layout: default
 
 ---
-
-Add a hero element here to animate. 
-
 <section class="hero is-medium is-primary is-bold">
   <div class="hero-body">
     <div class="container">
@@ -13,7 +10,7 @@ Add a hero element here to animate.
         The Ninth World RPG Guide
       </h1>
       <h2 class="subtitle">
-        Primary bold subtitle
+        by David Acevedo
       </h2>
     </div>
   </div>
