@@ -7,7 +7,7 @@ layout: posts
 ## 50 Character Builder Questions for your Tabletop Character
 {:.title.is-2} 
 
-by [Ginny Di](http://youtube.com/ginnydi) [her website](https://www.ginnydi.com/)
+by Ginny Di see: [Ginny Di's youtube](http://youtube.com/ginnydi) or [her website](https://www.ginnydi.com/)
 
 1.   Are you a morning person or more of a night owl?
 1.   What’s the first thing you notice about a person when you meet them?
