@@ -6,6 +6,27 @@ layout: posts
 # GM'ing Resources
 {:.title.is-2} 
 
+<div class="tabs is-boxed">
+  <ul>
+    <li class="is-active">
+      <a>
+        <span>Books</span>
+      </a>
+    </li>
+    <li>
+      <a>
+        <span>Videos</span>
+      </a>
+    </li>
+    <li>
+      <a>
+        <span>Other</span>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
 ## Best Books
 {:.title.is-3} 
 

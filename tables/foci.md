@@ -4,6 +4,9 @@ layout: default
 
 ---
 
+## Foci
+{:.title.is-2.add_left_margin} 
+
 <div class="container is-widescreen">
   <table class="table is-striped is-bordered">
     {% for row in site.data.foci %}
@@ -19,7 +22,7 @@ layout: default
         {{ pair[1] }}
       {% endtablerow %}
     {% endfor %}
-		<tfoot>
+		<tfoot class="grey-text">
 			© Monte Cook Games, Original Content @ David Acevedo
 		</tfoot>
   </table>

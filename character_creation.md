@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-layout: character_creation
+layout: posts
 ---
 
 # Character Creation 
@@ -9,54 +9,65 @@ layout: character_creation
 ### Steps:
 {:.subtitle.is-3} 
 
-Grab Character Sheet
+Grab the [Character Sheet](/assets/pdfs/CharacterSheet.pdf)
 
-#### Choose Type (1/6)
+#### 1. Choose Type (1/6)
 {:.subtitle.is-4} 
 
-1. Glaive ("sword" in French, btw)
-2. Nano 
-3. Jack 
-4. Arkus (Speakers)
+1. Glaive ("_sword_" in French, btw)
+2. Nano   (Wizards)
+3. Jack   (Generalists)
+4. Arkus  (Speakers)
 5. Wright (Crafters)
-6. Delve (Explorers)
+6. Delve  (Explorers)
 
-#### Chose Descriptor (1/47)
+Go to the [Starting Values Table](/tables/starting_values) and put them on your character sheet. 
+
+<br>
+#### 2. Chose Descriptor (1/47)
 {:.subtitle.is-4} 
 
-Don't read the descriptors, first find an adjective or two that describes your character. Then read the list and see what applies and two or three. Read the description for those.
+Don't read the descriptors, first find an adjective or two that describes your character. Then read the list and see what applies and pick two or three. Read the description for those.
 
-For example: your character is kind.
-Looking at the list you can pick beneficent, maybe civic, and nurturing.
-Read those and pick one.  
+<br>
+For example: your character is kind.  
+Looking at the list you can pick _beneficent_, maybe _civic_, and _nurturing_.  
+Read those and choose one.   
 
-#### Choose Focus (1/39)
+<br>
+#### 3. Choose Focus (1/39)
 {:.subtitle.is-4} 
 
-Foci are like super-powers or feats of ability your character can do. They can be tied to your tier like a jack that works the back alleys is a thief, but they don't always have to. 
+Foci are like super-powers or feats of ability your character can do. They can be used to enhance to your tier abilities, like a jack that works the back alleys is a thief, but they don't always have to. 
 
-#### Choose Two Type Abilities (1/5 - 1/9)
+Look at teh [Foci Table](/tables/foci) which has comic book and movie references and fantasy class hints to help you choose. 
+
+<br>
+#### 4. Choose Two Type Abilities (2/5 - 2/9)
 {:.subtitle.is-4} 
 
-Your Type has at least a 5 options for you to choose 2 abilities corresponding to your type at tier one. Pick these after your focus since you'll want them to compliment each other. 
+Your Type has at least a five options for you to __choose 2 tier abilities__ corresponding to your type at tier one. Pick these after your focus since you'll want them to compliment each other. See the [Tier Abilities Table](/tables/tier_abilities.md)
 
-#### Resolve Skills Choices (from Type or Focus).
+<br>
+#### 5. Resolve Skills Choices (from Type or Focus).
 {:.subtitle.is-4} 
 
-Your Type or your Focus may give you skills from a list to choose from, pick those.  
+There is no set skill list. 
+Your Type and/or your Focus may give you skills from a list to choose from, pick those.  
 
+<br>
 #### Starting Equipment  
 {:.subtitle.is-4} 
 
 Now you and your Dungeon Master (DM) will select what starting equipment you have. Remember that descriptors and foci can give extra equipment. 
 
-
+<br>
 #### Name & Look
 {:.subtitle.is-4} 
 
 Now pick a name for your character and sketch a rough look. 
 
-
+<br>
 #### Background
 {:.subtitle.is-4} 
 
@@ -66,5 +77,8 @@ If you wanna deep dive [Ginny Di](https://youtu.be/OCrCrn2vuAc) has a list of 50
 
 [The 50 Questions](50-questions)
 
+<br>
 #### Resolve Connections from Focus
 {:.subtitle.is-4}
+
+<br>

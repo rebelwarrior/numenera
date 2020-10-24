@@ -3,6 +3,9 @@ title: Numenéra Starting Values
 layout: default
 ---
 
+## Starting Values
+{:.title.is-2.add_left_margin} 
+
 <div class="container is-widescreen">
   <table class="table is-striped is-bordered">
     {% for row in site.data.starting_values %}

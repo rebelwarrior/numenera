@@ -3,6 +3,9 @@ title: Numenéra Tier Abilities
 layout: default
 ---
 
+## Tier Abilities 
+{:.title.is-2.add_left_margin} 
+
 <div class="container is-widescreen">
   <table class="table is-striped is-bordered">
     {% for row in site.data.tier_abilities %}
