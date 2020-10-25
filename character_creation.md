@@ -42,6 +42,9 @@ Foci are like super-powers or feats of ability your character can do. They can b
 
 Look at teh [Foci Table](/tables/foci) which has comic book and movie references and fantasy class hints to help you choose. 
 
+<br>
+For example: Do you want to play a character like Super Mario? 
+Check out "Breaks down walls"
 
 #### 4. Choose Two Type Abilities (2/5 - 2/9)
 {:.subtitle.is-4.mt-4} 
@@ -52,33 +55,33 @@ Your Type has at least a five options for you to __choose 2 tier abilities__ cor
 #### 5. Resolve Skills Choices (from Type or Focus).
 {:.subtitle.is-4.mt-4} 
 
-There is no set skill list. 
-Your Type and/or your Focus may give you skills from a list to choose from, pick those.  
+There is no set skill list. Skills are one of only three things that can lower the dificulty of a task.
+Your Type and/or your Focus may give you skills from a list to choose from too, pick those.  
 
 
-#### Starting Equipment  
+#### 6. Starting Equipment  
 {:.subtitle.is-4.mt-4} 
 
-Now you and your Dungeon Master (DM) will select what starting equipment you have. Remember that descriptors and foci can give extra equipment. 
+Now you and your Game Master (GM) will select what starting equipment you have. Remember that descriptors and foci can give extra equipment. Pay special attention to the cyphers. 
 
-
-#### Name & Look
+#### 7. The Rest
 {:.subtitle.is-4.mt-4} 
+
+
+##### Name & Look
+{:.subtitle.is-5.mt-4} 
 
 Now pick a name for your character and sketch a rough look (with words or pictures). 
 
+##### Introduce yourself to the party & resolve Connections (from Focus)
+{:.subtitle.is-5.mt-4} 
+Connections create ties between the players. Connections are listed in your Focus. 
 
-#### Background
-{:.subtitle.is-4.mt-4} 
+##### Fleshout your Background
+{:.subtitle.is-5.mt-4} 
 
-Pick your Background and the answer to the question:  `Why does your character adventure?` Refer to those section of your tier, focus and description choices. 
+Pick your Background and the answer to the question:  `Why does your character adventure?` Refer to those section of your tier, focus and description choices. Your descriptor has suggestions for the _Initial Link to the Starting Adventure_.
 
 If you wanna deep dive [Ginny Di](https://youtu.be/OCrCrn2vuAc) has a list of 50 questions you can answer. 
 
 [The 50 Questions](50-questions)
-
-
-#### Resolve Connections from Focus
-{:.subtitle.is-4.mt-4}
-lkj
-<br>

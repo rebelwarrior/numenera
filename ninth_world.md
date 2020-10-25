@@ -91,6 +91,8 @@ The South of Steadfast _was_ the Pytharon Empire until it collapse a hundred yea
 Secret: The Empire controls the single trade route to the lands beyond the Black Riage that isn't a mountain pass.  
 Government: Monarchy (formerly empire with provinces and governors)
 
+> _"Those not rich, are poor."_ – Old Aian saying (city in Milave)
+
 7) Milave: (Italy)  
 {:.subtitle.is-5.mt-5} 
 Exports: Ganch (weed), float-stones, assorted foodstuff and art.  
@@ -99,10 +101,8 @@ Landlocked, squeezed between the souther dessert, Ancuan and the Pytharon Empire
 Secret: The Amber Pope is possibly supporting noble warlord Tarvesh as a leader to take over the kingdom.  
 Government: Varies, from city states run by princes or nobles to even a republic or two.
 
-> _"Those not rich, are poor."_ – Old Aian saying (city in Milave)
-
-> How is Aian different from Qi?  
-In Qi, a city of learning, a city of government, wealth in flaunted, put on display, sometimes in gaudy fashion. Even servants of rich people in Qi dress fashionably, the location of your house in the city is very important, the closer to the Amber Pope and his machine security the more safe and more expensive, as well who do you marry. In Aian, the city of merchants, having money to make big deals is considered most important. People dress well, but fashion is not as important. Unlike most of the South of Steadfast, people in Aian don't patronize high art, preferring more popular fare. Education is not important, negotiating and making money is. Your skills are considered important. The biggest display of wealth in Aian is needing and having your own security _force_, rather than just a few bodyguards. Because Aian doesn't have a center like Qi does, where you live in Aian is secondary to how big your place is. Aian is positively small (30K residents) compared to Qi (500k residents).
+> _How is Aian different from Qi?_  
+In Qi, a city of learning, a city of government, wealth is flaunted, put on display, sometimes in gaudy fashion. Even servants of rich people in Qi dress fashionably, the location of your house in the city is very important, the closer to the Amber Pope and his machine security the more safe and more expensive. In Aian, the city of merchants, having money to make big deals is considered most important. People dress well, but fashion is not as important. Unlike most of the South of Steadfast, people in Aian don't patronize high art, preferring more popular fare. Education is not important, negotiating and making money is. Your skills are considered important. The biggest display of wealth in Aian is needing and having your own security _force_, rather than just a few bodyguards. Because Aian doesn't have a center like Qi does, where you live in Aian is secondary to how big your place is. Aian is also positively small (30K residents) compared to Qi (500k residents).
 
 8) Ancuan: (Pirates and Ruins)  
 {:.subtitle.is-5.mt-5} 
@@ -153,7 +153,7 @@ _Typical salaries for guards and mercenaries:_
 {:.mt-5}
 
 Job | Shins
---- | ---
+:--- | :---
 guard (medium city) | 5 shins/day
 guard (small city)  | 3 shins/day
 guard (large city)  | 8 shins/day
@@ -173,7 +173,7 @@ carpenter/mason/journeyman | 3 shin/day
 master carpenter/mason/craft-person | 6 shin/day
 
 Food | Shins
---- | ---
+:--- | :---
 1 swamp-chicken (egg-laying) | 1 shin
 1 medium fungi-boar on a pike | 20 shin
 1 large blue-rat cooked with bread | 1/2 shin
@@ -257,7 +257,7 @@ Strange but familiar things are things that are analogues to today's world but s
 <br><br>
 
 Animals in Steadfast | Notes| Cost | Equivalent 
---- | --- | --- | ---  
+:--- | :--- | :--- | :---  
 Gallen | Herbivores raised for meat and milk | | Cattle
 Shiul (p. 147) | Massive Four-Horned creatures | | Yaks
 Aneen (p. 225)| Pack animals | 100-1000 shins | Bipedal Camels
@@ -277,7 +277,7 @@ Slicer Beetle (p. 156, Bestiary p. 117) |||
 
 
 Plants in Steadfast | Notes
---- | ---
+:--- | ---
 Ganch (weed) | Weed
 Cotton, Beans, Corn | -
 Orange Billam fuit | Oranges
@@ -331,7 +331,7 @@ _Abhumans (p. 13) can be used sort of like goblinoids in a fantasy setting. They
 {:.mt-4.mb-3}
 
 Fantasy monster | Abhuman | notes
---- | --- | ---
+:--- | :--- | :---
 Lizard-folk | Chirog, _p. 229_ | Red Lizard-folk
 Orcs? | Margr, _p. 240_ | Goat-faced Humanoids
  Vulture birds (dark crystal) | Murden, _p. 243_ | "Mud-birds" Bird-faced Humanoids

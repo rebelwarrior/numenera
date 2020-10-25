@@ -21,5 +21,8 @@ layout: default
         {{ pair[1] }}
       {% endtablerow %}
     {% endfor %}
+		<tfoot class="grey-text">
+			Choose two Tier Abilities
+		</tfoot>
   </table>
 </div>
