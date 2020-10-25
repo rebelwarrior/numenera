@@ -23,7 +23,7 @@ layout: default
       {% endtablerow %}
     {% endfor %}
 		<tfoot class="grey-text">
-			© Monte Cook Games, Original Content @ David Acevedo
+			* Numenera Destiny
 		</tfoot>
   </table>
 </div>

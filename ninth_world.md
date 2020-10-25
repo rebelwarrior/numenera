@@ -10,24 +10,25 @@ layout: posts
 {:.subtitle.is-2} 
 
 _The Outlands_    
-The lands to the north of the Steadfast are collectively called the Out-lands. Gaians are supposed to inhabit the north of the Outlands, but no one knows for sure.
+The lands to the north of the Steadfast are collectively called the Outlands. Gaians are supposed to inhabit the north of the Outlands, but no one knows for sure.
 
+<br>
 _The Steadfast_    
 The Steadfast is collection of Nine warring kingdoms. Its border to the north is the __Tithe river__ that leads to the cloud-crystal sky-fields. To the south there is the frozen south and the frozen dessert beyond the __Sadara river__. The __sea__ lies to the East and the __Black Riage Mountains__ to the West and form the other boundaries of the Steadfast.
 
-__Settlements:__    
-Almost all settlements are walled, and the rest are fenced. While most inhabited places are ok to move around during the day, if one is careful, at night it is a different story. One of the most dangerous jobs is shepherd since they follow the flock and live out in the open. However, while the Steadfast has its dangers and its wild areas, and dangers are real, it is not always dangerous. People have learned to travel in large groups as those tend not to attract as much trouble but even the lonely traveler somehow seems to manage to make it from settlement to settlement most of the time.
+> _"Many places offer sanctuary in the Ninth World. That’s why so many people never travel far."_ – Ninth World Bestiary 2
 
-> "Many places offer sanctuary in the Ninth World. That’s why so many people never travel far." – Ninth World Bestiary 2
+__Settlements:__    
+Almost all settlements are walled, and the rest are fenced. While most inhabited places are ok to move around during the day, at night it is a different story. One of the most dangerous jobs is shepherd since they follow the flock and live out in the open. However, while the Steadfast has its dangers and its wild areas, and dangers are quite real, it is not _always_ dangerous. People have learned to travel in large groups as those tend not to attract as much trouble but even the lonely traveler somehow seems to manage to make it from settlement to settlement most of the time.
 
 ## The Nine Kingdoms
 {:.title.is-3.mt-5} 
-As befits a feudal society, __power in Steadfast is tied to land.__ Land controls the production of food and resources and thus money as well. However, all out war is rare in Steadfast. The Amber papacy actively works to avoid war; and the resources needed to wage all-out war, would leave any kingdom involved vulnerable to the rest. Skirmishes, where one group of warriors fight to reduce the forces of the other, are, however, common along the borders. Since only about 10% of the population are warriors, aristocrats or clergy, the vast majority of the population aren't too concerned with skirmishes as they rarely touches them. Far more worrisome to a normal steadfast resident are the wilds. Outside settlements and the fields attached to them, there are large areas of wilderness, where numenera, treasure and the truly weird can be found. Most residents live in fear of these areas and those that don't, are at the very least are weary of them.  
-
-Listings of the Kingdoms include information that a person with knowledge of the land would have, or at least have and idea. Not everyone would have all the information, but the information isn't secret to the people of that Kingdom. However, someone who isn't from that land, or had not visited, would not know it.
+As befits a feudal society, __power in Steadfast is tied to land.__ Land controls the production of food and resources and thus money as well. However, all out war or land grabs are rare in Steadfast. The Amber papacy actively works to avoid war; and the resources needed to wage all-out war, would leave any kingdom involved vulnerable to the rest. Skirmishes, where one group of warriors fight to reduce the forces of the other, are, however, common along the borders. Since only about 10% of the population are warriors, aristocrats or clergy, the vast majority of the population aren't too concerned with skirmishes as they rarely touches them. Far more worrisome to a normal steadfast resident are the wilds. Outside settlements and the fields attached to them, there are large areas of wilderness, where numenera, treasure and the truly weird can be found. Most residents live in fear of these areas and those that don't, are at the very least are weary of them.  
 
 ### The Feel of the Nine Kingdoms:  
 {:.subtitle.is-3.mt-5} 
+
+_Listings of the Kingdoms include information that a person with knowledge of the land would have, or at least have and idea. Not everyone would have all the information, but the information isn't secret to the people of that Kingdom. However, someone who isn't from that land, or had not visited, would not know it._
 
 1) Navarene: (A Quasi-Medival Victorian England)  
 {:.subtitle.is-5.mt-5} 
@@ -49,7 +50,7 @@ Ghan is a peninsula composed of herders, sea-fearers and farmers, commonly calle
 Secret: The Angular Knights have their fortress here. Ghan trades with the Gaians to the north of the Myst sea, which they have found a way to navigate.    
 Government: Stable Monarchy with almost no gentry.
 
-> "Half of Qi is the sky." – A common Draolis saying.
+> _"Half of Qi is the sky."_ – A common Draolis saying.
 
 3) Draolis: (Magical Venice)  
 {:.subtitle.is-5.mt-5} 
@@ -61,7 +62,7 @@ If Naveren's rich are concerned with propriety and never out-shinning their quee
 Secret: The order of the truth stops Draolis from openly warring with Navarene.  
 Government: Plutocracy (ruled by rich merchants)
 
-> Ghan has the fleet, but Draolis owns the merchant ships. - Common Draolis Merchant saying.
+> _"Ghan has the fleet, but Draolis owns the merchant ships."_ - Common Draolis Merchant saying.
 
 4) Thaemor: (formerly Thaemoor, an unhistorical Moorish Kingdom)  
 {:.subtitle.is-5.mt-5} 
@@ -94,11 +95,11 @@ Government: Monarchy (formerly empire with provinces and governors)
 {:.subtitle.is-5.mt-5} 
 Exports: Ganch (weed), float-stones, assorted foodstuff and art.  
 Known for: Extremes, the arts, Aian "city of merchants", and Family mansions.  
-Landlocked, squeezed between the souther dessert, Ancuan and the Pytharon Empire, Milave is an unstable land. Milave is a rich beautiful and productive land with natural resources like float-stones that generate huge profits. Most of the people of Milave are farmers. Ostensibly ruled by a council, it is really a collection of highly independent city states, each with their own government. This is a land of extremes, there is no kingdom-wide police, no kingdom-wide unity and the cities run the gamut from the merchant-ruled Aian, where money is king, to the cosmopolitan Orrila. It is common for these city-states to sponsor artists as a way to give themselves pride and legitimacy, though beneath the surface of normalcy, the kingdom is on the verge of tearing itself apart as various factions eye each other and make the council ineffective.
+Landlocked, squeezed between the souther dessert, Ancuan and the Pytharon Empire, Milave is an unstable land. Milave is a rich beautiful and productive land with natural resources like float-stones that generate huge profits. Most of the people of Milave are farmers. Ostensibly ruled by a council, it is really a collection of highly independent city states, each with their own government. This is a land of extremes, there is no kingdom-wide police, no kingdom-wide unity and the cities run the gamut from the merchant-ruled Aian, where money is king, to the cosmopolitan Orrila. It is common for these city-states to sponsor artists as a way to give themselves pride and legitimacy, though beneath the surface of normalcy, the kingdom is on the verge of tearing itself apart as various factions eye each other and make the council ineffective.  
 Secret: The Amber Pope is possibly supporting noble warlord Tarvesh as a leader to take over the kingdom.  
 Government: Varies, from city states run by princes or nobles to even a republic or two.
 
-> "Those not rich, are poor." Old Aian saying (city in Milave)
+> _"Those not rich, are poor."_ – Old Aian saying (city in Milave)
 
 > How is Aian different from Qi?  
 In Qi, a city of learning, a city of government, wealth in flaunted, put on display, sometimes in gaudy fashion. Even servants of rich people in Qi dress fashionably, the location of your house in the city is very important, the closer to the Amber Pope and his machine security the more safe and more expensive, as well who do you marry. In Aian, the city of merchants, having money to make big deals is considered most important. People dress well, but fashion is not as important. Unlike most of the South of Steadfast, people in Aian don't patronize high art, preferring more popular fare. Education is not important, negotiating and making money is. Your skills are considered important. The biggest display of wealth in Aian is needing and having your own security _force_, rather than just a few bodyguards. Because Aian doesn't have a center like Qi does, where you live in Aian is secondary to how big your place is. Aian is positively small (30K residents) compared to Qi (500k residents).
@@ -146,7 +147,7 @@ Strangely there is no fractional currency: it's either a shin or credit.
 
 Shins are not particularly heavy (weighting only a gram or two) so people can carry large amounts easily as well.
 
-> "Shine" means good in Steadfast.
+> _"Shine"_ means good in Steadfast.
 
 _Typical salaries for guards and mercenaries:_
 {:.mt-5}
@@ -160,7 +161,7 @@ guard (capital city)| 10 shins/day
 captain gate guard  | 2x base pay
 mercenary           | 10 shins/day
 soldier             | 3 shins/day (~1K shins/year)
-historical roman soldier | ~900 sestacerians?
+historical roman soldier | ~900 sesterces
 caravan guard (road day trip) | 5 shins/day + food
 caravan guard (dangerous trip multiple days) | 10 shins/day + food
 captain caravan guard | 3x base pay + food
@@ -178,7 +179,7 @@ Food | Shins
 1 large blue-rat cooked with bread | 1/2 shin
 Full meal with small bottle of Wine | 1 shin
 
-> "Mineral rarity is not an issue in the Ninth World, so gems and jewels are not intrinsically valuable." – Numenara Discovery (p. 93)
+> _"Mineral rarity is not an issue in the Ninth World, so gems and jewels are not intrinsically valuable."_ – Numenara Discovery (p. 93)
 {:.mt-5}
 
 #### Guilds
@@ -245,7 +246,7 @@ The fastest and safest trade is via rivers, so the biggest towns and cities lie 
 ### The 'Weird' and Normalcy:
 {:.subtitle.is-3.mt-5} 
 
-> "If everything is weird, nothing is weird: It's normal."
+> _"If everything is weird, nothing is weird: It's normal."_
 
 How to approach the weird. I don't like how the 9th World setting is presented where the weird is presented as normal yet it somehow need to be weird too. So let's introduce the strange but familiar concept and the Lovecraftian weird.
 
@@ -319,7 +320,7 @@ Because the day is longer, it is customary in all of Steadfast to take a nap mid
 ##### The Weird
 {:.subtitle.is-5.mt-5} 
 
-> The concept of a demon—a spiritually evil entity—is a label for threats that can’t be understood. – Ninth World Bestiary 2
+> _"The concept of a demon—a spiritually evil entity—is a label for threats that can’t be understood."_ – Ninth World Bestiary 2
 
 Abhumans:  
 The boogey man is nothing compare to the frightening prospect of abhumans. While mutants are regarded with suspicion throughout Steadfast, no one would confuse a mutant for an abhuman. Abhumans are no longer human; humanoid yes, human no. Abhumans are, however, intelligent. What happened that turn them that way is the source of much speculation. It is rumored that abhumans gain their hatred of humanity, their evilness and their mutated shape, from eating each other, so cannibalism is taboo in all the nine kingdoms. When you close your eyes and think of a demonic entity, that's probably an abhuman looking back at you though the darkness. Abhumans are probably the only monster that a general resident of Steadfast would know by name. Any tracker worth his salt would be able to tell abhumans apart from their tracks alone.
@@ -359,4 +360,4 @@ References:
 [https://en.wikipedia.org/wiki/Za_(guilds)](https://en.wikipedia.org/wiki/Za_(guilds))  
 [https://www.sciencealert.com/humans-used-to-sleep-in-two-shifts-maybe-we-should-again](https://www.sciencealert.com/humans-used-to-sleep-in-two-shifts-maybe-we-should-again)  
 [https://www.bbc.com/news/magazine-16964783](https://www.bbc.com/news/magazine-16964783)  
-Rise of Rome Great Courses
+[Rise of Rome, Great Courses by Gregory Aldrete](https://www.amazon.com/gp/video/detail/B07FYW2P6Z/ref=atv_wl_hom_c_unkc_1_1)
