@@ -13,11 +13,13 @@ Learned:
 	4. Bulma's margin/padding to the top of titles is ___horrendous___. !!!!!!!
 	5. Table footers seem to display at the top...?
 2. Bulma tables look good and you can use highlights to give a better look to the header. 
-3. Hamburger menu requires a data-target which is not well documented in the Bulma examples. Look good and simple to make. 
+3. Hamburger menu requires a data-target which is not well documented in the Bulma examples. Looks good and simple to make. 
 4. Learned how to add classes to elements in Kramdown. `{:.class-name}`
 
 Exploring 
 Bulma's spacing helpers. 
+Jekyll site-url with github
+How to get Jekyll to process html files?
 
 ## Conclussion 
 
