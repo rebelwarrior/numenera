@@ -64,6 +64,13 @@ Your Type and/or your Focus may give you skills from a list to choose from too, 
 
 Now you and your Game Master (GM) will select what starting equipment you have. Remember that descriptors and foci can give extra equipment. Pay special attention to the cyphers. 
 
+Armor reduces the damage you recieve.  
+Wearing Armor has penalties, however. Armor works like a reverse Edge for Speed Rolls, it increases the cost of Effort (per level) applied to Speed rolls. Many types have abilities that reduce the cost of wearing armor. 
+
+A Shield gives an asset (equivalent to a +3 advantage) to Speed Defense rolls. That is the roll to avoid getting hit. 
+
+Light weapons deal only 2 points of damage but also eases the attack roll by one step (equivalent to a +3 to hit advantage).
+
 #### 7. The Rest
 {:.subtitle.is-4.mt-4} 
 
