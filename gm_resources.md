@@ -39,7 +39,7 @@ layout: posts
 
 1. __7 Types of  NPCs__ [youtube video by Guy Sclanders](https://youtu.be/PDwOlY4ot8s)
 
-2. Ginny D's [50 Questions]() to Flesh out PCs.
+2. Ginny D's [50 Questions](50-questions) to Flesh out PCs.
 
 ## Keys 
 {:.title.is-3} 
