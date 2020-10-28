@@ -3,7 +3,7 @@
 This is a Jekyll Website personal project to learn [Bulma CSS framework](https://bulma.io/) and play with CSVs in Jekyll.
 
 Content from Numenera Core Books © Monte Cook Games
-Original Content  and Code © David Acevedo 
+Original Content and Code © David Acevedo 
 
 Learned:
 1. Bulma doesn't work well with markdown
@@ -16,10 +16,10 @@ Learned:
 3. Hamburger menu requires a data-target which is not well documented in the Bulma examples. Looks good and simple to make. 
 4. Learned how to add classes to elements in Kramdown. `{:.class-name}`
 
-Exploring 
-Bulma's spacing helpers. 
-Jekyll site-url with github
-How to get Jekyll to process html files?
+Exploring:
+Bulma's spacing helpers: pretty cool 
+Jekyll site-url with github: set `url` on the _config.yml to the github produced url. 
+
 
 ## Conclussion 
 
