@@ -9,7 +9,7 @@ layout: posts
 ### Steps:
 {:.subtitle.is-3} 
 
-Grab the [Character Sheet](/assets/pdfs/CharacterSheet.pdf)
+Grab the [Character Sheet]({{ site.url}}/assets/pdfs/CharacterSheet.pdf)
 
 #### 1. Choose Type (1/6)
 {:.subtitle.is-4.mt-4} 
@@ -21,7 +21,7 @@ Grab the [Character Sheet](/assets/pdfs/CharacterSheet.pdf)
 5. Wright (_Crafters_)
 6. Delve  (_Explorers_)
 
-Go to the [Starting Values Table](/tables/starting_values) and put them on your character sheet. 
+Go to the [Starting Values Table]({{ site.url}}/tables/starting_values) and put them on your character sheet. 
 
 
 #### 2. Chose Descriptor (1/47)
@@ -40,7 +40,7 @@ Read those and choose one.
 
 Foci are like super-powers or feats of ability your character can do. They can be used to enhance to your tier abilities, like a jack that works the back alleys is a thief, but they don't always have to. 
 
-Look at teh [Foci Table](/tables/foci) which has comic book and movie references and fantasy class hints to help you choose. 
+Look at teh [Foci Table]({{ site.url}}/tables/foci) which has comic book and movie references and fantasy class hints to help you choose. 
 
 <br>
 For example: Do you want to play a character like Super Mario? 
@@ -49,7 +49,7 @@ Check out "Breaks down walls"
 #### 4. Choose Two Type Abilities (2/5 - 2/9)
 {:.subtitle.is-4.mt-4} 
 
-Your Type has at least a five options for you to __choose 2 tier abilities__ corresponding to your type at tier one. Pick these after your focus since you'll want them to compliment each other. See the [Tier Abilities Table](/tables/tier_abilities.md)
+Your Type has at least a five options for you to __choose 2 tier abilities__ corresponding to your type at tier one. Pick these after your focus since you'll want them to compliment each other. See the [Tier Abilities Table]({{ site.url}}/tables/tier_abilities.md)
 
 
 #### 5. Resolve Skills Choices (from Type or Focus).
@@ -91,4 +91,4 @@ Pick your Background and the answer to the question:  `Why does your character a
 
 If you wanna deep dive [Ginny Di](https://youtu.be/OCrCrn2vuAc) has a list of 50 questions you can answer. 
 
-[The 50 Questions](50-questions)
+[The 50 Questions]({{ site.url}}/50-questions)
