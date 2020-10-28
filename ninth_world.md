@@ -30,8 +30,10 @@ As befits a feudal society, __power in Steadfast is tied to land.__ Land control
 
 _Listings of the Kingdoms include information that a person with knowledge of the land would have, or at least have and idea. Not everyone would have all the information, but the information isn't secret to the people of that Kingdom. However, someone who isn't from that land, or had not visited, would not know it._
 
-1) Navarene: (A Quasi-Medival Victorian England)  
+
+1) Navarene: (_A Quasi-Medival Victorian England_)  
 {:.subtitle.is-5.mt-5} 
+
 Exports: Wood, paper and food.  
 Imports: Numenera (they're rare in Navarene)  
 Known for: Rich wood merchants and red wood. Proper Nobles. A long-living and strict but fair queen.  
@@ -41,7 +43,7 @@ Government: Stable Feudal Monarchy with Landed Gentry
 
 > "Rich like a Navarene merchant." old saying, meaning content, but usually used sarcastically to mean someone with no money and lots of troubles. Nobles, particularly Navarene nobles, who are constantly pestered by rich merchants into marrying into the noblesse, use it to mean someone who doesn't know their place in society.
 
-2) Ghan: (Switzerland)  
+2) Ghan: (_Switzerland_)  
 {:.subtitle.is-5.mt-5} 
 Exports: Aneen (bipedal camels) as pack-animals, Gallen hides (cattle hides), some Azure Steel, and Ships.  
 Trades: Spices (clandestinely from the out-lands of the North) and Wool.  
@@ -52,7 +54,7 @@ Government: Stable Monarchy with almost no gentry.
 
 > _"Half of Qi is the sky."_ – A common Draolis saying.
 
-3) Draolis: (Magical Venice)  
+3) Draolis: (_Magical Venice_)  
 {:.subtitle.is-5.mt-5} 
 Imports: float-stones, foodstuff  
 Exports: Cattle (Kordech shiul), luxury goods like Wind-riders gliders
@@ -64,7 +66,7 @@ Government: Plutocracy (ruled by rich merchants)
 
 > _"Ghan has the fleet, but Draolis owns the merchant ships."_ - Common Draolis Merchant saying.
 
-4) Thaemor: (formerly Thaemoor, an unhistorical Moorish Kingdom)  
+4) Thaemor: (_formerly Thaemoor, an unhistorical Moorish Kingdom_)  
 {:.subtitle.is-5.mt-5} 
 Exports: Next to nothing. Some metals and few Numenera.  
 Imports: Very little.  
@@ -73,7 +75,7 @@ Once a coveted piece of land between three neighboring kingdoms now it is a sad 
 Secret: Thaemor, formerly Thaemoor, was a marsh that suddenly dried out _by raising itself_ about 300 years ago.  
 Government: Unstable Tyranny with Gentry. Taxes are high.
 
-5) Malevich: (Transylvania)  
+5) Malevich: (_Transylvania_)  
 {:.subtitle.is-5.mt-5} 
 Exports: Numenara (which are found in the chasm) and strange oddities from Yerth.  
 Imports: Foodstuff and anything else it can.  
@@ -82,7 +84,7 @@ Bordered to the south by the Voil Chasm (or the Earthwound as some call it) and 
 Secret: Yerth has opened a portal to another dimension.  
 Government: Ostensibly a Monarchy, but in reality it's more of a collection of independent vassal states.
 
-6) Pytharon Emprire: (Russia, Parthian Empire)  
+6) Pytharon Emprire: (_Russia, Parthian Empire_)  
 {:.subtitle.is-5.mt-5} 
 Exports: Grains (wheat and corn), Marble, Alcohol  
 Imports: Azure Steel, Spices, Wood, Paper  
@@ -93,7 +95,7 @@ Government: Monarchy (formerly empire with provinces and governors)
 
 > _"Those not rich, are poor."_ – Old Aian saying (city in Milave)
 
-7) Milave: (Italy)  
+7) Milave: (_Italy_)  
 {:.subtitle.is-5.mt-5} 
 Exports: Ganch (weed), float-stones, assorted foodstuff and art.  
 Known for: Extremes, the arts, Aian "city of merchants", and Family mansions.  
@@ -104,7 +106,7 @@ Government: Varies, from city states run by princes or nobles to even a republic
 > _How is Aian different from Qi?_  
 In Qi, a city of learning, a city of government, wealth is flaunted, put on display, sometimes in gaudy fashion. Even servants of rich people in Qi dress fashionably, the location of your house in the city is very important, the closer to the Amber Pope and his machine security the more safe and more expensive. In Aian, the city of merchants, having money to make big deals is considered most important. People dress well, but fashion is not as important. Unlike most of the South of Steadfast, people in Aian don't patronize high art, preferring more popular fare. Education is not important, negotiating and making money is. Your skills are considered important. The biggest display of wealth in Aian is needing and having your own security _force_, rather than just a few bodyguards. Because Aian doesn't have a center like Qi does, where you live in Aian is secondary to how big your place is. Aian is also positively small (30K residents) compared to Qi (500k residents).
 
-8) Ancuan: (Pirates and Ruins)  
+8) Ancuan: (_Pirates and Ruins_)  
 {:.subtitle.is-5.mt-5} 
 Exports: Yellow wool, Arron "sugar", salt and Numenera (from Red Fleet's explorations and ruins)  
 Imports: Red Wood (for masts), Paper, Dynafel Cotton, Processed Metals  
@@ -113,7 +115,7 @@ Ancuan people have been independent and self-reliant since they were the furthes
 Secret: There is a town with a hidden side, a hidden Rarrow.  
 Government: Weak Monarchy.
 
-9) Iscobal: (Fantasy France)   
+9) Iscobal: (_Fantasy France_)   
 {:.subtitle.is-5.mt-5}   
 Exports: Dynafel Cotton, Orange Billiam fruit, pressed-flowers (for cooking),  Wild Game  
 Imports: Numenera (especially those that have to do with dreams)   
@@ -149,8 +151,8 @@ Shins are not particularly heavy (weighting only a gram or two) so people can ca
 
 > _"Shine"_ means good in Steadfast.
 
-_Typical salaries for guards and mercenaries:_
-{:.mt-5}
+<!-- _Typical salaries for guards and mercenaries:_
+{:.mt-5} -->
 
 Job | Shins
 :--- | :---
@@ -171,6 +173,7 @@ day labor agricultural | 1 shin/day  + food (credit)
 day labor building (city) | 1 shin/day (cash)
 carpenter/mason/journeyman | 3 shin/day
 master carpenter/mason/craft-person | 6 shin/day
+{:.card.is-pulled-right.mx-2.table.is-hoverable.is-bordered.ml-4}
 
 Food | Shins
 :--- | :---
@@ -178,6 +181,8 @@ Food | Shins
 1 medium fungi-boar on a pike | 20 shin
 1 large blue-rat cooked with bread | 1/2 shin
 Full meal with small bottle of Wine | 1 shin
+{:.table.is-hoverable.is-bordered.ml-4}
+
 
 > _"Mineral rarity is not an issue in the Ninth World, so gems and jewels are not intrinsically valuable."_ – Numenara Discovery (p. 93)
 {:.mt-5}
@@ -243,7 +248,7 @@ Science is way more advanced in Steadfast than it ever was in the medieval world
 {:.subtitle.is-4.mt-4} 
 The fastest and safest trade is via rivers, so the biggest towns and cities lie close to rivers, especially deep navigable rivers. Mercers (traders) maintain trade routes between all the kingdom and major cities in Steadfast and some even beyond. Because travel is expensive and dangerous, this trade takes place in organized caravans, that hire protection for the trip. Unless it's a day trip, traders do not set out on their own.
 
-### The 'Weird' and Normalcy:
+### The _'Weird'_ and Normalcy:
 {:.subtitle.is-3.mt-5} 
 
 > _"If everything is weird, nothing is weird: It's normal."_
@@ -274,7 +279,7 @@ Black Vesa Birds (p. 140) | | | Crows??
 Espron (p. 179) | Ridable Antelopes with 4 horns and 2 sets of ears. || Rideable Reindeer
 Terror Bird (p. 156, Bestiary p. 124)   ||| Prehistoric Murder Chocobo
 Slicer Beetle (p. 156, Bestiary p. 117) ||| 
-
+{:.table.is-fullwidth.is-hoverable.is-bordered}
 
 Plants in Steadfast | Notes
 :--- | ---
@@ -282,6 +287,7 @@ Ganch (weed) | Weed
 Cotton, Beans, Corn | -
 Orange Billam fuit | Oranges
 Arror (p. 160) | Sweet grain (Jakary? Sugar)
+{:.table.is-hoverable.is-bordered}
 
 ~Plastic, Metal and synthetic fibers are very common in the 9th world, but unlike our world these materials aren't exactly industrially made. There are multiple plants that produce synthetic and colorful fibers and colors. Synth-steel can be found in the ruins of old tech. 
 {:.mt-3} 
@@ -322,14 +328,6 @@ Because the day is longer, it is customary in all of Steadfast to take a nap mid
 
 > _"The concept of a demon—a spiritually evil entity—is a label for threats that can’t be understood."_ – Ninth World Bestiary 2
 
-Abhumans:  
-The boogey man is nothing compare to the frightening prospect of abhumans. While mutants are regarded with suspicion throughout Steadfast, no one would confuse a mutant for an abhuman. Abhumans are no longer human; humanoid yes, human no. Abhumans are, however, intelligent. What happened that turn them that way is the source of much speculation. It is rumored that abhumans gain their hatred of humanity, their evilness and their mutated shape, from eating each other, so cannibalism is taboo in all the nine kingdoms. When you close your eyes and think of a demonic entity, that's probably an abhuman looking back at you though the darkness. Abhumans are probably the only monster that a general resident of Steadfast would know by name. Any tracker worth his salt would be able to tell abhumans apart from their tracks alone.
-
-If abhumans are the more familiar kind of monster in the Ninth World, the rest defy reason for most inhabitants.
-
-_Abhumans (p. 13) can be used sort of like goblinoids in a fantasy setting. They are intelligent, use tactics, and tend to attack in groups._
-{:.mt-4.mb-3}
-
 Fantasy monster | Abhuman | notes
 :--- | :--- | :---
 Lizard-folk | Chirog, _p. 229_ | Red Lizard-folk
@@ -342,6 +340,16 @@ Toad-creatures Koatoah? | Yovok, _p. 261_ | Toad-face Humanoids
  - | Raheunum | Underground Humanoids
  - | Rorathik | Blue Predator Assasins
  Dustmen/Ghoul | Syzygy Ghoul | Collect and Eat the dead
+{:.card.is-pulled-right.mx-2.table.is-hoverable}
+
+__Abhumans:__    
+The boogey man is nothing compare to the frightening prospect of abhumans. While mutants are regarded with suspicion throughout Steadfast, no one would confuse a mutant for an abhuman. Abhumans are no longer human; humanoid yes, human no. Abhumans are, however, intelligent. What happened that turn them that way is the source of much speculation. It is rumored that abhumans gain their hatred of humanity, their evilness and their mutated shape, from eating each other, so cannibalism is taboo in all the nine kingdoms. When you close your eyes and think of a demonic entity, that's probably an abhuman looking back at you though the darkness. Abhumans are probably the only monster that a general resident of Steadfast would know by name. Any tracker worth his salt would be able to tell abhumans apart from their tracks alone.
+
+If abhumans are the more familiar kind of monster in the Ninth World, the rest defy reason for most inhabitants.
+
+_Abhumans (p. 13) can be used sort of like goblinoids in a fantasy setting. They are intelligent, use tactics, and tend to attack in groups._
+{:.mt-4.mb-3}
+
 
 #### Ways into Numenera
 {:.subtitle.is-4.mt-5} 

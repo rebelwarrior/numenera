@@ -23,3 +23,4 @@ layout: default
     {% endfor %}
   </table>
 </div>
+<br>

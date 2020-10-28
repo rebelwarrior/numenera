@@ -26,3 +26,4 @@ layout: default
 		</tfoot>
   </table>
 </div>
+<br>

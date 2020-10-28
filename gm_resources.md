@@ -42,6 +42,7 @@ layout: posts
 2. Ginny D's [50 Questions]({{ site.url}}/50-questions) to Flesh out PCs.
 
 ## Other Resources:
+{:.title.is-3} 
 
 1. [Consent in RPG Check List](https://www.montecookgames.com/consent-in-gaming/) 
 
