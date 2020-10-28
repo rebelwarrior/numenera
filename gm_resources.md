@@ -43,7 +43,7 @@ layout: posts
 
 ## Other Resources:
 
-1. [Consent in RPG Check List]() 
+1. [Consent in RPG Check List](https://www.montecookgames.com/consent-in-gaming/) 
 
 ### Keys 
 {:.title.is-4} 
