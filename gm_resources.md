@@ -33,7 +33,9 @@ layout: posts
 1. [Prepless GM By Paul Camp.](https://www.drivethrurpg.com/product/304745/The-Prepless-GM)
 2. [The Monsters Know What they're Doing: Combat Tactics for Dungeon Masters (1) by Keith Ammann](https://www.themonstersknow.com/)
 3. [Weird Discoveries](https://www.drivethrurpg.com/product/148098/Weird-Discoveries-Ten-Instant-Adventures-for-Numenera) (The cheat sheet is cool too.) also possibly Explorer's Keys and Strange Revelations.
+4. [Your Best Game Ever]() I haven't read it yet but seems to have some good info. 
 {:.ml-6}
+
 
 ## Best Videos
 {:.title.is-3} 
