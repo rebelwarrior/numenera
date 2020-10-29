@@ -9,7 +9,7 @@ layout: posts
 ### Steps:
 {:.subtitle.is-3} 
 
-Grab the [Character Sheet]({{ site.url}}/assets/pdfs/CharacterSheet.pdf)
+Grab the [Character Sheet]({{ site.url }}/assets/pdfs/CharacterSheet.pdf)
 
 #### 1. Choose Type (1/6)
 {:.subtitle.is-4.mt-4} 
@@ -24,9 +24,9 @@ Grab the [Character Sheet]({{ site.url}}/assets/pdfs/CharacterSheet.pdf)
 
 In the original Numenera only three types were available (Glaive, Nano and Jack) and I suggest you stick to those when starting out. Unlike other systems, in Numeneara it is the combination of your type, descriptor and focus that really define your character, so your type is only about one third of your character.
 
-Characters can be devided into multiple archetypes: Your best game divides them into 8 archetypes and The Monsters really know what they're doing into 4 battle archetypes. But the way Numenera deals with the descriptor type and focus allows you to mix and match more easily. So don't worry too much about that. 
+Characters can be devided into multiple archetypes: Your best game divides them into 8 archetypes and Live to Tell the Tale into 6 ability contour archetypes. But the way Numenera deals with the descriptor type and focus allows you to mix and match more easily. So don't worry too much about that. If you want to learn more see [archetypes]({{ site.url }}/archetypes)
 
-Go to the [Starting Values Table]({{ site.url}}/tables/starting_values) and put them on your character sheet. 
+Go to the [Starting Values Table]({{ site.url }}/tables/starting_values) and put them on your character sheet. 
 
 
 #### 2. Chose Descriptor (1/47)
