@@ -20,6 +20,7 @@ Grab the [Character Sheet]({{ site.url}}/assets/pdfs/CharacterSheet.pdf)
 4. Arkus  (_Speakers_)
 5. Wright (_Crafters_)
 6. Delve  (_Explorers_)
+{:.ml-6}
 
 Go to the [Starting Values Table]({{ site.url}}/tables/starting_values) and put them on your character sheet. 
 

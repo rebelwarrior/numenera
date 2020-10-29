@@ -59,3 +59,4 @@ _by Ginny Di see: [Ginny Di's youtube](http://youtube.com/ginnydi) or [her websi
 1.   Are you susceptible to peer pressure?
 1.   If you decided to stop adventuring and settle down, what kind of job would you take?
 1.   As a kid, what did you want to be when you grew up?
+{:.ml-6}

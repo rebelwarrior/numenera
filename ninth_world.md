@@ -130,6 +130,7 @@ Borders:
 What people know: An inhospitable frozen desert that ends in an impassible barrier of ice.
 2. Cloudcrystal Skyfields
 What people know: A crystal strewn desert, where nothing grows, and crystal float above. Gaians are said to live beyond that in the out-lands.
+{:.ml-6}
 
 
 ### Languages:
@@ -358,6 +359,7 @@ In Numenera Discovery the present four ways of using the Ninth World:
 2. Quasi-Medieval Fantasy Setting
 3. Weird Horror Setting
 4. Hopeful New World Setting.
+{:.ml-6}
 
 This work stresses the Quasi-Medieval Fantasy Setting and the "discovery" portion of a Hopeful New World setting, it downplays the post-apocalyptic flavor leaving that for areas beyond Steadfast and preserves the horror for the weird in-betweens the normalcy of Steadfast, were it can truly frighten.
 

@@ -27,3 +27,16 @@ blockquote p {
 }
 
 /* Animation */
+
+.with-background:before {
+  background: linear-gradient(to bottom, rgba(255,255,255,0.9), rgba(255,255,255,0.5)),
+              url(../../assets/images/Numenera_Pyramid_sm.jpg);
+  content: "";
+  background-size: cover;
+  position: absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+  z-index: -1;
+};
