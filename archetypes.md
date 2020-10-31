@@ -39,7 +39,7 @@ Live to Tell the Tale presents 6 ability contours for a D&D-type game based on t
 ## My Take on Archetypes 
 {:.subtitle.is-3} 
 
-I like to sum this up into 4 battle archetypes:
+Based rather heavily on Keith Ammann work I like to sum this up into 4 battle archetypes:
 
 1. Front-line : Tank, Warrior
 2. Second-line : Armored Supporter, Skirmisher
@@ -65,4 +65,4 @@ These make more sense but none quite map to Numenera because:
 {:.subtitle.is-3} 
 
 The value of looking at the archetype lies in __giving a group variety__, preventing characters from filling the same role in the group and clashing. By looking at archetypes you can find or carve __a niche for your character__ from the get go. 
-
+<br>
