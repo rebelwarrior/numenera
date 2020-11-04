@@ -24,8 +24,10 @@ Grab the [Character Sheet]({{ site.url }}/assets/pdfs/CharacterSheet.pdf)
 
 In the original Numenera only three types were available (Glaive, Nano and Jack) and I suggest you stick to those when starting out. Unlike other systems, in Numeneara it is the combination of your type, descriptor and focus that really define your character, so your type is only about one third of your character.
 
+<br>
 Characters can be devided into multiple archetypes: Your best game divides them into 8 archetypes and Live to Tell the Tale into 6 ability contour archetypes. But the way Numenera deals with the descriptor type and focus allows you to mix and match more easily. So don't worry too much about that. If you want to learn more see [archetypes]({{ site.url }}/archetypes)
 
+<br>
 Go to the [Starting Values Table]({{ site.url }}/tables/starting_values) and put them on your character sheet. 
 
 
