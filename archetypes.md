@@ -21,7 +21,7 @@ Your Best Game Ever talks about a generalist archetype or a focused character an
 8. Supporter : aids usually by healing
 {:.ml-6}
 
-These are far to many in my opinion. 
+These are far too many in my opinion. 
 
 ## Live to Tell the Tale by Keith Ammann
 {:.subtitle.is-3} 
@@ -39,30 +39,31 @@ Live to Tell the Tale presents 6 ability contours for a D&D-type game based on t
 ## My Take on Archetypes 
 {:.subtitle.is-3} 
 
-Based rather heavily on Keith Ammann work I like to sum this up into 4 battle archetypes:
+Based rather heavily on Keith Ammann work, I like to sum this up into 4 battle archetypes:
 
 1. Front-line : Tank, Warrior
 2. Second-line : Armored Supporter, Skirmisher
 3. Third-line : Marksman, Shock Attacker(Sneak Attacker)
-4. Protected : Glass Cannon 
+4. Protected/Strategist : Glass Cannon 
 {:.ml-6}
 
 1. Front-line => Melee Fighter, goes toe-to-toe with the enemies
 2. Second-line => Armored Aid, can take a hit but supports or can attack from the second row, either ranged or with a polearm. 
 3. Third-line => Not very armored, can attack from afar or needs to move in and out of the front row like a sneak attacker.
-4. Protected => Unable to fight melee effectively, either aids from afar or attacks from afar. 
+4. Protected/Strategist => Unable to fight melee effectively, either aids from afar or attacks from afar. 
 {:.ml-6}
 
 These make more sense but none quite map to Numenera because:
 
 1. Any character can wear armor. The penalty for wearing armor is not being able to avoid getting hit as easily. So if you're good at avoiding getting hit like a Striker, you may not even need armor or a Tank character. You can also quickly get armor or loose it as the group make-up changes. There is flexibility in armor. 
 2. Damage can be on any one of the pools exclusively. This prevents the whole hit-points being one single pool. 
-3. No character single type has a monopoly on massive damage capabilities like a Wizard in D&D does. 
+3. No character's single type has a monopoly on massive damage capabilities like a Wizard in D&D does. 
 4. Only three abilty scores as opposed to six in other RPGs. 
+5. The importance of non-combat roles in Numenera is larger than in other RPGs.  
 {:.ml-6}
 
 ## Conclusion
 {:.subtitle.is-3} 
 
-The value of looking at the archetype lies in __giving a group variety__, preventing characters from filling the same role in the group and clashing. By looking at archetypes you can find or carve __a niche for your character__ from the get go. 
+The value of looking at the archetype in Numenera lies in __giving a group variety__, preventing characters from filling the same role in the group and clashing. By looking at archetypes you can find or carve __a niche for your character__ from the get go. 
 <br>
