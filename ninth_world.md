@@ -23,7 +23,7 @@ Almost all settlements are walled, and the rest are fenced. While most inhabited
 
 ## The Nine Kingdoms
 {:.title.is-3.mt-5} 
-As befits a feudal society, __power in Steadfast is tied to land.__ Land controls the production of food and resources and thus money as well. However, all out war or land grabs are rare in Steadfast. The Amber papacy actively works to avoid war; and the resources needed to wage all-out war, would leave any kingdom involved vulnerable to the rest. Skirmishes, where one group of warriors fight to reduce the forces of the other, are, however, common along the borders. Since only about 10% of the population are warriors, aristocrats or clergy, the vast majority of the population aren't too concerned with skirmishes as they rarely touches them. Far more worrisome to a normal steadfast resident are the wilds. Outside settlements and the fields attached to them, there are large areas of wilderness, where numenera, treasure and the truly weird can be found. Most residents live in fear of these areas and those that don't, are at the very least are weary of them.  
+As befits a feudal society, __power in Steadfast is tied to land.__ Land controls the production of food and resources and thus money as well. However, all out war or land grabs are rare in Steadfast. The Amber papacy actively works to avoid war; and the resources needed to wage all-out war, would leave any kingdom involved vulnerable to the rest. Skirmishes, where one group of warriors fight to reduce the forces of the other, are, however, common along the borders. Since only about 10% of the population are warriors, aristocrats or clergy, the vast majority of the population aren't too concerned with skirmishes as they rarely touches them. Far more worrisome to a normal steadfast resident are the wilds. Outside the settlements and the fields attached to them, there are large areas of wilderness, where numenera, treasure and the truly weird can be found. Most residents live in fear of these areas and those that don't, are at the very least are weary of them.  
 
 ### The Feel of the Nine Kingdoms:  
 {:.subtitle.is-3.mt-5} 
@@ -37,11 +37,11 @@ _Listings of the Kingdoms include information that a person with knowledge of th
 Exports: Wood, paper and food.  
 Imports: Numenera (they're rare in Navarene)  
 Known for: Rich wood merchants and red wood. Proper Nobles. A long-living and strict but fair queen.  
-Navarene is a powerhouse wood producer. The Westwood is both a source of wealth, mystery and danger for the country. In addition to that, Navarene is a mayor agricultural exporter and probably the current bread-basket of Steadfast. The Queen is considered fair (if a bit paranoid sometimes) so this is the kingdom where there is least likely to be undue trouble with the law. Corruption in government is unheard of here. Steadfast's main paper production also happens here. The Amber Monolith is located here as well. The reason that the rest of Steadfast makes fun of Navarene rich merchants is not because they're the richest but because the government is so stable, they are the most comfortable and worry-free. Nobles in Navarene are always concerned, it seems, with propriety and how the Queen regards them and lately rich merchants as well.   
+Navarene is a powerhouse wood producer. The Westwood is both a source of wealth, mystery and danger for the country. In addition to that, Navarene is a mayor agricultural exporter and probably the current bread-basket of Steadfast. The Queen is considered fair (if a bit paranoid sometimes) so this is the kingdom where there is least likely to be undue trouble with the law. Corruption in government is unheard of here. Steadfast's main paper production also happens here. The Amber Monolith is located here as well. The reason that the rest of Steadfast makes fun of Navarene rich merchants is not because they're the richest but because the government is so stable, they are the most comfortable and worry-free. Nobles in Navarene seem to be always concerned with propriety and proper behavior. How the Queen regards them is of extreme importance to nobles and lately rich merchants as well.   
 Secret: The reason Navarene is a powerhouse producer is "industrial" automation using old-machines.  
 Government: Stable Feudal Monarchy with Landed Gentry
 
-> "Rich like a Navarene merchant." old saying, meaning content, but usually used sarcastically to mean someone with no money and lots of troubles. Nobles, particularly Navarene nobles, who are constantly pestered by rich merchants into marrying into the noblesse, use it to mean someone who doesn't know their place in society.
+> "Rich like a Navarene merchant." old saying, meaning content, but usually used sarcastically to mean someone with no money and lots of troubles. Nobles, particularly Navarene nobles, who are constantly pestered by rich merchants into marrying into the noblesse, and thus use the saying to mean someone who doesn't know their place in society.
 
 2) Ghan: (_Switzerland_)  
 {:.subtitle.is-5.mt-5} 
@@ -77,7 +77,7 @@ Government: Unstable Tyranny with Gentry. Taxes are high.
 
 5) Malevich: (_Transylvania_)  
 {:.subtitle.is-5.mt-5} 
-Exports: Numenara (which are found in the chasm) and strange oddities from Yerth.  
+Exports: Numenera (which are found in the chasm) and strange oddities from Yerth.  
 Imports: Foodstuff and anything else it can.  
 Known for: Towns that closed to all outsiders, armored carriages, abhumans, bandits, tarrota, and the Voil chasm.  
 Bordered to the south by the Voil Chasm (or the Earthwound as some call it) and to the north by the Thaermor, Malevich was a backwaters land mired in internal civil wars and dreams of conquest. Once a rich land, it is now in ruins. The wealth of the place is concentrated around the few aristocrats and everyone else lives in dire poverty. The aristocrats here can be ___quite depraved___ and the populace poor and superstitious.  
@@ -144,7 +144,7 @@ Shin-talk, is older than true-lang. It's a merchant talk, it has few words and s
 
 #### Coins (_Shins_)
 {:.subtitle.is-4} 
-Coinage is called 'shins' everywhere in Steadfast. They are uncommon. Most of the economy works on barter. Typically people in a town (or aldeia) will use a split stick to keep track of loans or debts and of taxes. These can be paid with produce instead of coinage. Merchants, guards, mercenaries and aristocrats deal in shins. Shins are made of a strange material called iotium: 100 shins can usually be transformed to 1 gram of iotium. Shins come in different shapes, some have stamped visages from one of the nine kingdoms, but most don't. It's not clear what iotium is, but it's necessary for crafting or repairing numenara. Iotium is inert in its normal form. Artifacts made from iotium exist, usually called Io-tum (Ioti for plural) and are super expensive and not inert at all.
+Coinage is called 'shins' everywhere in Steadfast. They are uncommon. Most of the economy works on barter. Typically people in a town (or aldeia) will use a split stick to keep track of loans or debts and of taxes. These can be paid with produce instead of coinage. Merchants, guards, mercenaries and aristocrats deal in shins. Shins are made of a strange material called iotium: 100 shins can usually be transformed to 1 gram of iotium. Shins come in different shapes, some have stamped visages from one of the nine kingdoms, but most don't. It's not clear what iotium is, but it's necessary for crafting or repairing numenera. Iotium is inert in its normal form. Artifacts made from iotium exist, usually called Io-tum (Ioti for plural) and are super expensive and not inert at all.
 
 Strangely there is no fractional currency: it's either a shin or credit.
 
@@ -164,7 +164,7 @@ guard (capital city)| 10 shins/day
 captain gate guard  | 2x base pay
 mercenary           | 10 shins/day
 soldier             | 3 shins/day (~1K shins/year)
-historical roman soldier | ~900 sesterces
+historical roman soldier | ~900 sesterces/year
 caravan guard (road day trip) | 5 shins/day + food
 caravan guard (dangerous trip multiple days) | 10 shins/day + food
 captain caravan guard | 3x base pay + food
@@ -178,7 +178,7 @@ master carpenter/mason/craft-person | 6 shin/day
 
 Food | Shins
 :--- | :---
-1 swamp-chicken (egg-laying) | 1 shin
+1 small swamp-chicken (egg-laying) | 1 shin
 1 medium fungi-boar on a pike | 20 shin
 1 large blue-rat cooked with bread | 1/2 shin
 Full meal with small bottle of Wine | 1 shin
@@ -194,9 +194,9 @@ Guilds control the trades in pretty much all cities in Steadfast. There is an "a
 
 To start in a guild you become an __apprentice__ to a master who teaches you (and uses you as essentially slave labor) then you get the rank of __journeyman__ (or journey-woman) which lets you work for anyone anywhere the guild is recognized and then after some years and producing an approved 'masterpiece' (and a donation to the guild) you move to the rank of __master__ and can have apprentices of your own.  
 
-Known guilds: _Shipbuilders, Wainwrights (wheel and carriage makers), Cobblers (shoe makers), Coopers (barrel makers), Traders, Carpenters, Masons, Tailors, Smiths, Jewelers, Bricklayers, Borderer (embroider), Soap-makers, Tanners, Bakers, Saddle-makers, Butchers, Mercers (General Traders, a rather risky trade), Upholsters, Thatchers (roof makers), and Cheese makers._  
+Known guilds: _Shipbuilders, Wainwrights (wheel and carriage makers), Cobblers (shoe makers), Coopers (barrel makers), Traders, Carpenters, Masons, Tailors, Smiths, Bricklayers, Borderer (embroider), Soap-makers, Tanners, Bakers, Saddle-makers, Butchers, Mercers (General Traders, a rather risky trade), Adventures/Delvers, Upholsters, Thatchers (roof makers), and Cheese makers._  
 
-Guilds that don't exist: _Chandlers (candle makers, because there are numenera that produce light rather commonly), Farriers (horse shoe makers, there are no horses), Money-changers (shins don't need to be changed), Cutlers (Knife maker and sharpener, exist but aren't part of a guild.)_  
+Guilds that don't exist: _Chandlers (candle makers, because there are numenera that produce light rather commonly), Jewelers (jewels aren't particularly valuable in Steadfast, people work them but there is no guild), Farriers (horse shoe makers, there are no horses), Money-changers (shins don't need to be changed), Cutlers (Knife maker and sharpener, exist but aren't part of a guild.)_  
 
 Healers (a.k.a. Chiurgeons):  
 Healers are bio-mechanical experts. They're a cross of a Herbal medicine (focused on the proper plants and herbs to eat), a mechanic and a cybernetic doctor. They know how to activate the nanites for healing and how to set and fix bones. Healers have ranks and specialties, but they don't seem to be regulated by a normal guild.
@@ -212,7 +212,7 @@ Scriveners are controlled exclusively by the Aeon priests.
 
 #### Inns and places to sleep.
 {:.subtitle.is-4.mt-5} 
-There are two types of places to stay in a town: Ale-houses and Inns. Inns are nice places to stay with separate rooms and even occasionally servants, they are reserved for rich merchants, government officials, and aristocrats. Inns don't have a kitchen for guests and don't serve food. Ale-houses are sort of the opposite, they serve food, but mostly alcohol, and have a place for drunks or poor travelers to "crash" upstairs. They don't usually have beds, and you sort of have to watch your belongings while you sleep. Adventuring guilds have similar places to "crash" but they _do_ hold possessions for members so you don't have to worry about them walking away while you sleep. People in towns commonly rent rooms (and provide board) to journeymen and women who travel for a season, but those usually require a letter of presentation.
+There are two types of places to stay in a town: Ale-houses and Inns. Inns are nice places to stay with separate rooms and even occasionally servants, they are reserved for rich merchants, government officials, and aristocrats. Inns don't have a kitchen for guests and don't serve food. Ale-houses are sort of the opposite, they serve food, but mostly alcohol, and have a place for drunks or poor travelers to "crash" upstairs. They don't usually have beds, and you sort of have to watch your belongings while you sleep. Adventuring guilds (also called Delver's guilds) have similar places to "crash" but they _do_ hold possessions for members so you don't have to worry about them walking away while you sleep. People in towns commonly rent rooms (and provide board) to journeymen and women who travel for a season, but those usually require a letter of presentation.
 
 ### Society and Culture
 {:.subtitle.is-3.mt-5} 
@@ -224,6 +224,8 @@ The game of "ball" is played throughout Steadfast. It is like soccer except it's
 In Malevich, they play a card "game" called tarrota; and it's said those with the glimmer can predict the future with them. A simplified version of the game is played throughout Steadfast as well.
 
 Four Dimensions is a game that's a mix of mahjong, chess and go, played with magnetic tiles and metal figurines. Each tile is held like in mahjong, secret to each player then played as a tile on the board with or without a figurine on top. The tiles being magnetic they can be placed vertical to the game board and can end up forming a cube with two sides open. On your turn you either place a tile or move one of your figurines among the already placed tiles. The game is viscerally hard and a board with pieces is essentially an artifact. Most people play the simplified version with non-magnetic tiles in only one dimension.  
+
+Betting happens in all games throughout Steadfast, but because most don't carry large amounts of coin, betting is usually a low key affair, trading chores or livestock. However, having animals race or fight each other is the favorite betting sort of activity, and shins are usually required to participate. Though this kind of betting is rare in Steadfast happening only in large cities.
 
 #### Working the fields
 {:.subtitle.is-4.mt-4} 
