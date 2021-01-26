@@ -27,7 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 #######################################
 ## To Run Locally Comment line below ##
 #######################################
-# url: "https://rebelwarrior.github.io/numenera" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rebelwarrior.github.io/numenera" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Social Media 
