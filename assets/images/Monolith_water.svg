@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 768 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Sea" transform="matrix(0.868607,0,0,0.993728,54.7951,1.6715)">
+        <rect x="-63.285" y="266.518" width="884.788" height="248.426" style="fill:rgb(0,7,255);"/>
+    </g>
+    <g id="Sea-Gradient" serif:id="Sea Gradient" opacity="0.78">
+        <g transform="matrix(0.867587,0,0,0.989297,54.4277,2.85253)">
+            <rect x="-63.285" y="266.518" width="884.788" height="248.426" style="fill:rgb(0,28,255);"/>
+        </g>
+    </g>
+    <g id="Sky-BG" serif:id="Sky BG" transform="matrix(0.946401,0,0,0.955952,11.3671,16.1673)">
+        <rect x="-11.692" y="-15.061" width="811.245" height="279.478" style="fill:rgb(251,225,255);"/>
+    </g>
+    <g id="Clouds" opacity="0.5">
+        <g transform="matrix(1.38122,0,0,1.38122,-247.688,-22.4413)">
+            <g style="filter:url(#_Effect1);">
+                <g>
+                    <g>
+                        <g transform="matrix(1,0,0,1,15.3923,-10.3666)">
+                            <path d="M166.879,86.641C218.342,87.892 236.759,98.098 236.759,114.115C236.759,130.133 209.98,118.585 164.735,143.138C163.265,143.935 164.822,132.052 164.822,116.035C164.822,100.017 163.56,86.561 166.879,86.641Z" style="fill:white;"/>
+                        </g>
+                        <ellipse cx="401.191" cy="158.008" rx="119.864" ry="46.375" style="fill:white;"/>
+                        <path d="M700.655,57.341C738.661,58.494 734.943,82.212 734.943,115.027C734.943,147.843 731.332,165.118 721.36,166.842C629.119,182.792 531.047,149.614 531.047,116.798C531.047,83.983 607.089,54.503 700.655,57.341Z" style="fill:white;"/>
+                    </g>
+                </g>
+            </g>
+            <g style="filter:url(#_Effect2);">
+                <g>
+                    <g>
+                        <g transform="matrix(1,0,0,1,15.3923,-10.3666)">
+                            <path d="M166.879,86.641C218.342,87.892 236.759,98.098 236.759,114.115C236.759,130.133 209.98,118.585 164.735,143.138C163.265,143.935 164.822,132.052 164.822,116.035C164.822,100.017 163.56,86.561 166.879,86.641Z" style="fill:white;"/>
+                        </g>
+                        <ellipse cx="401.191" cy="158.008" rx="119.864" ry="46.375" style="fill:white;"/>
+                        <path d="M700.655,57.341C738.661,58.494 734.943,82.212 734.943,115.027C734.943,147.843 731.332,165.118 721.36,166.842C629.119,182.792 531.047,149.614 531.047,116.798C531.047,83.983 607.089,54.503 700.655,57.341Z" style="fill:white;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Land-B" serif:id="Land B" opacity="0.9">
+        <g transform="matrix(2.1644,0,0,1.02343,-2.78203,-7.99754)">
+            <path d="M0.9,341.284L356.239,474.386L355.562,508.787L0.9,508.077L0.9,341.284Z" style="fill:rgb(212,145,55);"/>
+        </g>
+    </g>
+    <g id="Land-Brown" serif:id="Land Brown" opacity="0.9">
+        <g transform="matrix(2.1644,0,0,1.02343,-2.78203,-7.99754)">
+            <path d="M0.9,341.284L356.239,474.386L355.562,508.787L0.9,508.077L0.9,341.284Z" style="fill:rgb(212,145,55);"/>
+        </g>
+    </g>
+    <g id="Land-Green" serif:id="Land Green" opacity="0.36">
+        <g transform="matrix(2.1644,0,0,1.02537,-2.78203,-8.65858)">
+            <path d="M0.9,341.284L356.209,474.513L355.898,508.188L0.9,508.077L0.9,341.284Z" style="fill:rgb(235,235,235);"/>
+        </g>
+    </g>
+    <g id="Monolith" transform="matrix(1,0,0,1.01705,0,-1.04776)">
+        <path d="M413.487,61.436L385.553,105.545L383.205,329.426L412.787,373.253L446.552,333.499L445.062,101.575L413.487,61.436Z" style="stroke:black;stroke-width:0.99px;"/>
+    </g>
+    <path id="Monolith-Shadow" serif:id="Monolith Shadow" d="M421.118,384.59L410.757,398.247L616.116,511.188L718.302,510.697L464.658,394.499L446.057,389.302L421.118,384.59Z" style="stroke:black;stroke-width:1px;"/>
+    <defs>
+        <filter id="_Effect1" filterUnits="userSpaceOnUse" x="116.643" y="-5.7008" width="681.251" height="272.936">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="10.4754"/>
+        </filter>
+        <filter id="_Effect2" filterUnits="userSpaceOnUse" x="116.643" y="-5.7008" width="681.251" height="272.936">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="10.4754"/>
+        </filter>
+    </defs>
+</svg>
