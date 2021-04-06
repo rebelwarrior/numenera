@@ -6,6 +6,24 @@ layout: posts
 # The World of Numenéra: The Ninth World
 {:.title.is-1} 
 
+## Top Differences
+The Ninth World is like a magical medieval setting but not quite.
+
+1. Solar System
+The solar system is well known, at least in learned circles, due to the many oneries that were left over from previous ages. 
+2. Automatons and Visitors
+Automatons, that is sentient non-biological life is known to exist as are the non-human visitors, which come from outside Earth or other dimensions.
+3. Abhumans
+Mutants that have become their own species, abhumans are a constant danger to the inhabitants of the ninth world. 
+4. Enclaves 
+Humans don't live in small houses by their farms. They live in enclaves: aldeia or towns or more rarely family mansions that are at least minimally fortified and travel out to their fields during the day.  
+5. Church and Religion
+5. Sex and Gender
+Sex is not taboo how it was in medieval times no
+
+
+
+
 ## Location:
 {:.subtitle.is-2} 
 
