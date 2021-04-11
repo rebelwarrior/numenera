@@ -12,7 +12,7 @@ layout: posts
 The Ninth World is like a magical medieval setting but not quite.
 
 ### 1. Solar System and the Moon.
-The solar system is well known, at least in learned circles. This is due to the many oneries that were left over from previous ages and that the Moon periodically winks out of existence. 
+The solar system is well known, at least in learned circles. This is due to the many orreries that were left over from previous ages and that the Moon periodically winks out of existence. 
 
 
 ### 2. Automatons and Visitors
