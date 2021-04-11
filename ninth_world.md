@@ -12,8 +12,7 @@ layout: posts
 The Ninth World is like a magical medieval setting but not quite.
 
 ### 1. Solar System and the Moon.
-The solar system is well known, at least in learned circles. This is due to the many orreries that were left over from previous ages and that the Moon periodically winks out of existence. 
-
+The solar system is well known, at least in learned circles. This is due to the many [orreries](https://en.wikipedia.org/wiki/Orrery) that were left over from previous ages and the fact that the Moon periodically winks out of existence. 
 
 ### 2. Automatons and Visitors
 Automatons, that is sentient non-biological life, is known to exist though uncommon, as are the rarer non-human visitors, beings which come from outside Earth or even other dimensions.
@@ -34,8 +33,7 @@ Unlike the medieval world, sex is not taboo, and gender roles are more fluid. Th
 The world is infused with nanites, including humans. In humans they cause increase healing so people naturally heal over time. Pestilence, infections that can wipe out whole groups people, are unheard-of in the Ninth world unless they are caused by Numenera themselves. 
 
 ### 8. The Iron Wind 
-No all nanites are beneficial, some are mad and rip through the world in a cloud called the Iron wind. Its effects are almost always deleterious. 
-
+Not all nanites are beneficial, some are mad and rip through the world in a cloud called the Iron wind. Its effects are almost always deleterious. 
 
 ### 9. Money
 Gold, jewels, silver, are not worth much. Money in numenera is in shins. 
@@ -57,7 +55,7 @@ The Steadfast is collection of Nine warring kingdoms. Its border to the north is
 
 > _"Many places offer sanctuary in the Ninth World. That’s why so many people never travel far."_ – Ninth World Bestiary 2
 
-__Settlements:__    
+__Dangerous World and Settlements:__    
 Almost all settlements are walled, and the rest are fenced. While most inhabited places are ok to move around during the day, at night it is a different story. One of the most dangerous jobs is shepherd since they follow the flock and live out in the open. However, while the Steadfast has its dangers and its wild areas, and dangers are quite real, it is not _always_ dangerous. People have learned to travel in large groups as those tend not to attract as much trouble but even the lonely traveler somehow seems to manage to make it from settlement to settlement most of the time.
 
 ## The Nine Kingdoms
