@@ -24,8 +24,10 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
-# Code Syntax Highlighter
+## Code Syntax Highlighter ##
 # CSS from https://github.com/richleland/pygments-css.git
-gem 'rouge'
-gem 'webrick' # explicitly required for ruby 3.0
+gem 'rouge' # 3.26.0
+
+## Explicitly Required for Ruby 3.0 ##
+gem 'webrick'  # 1.7.0
 
