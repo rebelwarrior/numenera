@@ -7,29 +7,43 @@ layout: posts
 {:.title.is-1} 
 
 ## Top Ten Differences
+{:.subtitle.is-3} 
+
 The Ninth World is like a magical medieval setting but not quite.
 
-1. Solar System and the Moon.
-The solar system is well known, at least in learned circles, due to the many oneries that were left over from previous ages. The Moon periodically winks out of existence. 
-2. Automatons and Visitors
-Automatons, that is sentient non-biological life is known to exist as are the non-human visitors, which come from outside Earth or other dimensions.
-3. Abhumans
-Mutants that have become their own species, abhumans are a constant danger to the inhabitants of the ninth world. 
-4. Enclaves 
-Humans don't live in small houses by their farms. They live in enclaves: aldeia or towns or more rarely family mansions that are at least minimally fortified and travel out to their fields during the day.  
-5. Church and Religion
-6. Sex and Gender
-Unlike the medieval world, sex is not taboo and gender roles are more fluid. There are various numenera that can change your gender, besides the strange genders of visitors.
-7. Nanites, Healing and Pestilence
-The world is infused with nanites, including humans. In humans they cause increase healing so people naturally heal over time. Pestilence, that is infections that can wipe out people are unheard of in the Ninth world. All persistent sicknesses involve numenera. 
-8. Iron Wind 
+### 1. Solar System and the Moon.
+The solar system is well known, at least in learned circles. This is due to the many oneries that were left over from previous ages and that the Moon periodically winks out of existence. 
+
+
+### 2. Automatons and Visitors
+Automatons, that is sentient non-biological life, is known to exist though uncommon, as are the rarer non-human visitors, beings which come from outside Earth or even other dimensions.
+
+### 3. Abhumans
+Mutants that have become their own sub-species, abhumans are a constant danger to the inhabitants of the ninth world. 
+
+### 4. Enclaves 
+Humans don't live in small houses by their farms. They live in enclaves: aldeia or towns (or more rarely family mansions) that are at least minimally fortified. The people then travel out to their fields during the day. 
+ 
+### 5. Church and Religion
+Unlike the medieval world, Religion is not uniform in the Ninth World and while the Amber Papacy and its Church are pretty much everywhere in Steadfast, they resemble a monastic order more than a Church.  
+
+### 6. Sex and Gender
+Unlike the medieval world, sex is not taboo, and gender roles are more fluid. There are various numenera that can change your gender, besides the strange genders of visitors and the sometimes asexual nature of automatons. 
+
+### 7. Nanites, Healing and Pestilence
+The world is infused with nanites, including humans. In humans they cause increase healing so people naturally heal over time. Pestilence, infections that can wipe out whole groups people, are unheard-of in the Ninth world unless they are caused by Numenera themselves. 
+
+### 8. The Iron Wind 
 No all nanites are beneficial, some are mad and rip through the world in a cloud called the Iron wind. Its effects are almost always deleterious. 
-9. Money
-Gold, jewels, silver, not worth much. Money is in numenera, and in ____. 
-10. Numenera
+
+
+### 9. Money
+Gold, jewels, silver, are not worth much. Money in numenera is in shins. 
+
+### 10. Numenera is like Magic
 Numenera is like magic, magical effects, things, material, everything. 
 
-
+<br>
 
 ## Location:
 {:.subtitle.is-2} 
