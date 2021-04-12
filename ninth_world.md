@@ -12,33 +12,43 @@ layout: posts
 The Ninth World is like a magical medieval setting but not quite.
 
 ### 1. Solar System and the Moon.
+{:.subtitle.is-5} 
 The solar system is well known, at least in learned circles. This is due to the many [orreries](https://en.wikipedia.org/wiki/Orrery) that were left over from previous ages and the fact that the Moon periodically winks out of existence. 
 
 ### 2. Automatons and Visitors
+{:.subtitle.is-5} 
 Automatons, that is sentient non-biological life, is known to exist though uncommon, as are the rarer non-human visitors, beings which come from outside Earth or even other dimensions.
 
 ### 3. Abhumans
+{:.subtitle.is-5} 
 Mutants that have become their own sub-species, abhumans are a constant danger to the inhabitants of the ninth world. 
 
-### 4. Enclaves 
+### 4. Enclaves
+{:.subtitle.is-5}  
 Humans don't live in small houses by their farms. They live in enclaves: aldeia or towns (or more rarely family mansions) that are at least minimally fortified. The people then travel out to their fields during the day. 
  
 ### 5. Church and Religion
+{:.subtitle.is-5} 
 Unlike the medieval world, Religion is not uniform in the Ninth World and while the Amber Papacy and its Church are pretty much everywhere in Steadfast, they resemble a monastic order more than a Church.  
 
 ### 6. Sex and Gender
+{:.subtitle.is-5} 
 Unlike the medieval world, sex is not taboo, and gender roles are more fluid. There are various numenera that can change your gender, besides the strange genders of visitors and the sometimes asexual nature of automatons. 
 
 ### 7. Nanites, Healing and Pestilence
+{:.subtitle.is-5} 
 The world is infused with nanites, including humans. In humans they cause increase healing so people naturally heal over time. Pestilence, infections that can wipe out whole groups people, are unheard-of in the Ninth world unless they are caused by Numenera themselves. 
 
 ### 8. The Iron Wind 
+{:.subtitle.is-5} 
 Not all nanites are beneficial, some are mad and rip through the world in a cloud called the Iron wind. Its effects are almost always deleterious. 
 
 ### 9. Money
+{:.subtitle.is-5} 
 Gold, jewels, silver, are not worth much. Money in numenera is in shins. 
 
 ### 10. Numenera is like Magic
+{:.subtitle.is-5} 
 Numenera is like magic, magical effects, things, material, everything. 
 
 <br>
@@ -78,7 +88,7 @@ Navarene is a powerhouse wood producer. The Westwood is both a source of wealth,
 Secret: The reason Navarene is a powerhouse producer is "industrial" automation using old-machines.  
 Government: Stable Feudal Monarchy with Landed Gentry
 
-> "Rich like a Navarene merchant." old saying, meaning content, but usually used sarcastically to mean someone with no money and lots of troubles. Nobles, particularly Navarene nobles, who are constantly pestered by rich merchants into marrying into the noblesse, and thus use the saying to mean someone who doesn't know their place in society.
+> _"Rich like a Navarene merchant."_ – old saying, meaning content, but usually used sarcastically to mean someone with no money and lots of troubles. 
 
 2) Ghan: (_Switzerland_)  
 {:.subtitle.is-5.mt-5} 
