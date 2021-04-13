@@ -95,7 +95,7 @@ Government: Stable Feudal Monarchy with Landed Gentry
 Exports: Aneen (bipedal camels) as pack-animals, Gallen hides (cattle hides), some Azure Steel, and Ships.  
 Trades: Spices (clandestinely from the out-lands of the North) and Wool.  
 Known for: Merchant fleet (sea trade), and free citizens.  
-Ghan is a peninsula composed of herders, sea-fearers and farmers, commonly called highlanders, coasters and lowlanders. It's not very populated and government is fairly flat. It's also mostly self-sufficient; the continental areas are agricultural and wood producers, and that's where the majority of the population lives. Its stance on peace and trade, and its large population of freemen make Ghan the sort of neutral land of Steadfast. The center of the peninsula has a strange effect where the oxygen is low. The Ghanans call it the "high-lands" because of this low oxygen and the monoliths that float above sometimes slowly ram into any unduly tall buildings making it perfect grazing lands for Aneen. The Ghan fleet is armored and typically escorts other merchant ships or carries commissioned runs for other kingdoms.  
+Ghan is a peninsula composed of herders, sea-fearers and farmers, commonly called highlanders, coasters and lowlanders. It's not very populated and government is fairly flat. It's also mostly self-sufficient; the continental areas are agricultural and wood producers, and that's where the majority of the population lives. Its stance on peace and trade, and its large population of freemen make Ghan the sort of neutral land of Steadfast. The center of the peninsula has a strange effect where the oxygen is low as if it were in high altitude. The Ghanans call it the "highlands." Because of the low oxygen and the monoliths that float above and sometimes slowly ram into any unduly tall buildings, it is the perfect grazing lands for Aneen. The Ghan fleet is armored and typically escorts other merchant ships or carries commissioned runs for other kingdoms.  
 Secret: The Angular Knights have their fortress here. Ghan trades with the Gaians to the north of the Myst sea, which they have found a way to navigate.    
 Government: Stable Monarchy with almost no gentry.
 
@@ -107,7 +107,7 @@ Imports: float-stones, foodstuff
 Exports: Cattle (Kordech shiul), luxury goods like Wind-riders gliders
 Trades: luxury goods, numenera, scholars  
 Known for: Qi, the Amber Pope's residence, luxury goods, university.  
-If Naveren's rich are concerned with propriety and never out-shinning their queen, Draolis is all about showing off your wealth. Separated from its rival Navarene by the dangerous wilderness called the Dark Hills, Draolis is a country where merchants rule. It is the biggest kingdom in terms of population, and its capital Qi: the biggest city in Steadfast. Qi has a population of half a million, is the residence of the Amber Pope, location of the most famous University, and is known for its air balloons that move the populace like gondolas in the air from one are to the next quickly. These air balloons and dirigibles have very short range, but are adequate for transporting people inside the city. The Amber Pope lives in the Durkhal complex, which is like a city itself within Qi. The countryside is very much agricultural except the area of Kordech, south of the Dark Hills, which has a large cattle processing complex.  
+If Naveren's rich are concerned with propriety and never out-shinning their queen, Draolis is all about showing off your wealth. Separated from its rival Navarene by the dangerous wilderness called the Dark Hills, Draolis is a country where merchants rule. It is the biggest kingdom in terms of population, and its capital Qi: the biggest city in Steadfast. Qi has a population of half a million, is the residence of the Amber Pope, location of the most famous University, and is known for its air balloons that move the populace like gondolas in the air from one area to the next quickly. These air balloons and dirigibles have very short range, but are adequate for transporting people inside the city. The Amber Pope lives in the Durkhal complex, which is like a city itself within Qi. The countryside is very much agricultural except the area of Kordech, south of the Dark Hills, which has a large cattle processing complex.  
 Secret: The order of the truth stops Draolis from openly warring with Navarene.  
 Government: Plutocracy (ruled by rich merchants)
 
@@ -118,7 +118,7 @@ Government: Plutocracy (ruled by rich merchants)
 Exports: Next to nothing. Some metals and few Numenera.  
 Imports: Very little.  
 Known for: A mad king who talks to himself. The melancholy kingdom. The city of needles, and the best swamp chicken stew in Steadfast.  
-Once a coveted piece of land between three neighboring kingdoms now it is a sad kingdom. Thaemor was an undesirable swampy land with few inhabitants that suddenly drained into fertile land a couple of hundred years ago. The kingdom that rose from this good fortune was always trying to defend itself from the bigger kingdoms around it. It did so but in the process became fairly isolated, the government unreliable and while the land is fertile, the water clear, the organization is poor, and the taxes high. Power is distributed to the gentry who do the best they can in the strange situation they find themselves in.  Numenera are more common here for some reason, as are the "glimmers" people get. Thaemorians are a dour sort, who hate talks about things getting better. An independent people that suddenly went from good to bad to worse, they are somewhat skeptical about good things. Thaemor has a middle eastern flavor.  
+Once a coveted piece of land between three neighboring kingdoms, now it is a sad yet independent kingdom. Thaemor was an undesirable swampy land with few inhabitants that suddenly drained into fertile land a couple of hundred years ago. The kingdom that rose from this good fortune was always trying to defend itself from the bigger kingdoms around it. It did so but in the process became fairly isolated, the government unreliable and while the land is fertile, the water clear, the organization is poor, and the taxes high. Power is distributed to the gentry who do the best they can in the strange situation they find themselves in.  Numenera are more common here for some reason, as are the "glimmers" people get. Thaemorians are a dour sort, who hate talks about things getting better. An independent people that suddenly went from good to bad to worse, they are somewhat skeptical about good things. Thaemor has a middle eastern flavor.  
 Secret: Thaemor, formerly Thaemoor, was a marsh that suddenly dried out _by raising itself_ about 300 years ago.  
 Government: Unstable Tyranny with Gentry. Taxes are high.
 
@@ -191,9 +191,11 @@ Shin-talk, is older than true-lang. It's a merchant talk, it has few words and s
 
 #### Coins (_Shins_)
 {:.subtitle.is-4} 
-Coinage is called 'shins' everywhere in Steadfast. They are uncommon. Most of the economy works on barter. Typically people in a town (or aldeia) will use a split stick to keep track of loans or debts and of taxes. These can be paid with produce instead of coinage. Merchants, guards, mercenaries and aristocrats deal in shins. Shins are made of a strange material called iotium: 100 shins can usually be transformed to 1 gram of iotium. Shins come in different shapes, some have stamped visages from one of the nine kingdoms, but most don't. It's not clear what iotium is, but it's necessary for crafting or repairing numenera. Iotium is inert in its normal form. Artifacts made from iotium exist, usually called Io-tum (Ioti for plural) and are super expensive and not inert at all.
+Coinage is called 'shins' everywhere in Steadfast. Most of the economy works on barter. Typically people in a town (or aldeia) will use a split stick to keep track of loans or debts and of taxes. These can be paid with produce instead of coinage. Merchants, guards, mercenaries and aristocrats deal in shins. 
 
-Strangely there is no fractional currency: it's either a shin or credit.
+Shins are made of a strange material called iotium: 100 shins can usually be transformed into 1 gram of iotium. Shins come in different shapes, some have stamped visages from one of the nine kingdoms, but most don't. It's not clear what iotium is, but it's necessary for crafting or repairing numenera. Iotium is inert in its normal form. Iotium can be found in its non-inert form and it's call IoTum (IoTi plural) and they are very valuable in crafting Numenera. 
+
+Strangely, there is no fractional currency: it's either a shin or credit.
 
 Shins are not particularly heavy (weighting only a gram or two) so people can carry large amounts easily as well.
 
@@ -259,20 +261,22 @@ Scriveners are controlled exclusively by the Aeon priests.
 
 #### Inns and places to sleep.
 {:.subtitle.is-4.mt-5} 
-There are two types of places to stay in a town: Ale-houses and Inns. Inns are nice places to stay with separate rooms and even occasionally servants, they are reserved for rich merchants, government officials, and aristocrats. Inns don't have a kitchen for guests and don't serve food. Ale-houses are sort of the opposite, they serve food, but mostly alcohol, and have a place for drunks or poor travelers to "crash" upstairs. They don't usually have beds, and you sort of have to watch your belongings while you sleep. Adventuring guilds (also called Delver's guilds) have similar places to "crash" but they _do_ hold possessions for members so you don't have to worry about them walking away while you sleep. People in towns commonly rent rooms (and provide board) to journeymen and women who travel for a season, but those usually require a letter of presentation.
+There are typically two types of places to stay in a town: Ale-houses and Inns. Inns are nice places to stay with separate rooms and even occasionally servants, they are reserved for rich merchants, government officials, and aristocrats. Inns don't have a kitchen for guests and don't serve food. Ale-houses are sort of the opposite, they serve food, but mostly alcohol, and have a place for drunks or poor travelers to "crash" upstairs. They don't usually have beds, and you sort of have to watch your belongings while you sleep. Adventuring guilds (also called Delver's guilds) have similar places to "crash" (and sometimes even barracks for members) but they _do_ hold possessions for members so you don't have to worry about them walking away while you sleep. People in towns commonly rent rooms (and provide board) to journeymen and women who travel for a season, but those usually require a letter of presentation. Merchants do the same for other merchants of the guild, allowing them to stay in their house, usually for free. The very poor or the very desperate sleep on the street. 
+
+Unlike in the medieval world there are no common monasteries that offer hospitality.  
 
 ### Society and Culture
 {:.subtitle.is-3.mt-5} 
 
 #### Games
 {:.subtitle.is-4.mt-4} 
-The game of "ball" is played throughout Steadfast. It is like soccer except it's played by small and large groups alike (up to 300-500 people) and fighting, tripping, and pushing opponents seem to be "permitted" in most versions. Trades typically play against each other in teams.
+The game of _"ball"_ is played throughout Steadfast. It is like soccer. except it's played by small and large groups alike (up to 300-500 people) and fighting, tripping, and pushing opponents seems to be permitted in most versions. Trades typically play against each other in teams.
 
 In Malevich, they play a card "game" called tarrota; and it's said those with the glimmer can predict the future with them. A simplified version of the game is played throughout Steadfast as well.
 
-Four Dimensions is a game that's a mix of mahjong, chess and go, played with magnetic tiles and metal figurines. Each tile is held like in mahjong, secret to each player then played as a tile on the board with or without a figurine on top. The tiles being magnetic they can be placed vertical to the game board and can end up forming a cube with two sides open. On your turn you either place a tile or move one of your figurines among the already placed tiles. The game is viscerally hard and a board with pieces is essentially an artifact. Most people play the simplified version with non-magnetic tiles in only one dimension.  
+Four Dimensions is a game that is a strange mix of mahjong, chess and go. It is played with magnetic tiles and metal figurines. Each tile is held like in mahjong, secret to other player, then played as a tile on the board with or without a figurine on top. The tiles being magnetic they can be placed vertical to the game board and can end up forming a cube with two sides open. On your turn you either place a tile or move one of your figurines among the already placed tiles. The game is _viscerally_ hard and a board with pieces is so expensive it's essentially an artifact. Most people play the simplified version with non-magnetic tiles and in only one dimension.  
 
-Betting happens in all games throughout Steadfast, but because most don't carry large amounts of coin, betting is usually a low key affair, trading chores or livestock. However, having animals race or fight each other is the favorite betting sort of activity, and shins are usually required to participate. Though this kind of betting is rare in Steadfast happening only in large cities.
+Betting happens in all games throughout Steadfast, though most commonly in animal races or competitions. In towns and aldeia betting is a low key affair usually not involving shins, but other things like dares and chores. If you want real action, you need to go to the large cities. 
 
 #### Working the fields
 {:.subtitle.is-4.mt-4} 
@@ -288,11 +292,11 @@ Food in Steadfast is a decidedly local affair, though there are some staples con
 
 #### Music
 {:.subtitle.is-4.mt-4} 
-Music in Steadfast sounds unlike medieval music. The abundance of metals and numeneara that record sound and play it back or beat a rhythm has lead to a music that is both familiar to us with strong emphasis on voice and melody and strange with instruments known only to the Ninth World.
+Music in Steadfast sounds unlike medieval music. The abundance of metals and numeneara that record sound and play it back or beat a rhythm has lead to a music that is both familiar and strange, with strong emphasis on voice and melody and strange with instruments known only to the Ninth World.
 
 #### Science
 {:.subtitle.is-4.mt-4} 
-Science is way more advanced in Steadfast than it ever was in the medieval world. Due to the existence of numenera and tools that make it easier to explore the world, many things are known in Steadfast. However, this doesn't mean the knowledge is widespread. So while at Qi University germ theory is understood and even the difference between bacteria and viruses common-place there, this might not be the case in a remote Malevich town, where evil-spirits are to blame for disease. The one exception is the heliocentric theory of the universe, as ornery are found in so many places in Steadfast, pretty much everyone knows the world is round, circles around the Sun and the moon (when it's there) around the Earth.
+Science is way more advanced in Steadfast than it ever was in the medieval world. Due to the existence of numenera and tools that make it easier to explore the world, many things are known in Steadfast. However, this doesn't mean the knowledge is widespread. So while at Qi University germ theory is understood and even the difference between bacteria and viruses common-place there, this might not be the case in a remote Malevich town, where evil-spirits are to blame for disease. The one exception is the heliocentric theory of the universe, as orrery are found in so many places in Steadfast, pretty much everyone knows the world is round, circles around the Sun and the moon (when it's there) around the Earth.
 
 #### Trade Routes
 {:.subtitle.is-4.mt-4} 
