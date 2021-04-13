@@ -99,7 +99,7 @@ Ghan is a peninsula composed of herders, sea-fearers and farmers, commonly calle
 Secret: The Angular Knights have their fortress here. Ghan trades with the Gaians to the north of the Myst sea, which they have found a way to navigate.    
 Government: Stable Monarchy with almost no gentry.
 
-> _"Half of Qi is the sky."_ – A common Draolis saying.
+> _"Half of Qi is the sky."_ – A common Draolis saying, Numenera Discovery (p. 144)
 
 3) Draolis: (_Magical Venice_)  
 {:.subtitle.is-5.mt-5} 
@@ -197,7 +197,7 @@ Strangely there is no fractional currency: it's either a shin or credit.
 
 Shins are not particularly heavy (weighting only a gram or two) so people can carry large amounts easily as well.
 
-> _"Shine"_ means good in Steadfast.
+> _"Shine"_ – means good in Steadfast.
 
 <!-- _Typical salaries for guards and mercenaries:_
 {:.mt-5} -->
@@ -420,3 +420,5 @@ References:
 [https://www.sciencealert.com/humans-used-to-sleep-in-two-shifts-maybe-we-should-again](https://www.sciencealert.com/humans-used-to-sleep-in-two-shifts-maybe-we-should-again)  
 [https://www.bbc.com/news/magazine-16964783](https://www.bbc.com/news/magazine-16964783)  
 [Rise of Rome, Great Courses by Gregory Aldrete](https://www.amazon.com/gp/video/detail/B07FYW2P6Z/ref=atv_wl_hom_c_unkc_1_1)
+
+<br>

@@ -52,7 +52,7 @@ __Destiny Descriptors:__ _Adaptable Articulate Beneficent Cheerful Civic Committ
 
 Foci are like super-powers or feats of ability your character can do. They can be used to enhance to your tier abilities, like a jack that works the back alleys is a thief, but they don't always have to. 
 
-Look at teh [Foci Table]({{ site.url}}/tables/foci) which has comic book and movie references and fantasy class hints to help you choose. 
+Look at the [Foci Table]({{ site.url}}/tables/foci) which has comic book and movie references and fantasy class hints to help you choose. 
 
 <br>
 For example: Do you want to play a character like Super Mario? 
