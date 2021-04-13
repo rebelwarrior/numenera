@@ -199,7 +199,7 @@ Strangely, there is no fractional currency: it's either a shin or credit.
 
 Shins are not particularly heavy (weighting only a gram or two) so people can carry large amounts easily as well.
 
-> _"Shine"_ – means good in Steadfast.
+> _"Shine"_ – means good in Steadfast. (p. 410)
 
 <!-- _Typical salaries for guards and mercenaries:_
 {:.mt-5} -->
