@@ -9,12 +9,12 @@ layout: posts
 The Ninth World is like a _medieval magical setting_ but not quite:
 
 1. __Numenera__ - Numenera are what we would consider magic.
-2. __Automatons and Visitors__ - The Ninth World has remenants from previous worlds: sentient androids and beings from other worlds. 
+2. __Automatons and Visitors__ - The Ninth World has remnants from previous worlds: sentient androids and beings from other worlds. 
 3. __Abhumans__ - Mutated beyond their humanity, abhumans are their own subspecies and a danger to the other inhabitants of the Ninth World. Abhumans are like the goblinoids of a fantasy medieval setting.
-4. __Dangerous World__ - The Ninth World is more dangerous that a medieval world, people live in protected enclaves, not by their farms and avoid travel at night.
+4. __Dangerous World__ - The Ninth World is more dangerous than a medieval world, people live in protected enclaves, rather than by their farms, and avoid travel at night.
 5. __Gender and Sex__ - Gender is not rigid, maybe because Visitor's strange genders, or Automaton's genderless existence or maybe because numenera that can change your gender exist, but gender roles are not like the medieval world. Sex is not Taboo either. 
-6. __Religion__ - Religion is not unified, and the Amber Papacy is more interested in Numenera and its secrets than converting people.  
-7. __Nanites and Healing__ - Nanites, microscopic machines, are everywhere in the Ninth World. Due to their presence, people naturally slowly heal from injury and sickness. Pestilence is unknown, except where numenera effects are involved. 
+6. __Religion__ - Religion is not unified, and the Amber Papacy, the only widespread religion, is more interested in Numenera and its secrets than converting people.  
+7. __Nanites and Healing__ - Nanites, microscopic machines, are everywhere in the Ninth World. Due to their presence, people naturally slowly heal from injury and sickness. Pestilence is unknown, except where the effects of numenera are involved. 
 8. __Iron Wind__ - Not all nanites are benevolent. Some have gone insane and circle the world in a destructive, mad cloud. 
 9. __Money__ - Money is in shins. Gold, jewels are pretty but not inherently valuable (or even rare).
 10. __Science__ - The Ninth World is more scientifically advanced than the medieval world, but this knowledge is not distributed. Almost everybody, however, knows the solar system due to the many [orreries](https://en.wikipedia.org/wiki/Orrery) left over from previous worlds (and the fact that the Moon periodically _winks out_ of existence). 
@@ -249,7 +249,7 @@ Unlike in the medieval world there are no common monasteries that offer hospital
 {:.subtitle.is-4.mt-4} 
 The game of _"ball"_ is played throughout Steadfast. It is like soccer. except it's played by small and large groups alike (up to 300-500 people) and fighting, tripping, and pushing opponents seems to be permitted in most versions. Trades typically play against each other in teams.
 
-In Malevich, they play a card "game" called tarrota; and it's said those with the glimmer can predict the future with them. A simplified version of the game is played throughout Steadfast as well.
+In Malevich, they play a card "game" called Tarrota; and it's said those with the glimmer can predict the future with them. A simplified version of the game is played throughout Steadfast as well.
 
 Four Dimensions is a game that is a strange mix of mahjong, chess and go. It is played with magnetic tiles and metal figurines. Each tile is held like in mahjong, secret to other player, then played as a tile on the board with or without a figurine on top. The tiles being magnetic they can be placed vertical to the game board and can end up forming a cube with two sides open. On your turn you either place a tile or move one of your figurines among the already placed tiles. The game is _viscerally_ hard and a board with pieces is so expensive it's essentially an artifact. Most people play the simplified version with non-magnetic tiles and in only one dimension.  
 
@@ -320,7 +320,7 @@ Orange Billam fuit | Oranges
 Arror (p. 160) | Sweet grain (Jakary? Sugar)
 {:.table.is-hoverable.is-bordered}
 
-~Plastic, Metal and synthetic fibers are very common in the 9th world, but unlike our world these materials aren't exactly industrially made. There are multiple plants that produce synthetic and colorful fibers and colors. Synth-steel can be found in the ruins of old tech. 
+• Plastic, Metal and synthetic fibers are very common in the 9th world, but unlike our world these materials aren't exactly industrially made. There are multiple plants that produce synthetic and colorful fibers and colors. Synth-steel can be found in the ruins of old tech. 
 {:.mt-3} 
 
 __Strange to us but familiar to them:__  
@@ -369,12 +369,12 @@ Toad-creatures Koatoah? | Yovok, _p. 261_ | Toad-face Humanoids
  Beastmen | Grush |
  Goblins | Killist (Bestiary _p. 72_) | Poison using small Humanoids
  - | Raheunum | Underground Humanoids
- - | Rorathik | Blue Predator Assasins
+ - | Rorathik | Blue Predator-type Assassins
  Dustmen/Ghoul | Syzygy Ghoul | Collect and Eat the dead
 {:.card.is-pulled-right.mx-2.table.is-hoverable}
 
 __Abhumans:__    
-The boogey man is nothing compare to the frightening prospect of abhumans. While mutants are regarded with suspicion throughout Steadfast, no one would confuse a mutant for an abhuman. Abhumans are no longer human; humanoid yes, human no. Abhumans are, however, intelligent. What happened that turn them that way is the source of much speculation. It is rumored that abhumans gain their hatred of humanity, their evilness and their mutated shape, from eating each other, so cannibalism is taboo in all the nine kingdoms. When you close your eyes and think of a demonic entity, that's probably an abhuman looking back at you though the darkness. Abhumans are probably the only monster that a general resident of Steadfast would know by name. Any tracker worth his salt would be able to tell abhumans apart from their tracks alone.
+The boogey man is nothing compared to the frightening prospect of abhumans. While mutants are regarded with suspicion throughout Steadfast, no one would confuse a mutant for an abhuman. Abhumans are no longer human; humanoid yes, human no. Abhumans are, however, intelligent. What happened that turn them that way is the source of much speculation. It is rumored that abhumans gain their hatred of humanity, their evilness and their mutated shape, from eating each other, so cannibalism is taboo in all the nine kingdoms. When you close your eyes and think of a demonic entity, that's probably an abhuman looking back at you though the darkness. Abhumans are probably the only monster that a general resident of Steadfast would know by name. Any tracker worth his salt would be able to tell abhumans apart from their tracks alone.
 
 If abhumans are the more familiar kind of monster in the Ninth World, the rest defy reason for most inhabitants.
 
@@ -384,7 +384,7 @@ _Abhumans (p. 13) can be used sort of like goblinoids in a fantasy setting. They
 
 #### Ways into Numenera
 {:.subtitle.is-4.mt-5} 
-In Numenera Discovery the present four ways of using the Ninth World:
+In Numenera Discovery, they present four ways of using the Ninth World:
 1. Post-Apocalyptic Setting
 2. Quasi-Medieval Fantasy Setting
 3. Weird Horror Setting
