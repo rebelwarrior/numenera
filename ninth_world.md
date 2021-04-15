@@ -117,7 +117,7 @@ Government: Monarchy (formerly empire with provinces and governors)
 7) Milave: (_Medieval Italian Principalities_)  
 {:.subtitle.is-5.mt-5} 
 Exports: Ganch (weed), float-stones, assorted foodstuff and art.  
-Known for: Extremes, the arts, Aian "city of merchants", and Family mansions.  
+Known for: Extremes, the arts, __Aian _"city of merchants"___, and Family mansions.  
 Landlocked, squeezed between the souther dessert, Ancuan and the Pytharon Empire, Milave is an unstable land. Milave is a rich beautiful and productive land with natural resources like float-stones that generate huge profits. Most of the people of Milave are farmers. Ostensibly ruled by a council, it is really a collection of highly independent city states, each with their own government. This is a land of extremes, there is no kingdom-wide police, no kingdom-wide unity and the cities run the gamut from the merchant-ruled Aian, where money is king, to the cosmopolitan Orrila. It is common for these city-states to sponsor artists as a way to give themselves pride and legitimacy, though beneath the surface of normalcy, the kingdom is on the verge of tearing itself apart as various factions eye each other and make the council ineffective.  
 Secret: The Amber Pope is possibly supporting noble warlord Tarvesh as a leader to take over the kingdom.  
 Government: Varies, from city states run by princes or nobles to even a republic or two.
