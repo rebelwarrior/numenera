@@ -369,11 +369,11 @@ Orcs? | Margr, _p. 240_ | Goat-faced Humanoids
  Vulture birds (dark crystal) | Murden, _p. 243_ | "Mud-birds" Bird-faced Humanoids
  - | Sathosh, _p. 251_ | Single-Tentacle-Faced Humanoids
 Toad-creatures Koatoah? | Yovok, _p. 261_ | Toad-face Humanoids
- Beastmen | Grush |
+ Beastmen | Grush (Bestiary _p. 62_)| Naked White Muscular Abhuman
  Goblins | Killist (Bestiary _p. 72_) | Poison using small Humanoids
- - | Raheunum | Underground Humanoids
- - | Rorathik | Blue Predator-type Assassins
- Dustmen/Ghoul | Syzygy Ghoul | Collect and Eat the dead
+ - | Raheunum (Bestiary, _p. 104_)| Underground Humanoids
+ - | Rorathik (Bestiary, _p. 109_)| Blue Predator-type Assassins
+ Dustmen/Ghoul | Syzygy Ghoul (Bestiary, _p. 122_) | Collect and Eat the dead
 {:.card.is-pulled-right.mx-2.table.is-hoverable}
 
 __Abhumans:__    
