@@ -108,13 +108,13 @@ Government: Ostensibly a Monarchy, but in reality it's more of a collection of i
 Exports: Grains (wheat and corn), Marble, Alcohol  
 Imports: Azure Steel, Spices, Wood, Paper  
 Known for: Long winters and hardy people, the best stone-workers in Steadfast, and using abhuman (jarlers) as slaves.  
-The South of Steadfast _was_ the Pytharon Empire until it collapse a hundred years or so ago. It covered all lands south of Draolis and Malevich, including the now kingdoms of Milave, Iscobal, and Ancuan. Back then the Empire's rolling fields of wheat and corn were the breadbasket of Steadfast, but with success came complacency, and attracted continual raids from the south. Even the abhuman slaves escaped and became roving bands plundering what and where they could. Now the Empire is slowly regaining its footing while it spends a lot of effort securing its southern border from raiders and abhumans attacks from the frozen desert.  
+The South of Steadfast _was_ the Pytharon Empire until its collapse a hundred years or so ago. The Empire covered all lands south of Draolis and Malevich, including the now kingdoms and __former provinces of _Milave, Iscobal,_ and _Ancuan___. Back then the Empire's rolling fields of wheat and corn were the breadbasket of Steadfast, but with success came complacency, and attracted continual raids from the south. Even the abhuman slaves escaped and became roving bands plundering what and where they could. Now the Empire is slowly regaining its footing while it spends a lot of effort securing its southern border from raiders and abhumans attacks from the frozen desert.  
 Secret: The Empire controls the single trade route to the lands beyond the Black Riage that isn't a mountain pass.  
 Government: Monarchy (formerly empire with provinces and governors)
 
 > _"Those not rich, are poor."_ – Old Aian saying (city in Milave)
 
-7) Milave: (_Italy_)  
+7) Milave: (_Medieval Italian Principalities_)  
 {:.subtitle.is-5.mt-5} 
 Exports: Ganch (weed), float-stones, assorted foodstuff and art.  
 Known for: Extremes, the arts, Aian "city of merchants", and Family mansions.  
