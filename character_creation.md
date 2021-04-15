@@ -42,8 +42,9 @@ Looking at the list you can pick _beneficent_, maybe _civic_, and _nurturing_.
 Read those and choose one.   
 <br>
 
-__Discovery Descriptors:__ _Charming Clever Graceful Intelligent Learned Mystical/Mechanical Rugged Stealthy Strong Strong-Willed Swift Tough_  
-__Destiny Descriptors:__ _Adaptable Articulate Beneficent Cheerful Civic Committed Confident Cultured Curious Earnest Empirical Exacting Forward-Thinking Gregarious Heroic Imaginative Industrious Intimidating Intuitive Irrepressible Lawful Loyal Meddlesome Nurturing Obsessive Optimistic Organized Passionate Persevering Prepared Protective Relentless Risk-Taking Serene Vicious_
+__Discovery Descriptors:__ _Charming, Clever, Graceful, Intelligent, Learned, Mystical/Mechanical, Rugged, Stealthy, Strong, Strong-Willed, Swift, Tough_  
+__Destiny Descriptors:__ _Adaptable, Articulate, Beneficent, Cheerful, Civic, Committed, Confident, Cultured, Curious, Earnest, Empirical, Exacting, Forward-Thinking, Gregarious, Heroic, Imaginative, Industrious, Intimidating, Intuitive, Irrepressible, Lawful, Loyal, Meddlesome, Nurturing, Obsessive, Optimistic, Organized, Passionate, Persevering, Prepared, Protective, Relentless, Risk-Taking, Serene, Vicious_  
+__Species Descriptors:__ _Varjellen, Lattimor, Mutants_ (require GM approval)
 {:.card.is-pulled-right.mx-2.table.is-hoverable.is-bordered.ml-4}
 
 
