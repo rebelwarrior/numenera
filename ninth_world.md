@@ -14,10 +14,10 @@ The Ninth World is like a _medieval magical setting_ but not quite:
 4. __Dangerous World__ - The Ninth World is more dangerous that a medieval world, people live in protected enclaves, not by their farms and avoid travel at night.
 5. __Gender and Sex__ - Gender is not rigid, maybe because Visitor's strange genders, or Automaton's genderless existence or maybe because numenera that can change your gender exist, but gender roles are not like the medieval world. Sex is not Taboo either. 
 6. __Religion__ - Religion is not unified, and the Amber Papacy is more interested in Numenera and its secrets than converting people.  
-7. __Nanites and Healing__ - Nanites, microscopic machines are everywhere in the Ninth World. Due to their presence people natural slowly heal from injury and sickness. Pestilence is unknown, except where numenera effects are involved. 
+7. __Nanites and Healing__ - Nanites, microscopic machines, are everywhere in the Ninth World. Due to their presence, people naturally slowly heal from injury and sickness. Pestilence is unknown, except where numenera effects are involved. 
 8. __Iron Wind__ - Not all nanites are benevolent. Some have gone insane and circle the world in a destructive, mad cloud. 
 9. __Money__ - Money is in shins. Gold, jewels are pretty but not inherently valuable (or even rare).
-10. __Science__ - The Ninth World is more advanced than the medieval world, but this knowledge is not evenly distributed. However, almost everybody knows the solar system due to the many [orreries](https://en.wikipedia.org/wiki/Orrery) left from previous worlds and the fact that the Moon periodically winks out of existence. 
+10. __Science__ - The Ninth World is more scientifically advanced than the medieval world, but this knowledge is not distributed. Almost everybody, however, knows the solar system due to the many [orreries](https://en.wikipedia.org/wiki/Orrery) left over from previous worlds (and the fact that the Moon periodically _winks out_ of existence). 
 {:.ml-6}
 
 <br>
@@ -25,21 +25,22 @@ The Ninth World is like a _medieval magical setting_ but not quite:
 ## Location:
 {:.subtitle.is-2} 
 
-_The Outlands_    
-The lands to the north of the Steadfast are collectively called the Outlands. Gaians are supposed to inhabit the north of the Outlands, but no one knows for sure.
-
-<br>
 _The Steadfast_    
 The Steadfast is collection of Nine warring kingdoms. Its border to the north is the __Tithe river__ that leads to the cloud-crystal sky-fields. To the south there is the frozen south and the frozen dessert beyond the __Sadara river__. The __sea__ lies to the East and the __Black Riage Mountains__ to the West and form the other boundaries of the Steadfast.
 
 > _"Many places offer sanctuary in the Ninth World. That’s why so many people never travel far."_ – Ninth World Bestiary 2
+
+_The Outlands_    
+The lands to the north and west of Steadfast are collectively called the Outlands. Another people the _Gaians_ are supposed to inhabit the north of the Outlands, but little is known about them in Steadfast.
+
+<br>
 
 __Dangerous World and Settlements:__    
 Almost all settlements are walled, and the rest are fenced. While most inhabited places are ok to move around during the day, at night it is a different story. One of the most dangerous jobs is shepherd since they follow the flock and live out in the open. However, while the Steadfast has its dangers and its wild areas, and dangers are quite real, it is not _always_ dangerous. People have learned to travel in large groups as those tend not to attract as much trouble but even the lonely traveler somehow seems to manage to make it from settlement to settlement most of the time.
 {:.card.is-pulled-right.mx-2.table.is-hoverable.is-bordered.ml-4}
 
 
-## The Nine Kingdoms
+## The Nine Kingdoms of Steadfast
 {:.title.is-3.mt-5} 
 As befits a feudal society, __power in Steadfast is tied to land.__ Land controls the production of food and resources and thus money as well. However, all out war or land grabs are rare in Steadfast. The Amber papacy actively works to avoid war; and the resources needed to wage all-out war, would leave any kingdom involved vulnerable to the rest. Skirmishes, where one group of warriors fight to reduce the forces of the other, are, however, common along the borders. Since only about 10% of the population are warriors, aristocrats or clergy, the vast majority of the population aren't too concerned with skirmishes as they rarely touches them. Far more worrisome to a normal steadfast resident are the wilds. Outside the settlements and the fields attached to them, there are large areas of wilderness, where numenera, treasure and the truly weird can be found. Most residents live in fear of these areas and those that don't, are at the very least are weary of them.  
 
@@ -59,7 +60,7 @@ Navarene is a powerhouse wood producer. The Westwood is both a source of wealth,
 Secret: The reason Navarene is a powerhouse producer is "industrial" automation using old-machines.  
 Government: Stable Feudal Monarchy with Landed Gentry
 
-> _"Rich like a Navarene merchant."_ – old saying, meaning content, but usually used sarcastically to mean someone with no money and lots of troubles. 
+> _"Rich like a Navarene merchant."_ – old saying, meaning content, but usually used sarcastically to mean the exact opposite: someone with no money and lots of troubles. 
 
 2) Ghan: (_Switzerland_)  
 {:.subtitle.is-5.mt-5} 
@@ -70,27 +71,27 @@ Ghan is a peninsula composed of herders, sea-fearers and farmers, commonly calle
 Secret: The Angular Knights have their fortress here. Ghan trades with the Gaians to the north of the Myst sea, which they have found a way to navigate.    
 Government: Stable Monarchy with almost no gentry.
 
-> _"Half of Qi is the sky."_ – A common Draolis saying, Numenera Discovery (p. 144)
+> _"Ghan has the fleet, but Draolis owns the merchant ships."_ - Common Draolis Merchant saying.
 
 3) Draolis: (_Magical Venice_)  
 {:.subtitle.is-5.mt-5} 
 Imports: float-stones, foodstuff  
 Exports: Cattle (Kordech shiul), luxury goods like Wind-riders gliders
 Trades: luxury goods, numenera, scholars  
-Known for: Qi, the Amber Pope's residence, luxury goods, university.  
-If Naveren's rich are concerned with propriety and never out-shinning their queen, Draolis is all about showing off your wealth. Separated from its rival Navarene by the dangerous wilderness called the Dark Hills, Draolis is a country where merchants rule. It is the biggest kingdom in terms of population, and its capital Qi: the biggest city in Steadfast. Qi has a population of half a million, is the residence of the Amber Pope, location of the most famous University, and is known for its air balloons that move the populace like gondolas in the air from one area to the next quickly. These air balloons and dirigibles have very short range, but are adequate for transporting people inside the city. The Amber Pope lives in the Durkhal complex, which is like a city itself within Qi. The countryside is very much agricultural except the area of Kordech, south of the Dark Hills, which has a large cattle processing complex.  
-Secret: The order of the truth stops Draolis from openly warring with Navarene.  
+Known for: __Qi__, the Amber Pope's residence, luxury goods, university.  
+If Naveren's rich are concerned with propriety and never out-shinning their queen, Draolis is all about showing off your wealth. Separated from its rival Navarene by the dangerous wilderness called the Dark Hills, Draolis is a country where merchants rule. It is the biggest kingdom in terms of population, and its capital Qi: the biggest city in Steadfast. Qi has a population of half a million, is the residence of the Amber Pope, location of the most famous University, and is known for its air balloons that move the populace like gondolas in the air from one area to the next. These air balloons and dirigibles have a very short range, but are adequate for transporting people and goods within the city. The Amber Pope lives in the Durkhal complex, which is like a city of its own inside of Qi. The countryside is very much agricultural except the area of Kordech, south of the Dark Hills, which has a large cattle processing complex.  
+Secret: The Amber Papacy works to prevent Draolis from openly warring with Navarene.  
 Government: Plutocracy (ruled by rich merchants)
 
-> _"Ghan has the fleet, but Draolis owns the merchant ships."_ - Common Draolis Merchant saying.
+> _"Half of Qi is the sky."_ – A common Draolis saying, Numenera Discovery (p. 144)
 
 4) Thaemor: (_formerly Thaemoor, an unhistorical Moorish Kingdom_)  
 {:.subtitle.is-5.mt-5} 
 Exports: Next to nothing. Some metals and few Numenera.  
 Imports: Very little.  
-Known for: A mad king who talks to himself. The melancholy kingdom. The city of needles, and the best swamp chicken stew in Steadfast.  
-Once a coveted piece of land between three neighboring kingdoms, now it is a sad yet independent kingdom. Thaemor was an undesirable swampy land with few inhabitants that suddenly drained into fertile land a couple of hundred years ago. The kingdom that rose from this good fortune was always trying to defend itself from the bigger kingdoms around it. It did so but in the process became fairly isolated, the government unreliable and while the land is fertile, the water clear, the organization is poor, and the taxes high. Power is distributed to the gentry who do the best they can in the strange situation they find themselves in.  Numenera are more common here for some reason, as are the "glimmers" people get. Thaemorians are a dour sort, who hate talks about things getting better. An independent people that suddenly went from good to bad to worse, they are somewhat skeptical about good things. Thaemor has a middle eastern flavor.  
-Secret: Thaemor, formerly Thaemoor, was a marsh that suddenly dried out _by raising itself_ about 300 years ago.  
+Known for: A mad tyrant king who talks to himself. The melancholy kingdom. The city of needles, and the best swamp chicken stew in Steadfast.  
+Once a coveted piece of land between three neighboring kingdoms, now it is a sad yet independent kingdom. Thaemor was an undesirable swampy land with few isolated inhabitants that suddenly drained into fertile land a couple of hundred years ago. The kingdom that rose from this good fortune had to constantly defend itself from the bigger kingdoms around it. It did so, but at great cost. In the process, Thaemor became more isolated, the government unreliable, and while the land is fertile, the water clear, the organization is poor, the taxes high and the ruler unhinged. Power is distributed to the gentry who do the best they can in the strange situation they find themselves in.  Numenera are more common here for some reason, as are the "glimmers" people get. Thaemorians are a dour sort, who hate talks about things getting better. An independent people that suddenly went from good to bad to worse, they are somewhat skeptical about good things. Thaemor has a unique middle-eastern flavor that originates from its pre-drainage days.  
+Secret: Thaemor, formerly Thae moor, was a marsh land that suddenly drained out _by raising itself_ about 300 years ago. Nobody knows what caused the land to rise.  
 Government: Unstable Tyranny with Gentry. Taxes are high.
 
 5) Malevich: (_Transylvania_)  
@@ -144,18 +145,19 @@ Government: Monarchy with Gentry.
 
 Borders:
 {:.subtitle.is-5.mt-5} 
-1. Matheunis: the Cold Desert, the South
+1. __Matheunis, the Cold Desert__  
 What people know: An inhospitable frozen desert that ends in an impassible barrier of ice.
-2. Cloudcrystal Skyfields
+2. __Cloudcrystal Skyfields__  
 What people know: A crystal strewn desert, where nothing grows, and crystal float above. Gaians are said to live beyond that in the out-lands.
 {:.ml-6}
 
 
 ### Languages:
 {:.subtitle.is-3.mt-5} 
-True-lang, or true language, or the language of truth, is the common tongue in the Steadfast. The Amber Papacy teaches it for free throughout Steadfast with its missionaries and monasteries. It has a simple syllabary and it's written phonetically (unlike it's ancient form). The written-form has been simplified for easy teaching, and it takes about a year to learn if you already speak it. The Amber Bible is written in an ancient version of this language which is significantly harder to read and write. Contracts and books are still written in this ancient version of the language. The ability to read simple true-lang is over 90% of the population in cities, writing slightly less so, and only a select few can read or write the ancient form.  
+__True-lang__, or true language, or the language of truth, is the common tongue in the Steadfast. The Amber Papacy teaches it for free throughout Steadfast with its missionaries and monasteries. It has a simple syllabary and it's written phonetically (unlike its ancient form). The written-form has been simplified for easy teaching, and it takes about a year to learn if you already speak it. The Amber Bible is written in an ancient version of this language which is significantly harder to read and write. Contracts and books are still written in this ancient version of the language. The ability to read simple true-lang is over 90% of the population in cities, writing slightly less so, and only a select few can read or write the ancient form.  
 
-Shin-talk, is older than true-lang. It's a merchant talk, it has few words and some hand signals are involved. Almost everybody knows how to count in shin-talk, and children play a game similar to rock-paper-scissor all over, in shin-talk. Shin-talk has no written-form.
+<br>
+__Shin-talk__, is older than true-lang. It's a merchant talk, it has few words and involves some hand signals. Almost everybody knows how to count in shin-talk, and children play a game similar to rock-paper-scissor all over, in shin-talk. Shin-talk has no written-form. Shin-talk is widespread, even outside of Steadfast, in the Outlands and maybe even Beyond. 
 
 ### Economy and Coins:
 {:.subtitle.is-3.mt-5} 
@@ -164,11 +166,11 @@ Shin-talk, is older than true-lang. It's a merchant talk, it has few words and s
 {:.subtitle.is-4} 
 Coinage is called 'shins' everywhere in Steadfast. Most of the economy works on barter. Typically people in a town (or aldeia) will use a split stick to keep track of loans or debts and of taxes. These can be paid with produce instead of coinage. Merchants, guards, mercenaries and aristocrats deal in shins. 
 
-Shins are made of a strange material called iotium: 100 shins can usually be transformed into 1 gram of iotium. Shins come in different shapes, some have stamped visages from one of the nine kingdoms, but most don't. It's not clear what iotium is, but it's necessary for crafting or repairing numenera. Iotium is inert in its normal form. Iotium can be found in its non-inert form and it's call IoTum (IoTi plural) and they are very valuable in crafting Numenera. 
+Shins are made of a strange material called iotium: 100 shins can usually be transformed into 1 gram of iotium. Shins come in different shapes, some have stamped visages from one of the nine kingdoms, but most don't. It's not clear what iotium is, but it's necessary for crafting or repairing numenera. Iotium is inert in its normal form. Iotium can also be found in its non-inert form and then it is called IoTum (IoTi plural) and it's very valuable for crafting Numenera. 
 
 Strangely, there is no fractional currency: it's either a shin or credit.
 
-Shins are not particularly heavy (weighting only a gram or two) so people can carry large amounts easily as well.
+Shins are not particularly heavy (weighting only a gram or two) so people can carry large amounts easily as well. Therefor there are no large denominations of shins. 
 
 > _"Shine"_ – means good in Steadfast. (p. 410)
 

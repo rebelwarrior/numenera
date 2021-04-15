@@ -1,5 +1,7 @@
 # READ ME
 
+Link to site: https://rebelwarrior.github.io/numenera/
+
 This is a Jekyll Website personal project to learn [Bulma CSS framework](https://bulma.io/) and play with CSVs in Jekyll.
 
 Content from Numenera Core Books © Monte Cook Games
@@ -18,6 +20,7 @@ Learned:
 5. Jekyll hosted on GitHub needs two config files one for local development and one for GitHub due to url (site url) property.
 6. Borrowed list styling from Zurb's Foundation. 
 7. Ruby 3.0 requires explicit 'webbrick' call out in Gemfile.
+8. Bulma requires some fiddling to look good on mobile for markdown files. 
 
 Exploring:
 Bulma's spacing helpers: pretty cool 
