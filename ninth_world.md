@@ -6,50 +6,19 @@ layout: posts
 # The World of Numenéra: The Ninth World
 {:.title.is-1} 
 
-## Top Ten Differences
-{:.subtitle.is-3} 
+The Ninth World is like a _medieval magical setting_ but not quite:
 
-The Ninth World is like a magical medieval setting but not quite.
-
-### 1. Solar System and the Moon.
-{:.subtitle.is-5} 
-The solar system is well known, at least in learned circles. This is due to the many [orreries](https://en.wikipedia.org/wiki/Orrery) that were left over from previous ages and the fact that the Moon periodically winks out of existence. 
-
-### 2. Automatons and Visitors
-{:.subtitle.is-5} 
-Automatons, that is sentient non-biological life, is known to exist though uncommon, as are the rarer non-human visitors, beings which come from outside Earth or even other dimensions.
-
-### 3. Abhumans
-{:.subtitle.is-5} 
-Mutants that have become their own sub-species, abhumans are a constant danger to the inhabitants of the ninth world. 
-
-### 4. Enclaves
-{:.subtitle.is-5}  
-Humans don't live in small houses by their farms. They live in enclaves: aldeia or towns (or more rarely family mansions) that are at least minimally fortified. The people then travel out to their fields during the day. 
- 
-### 5. Church and Religion
-{:.subtitle.is-5} 
-Unlike the medieval world, Religion is not uniform in the Ninth World and while the Amber Papacy and its Church are pretty much everywhere in Steadfast, they resemble a monastic order more than a Church.  
-
-### 6. Sex and Gender
-{:.subtitle.is-5} 
-Unlike the medieval world, sex is not taboo, and gender roles are more fluid. There are various numenera that can change your gender, besides the strange genders of visitors and the sometimes asexual nature of automatons. 
-
-### 7. Nanites, Healing and Pestilence
-{:.subtitle.is-5} 
-The world is infused with nanites, including humans. In humans they cause increase healing so people naturally heal over time. Pestilence, infections that can wipe out whole groups people, are unheard-of in the Ninth world unless they are caused by Numenera themselves. 
-
-### 8. The Iron Wind 
-{:.subtitle.is-5} 
-Not all nanites are beneficial, some are mad and rip through the world in a cloud called the Iron wind. Its effects are almost always deleterious. 
-
-### 9. Money
-{:.subtitle.is-5} 
-Gold, jewels, silver, are not worth much. Money in numenera is in shins. 
-
-### 10. Numenera is like Magic
-{:.subtitle.is-5} 
-Numenera is like magic, magical effects, things, material, everything. 
+1. __Numenera__ - Numenera are what we would consider magic.
+2. __Automatons and Visitors__ - The Ninth World has remenants from previous worlds: sentient androids and beings from other worlds. 
+3. __Abhumans__ - Mutated beyond their humanity, abhumans are their own subspecies and a danger to the other inhabitants of the Ninth World. Abhumans are like the goblinoids of a fantasy medieval setting.
+4. __Dangerous World__ - The Ninth World is more dangerous that a medieval world, people live in protected enclaves, not by their farms and avoid travel at night.
+5. __Gender and Sex__ - Gender is not rigid, maybe because Visitor's strange genders, or Automaton's genderless existence or maybe because numenera that can change your gender exist, but gender roles are not like the medieval world. Sex is not Taboo either. 
+6. __Religion__ - Religion is not unified, and the Amber Papacy is more interested in Numenera and its secrets than converting people.  
+7. __Nanites and Healing__ - Nanites, microscopic machines are everywhere in the Ninth World. Due to their presence people natural slowly heal from injury and sickness. Pestilence is unknown, except where numenera effects are involved. 
+8. __Iron Wind__ - Not all nanites are benevolent. Some have gone insane and circle the world in a destructive, mad cloud. 
+9. __Money__ - Money is in shins. Gold, jewels are pretty but not inherently valuable (or even rare).
+10. __Science__ - The Ninth World is more advanced than the medieval world, but this knowledge is not evenly distributed. However, almost everybody knows the solar system due to the many [orreries](https://en.wikipedia.org/wiki/Orrery) left from previous worlds and the fact that the Moon periodically winks out of existence. 
+{:.ml-6}
 
 <br>
 
@@ -67,6 +36,8 @@ The Steadfast is collection of Nine warring kingdoms. Its border to the north is
 
 __Dangerous World and Settlements:__    
 Almost all settlements are walled, and the rest are fenced. While most inhabited places are ok to move around during the day, at night it is a different story. One of the most dangerous jobs is shepherd since they follow the flock and live out in the open. However, while the Steadfast has its dangers and its wild areas, and dangers are quite real, it is not _always_ dangerous. People have learned to travel in large groups as those tend not to attract as much trouble but even the lonely traveler somehow seems to manage to make it from settlement to settlement most of the time.
+{:.card.is-pulled-right.mx-2.table.is-hoverable.is-bordered.ml-4}
+
 
 ## The Nine Kingdoms
 {:.title.is-3.mt-5} 
@@ -243,23 +214,27 @@ Guilds control the trades in pretty much all cities in Steadfast. There is an "a
 
 To start in a guild you become an __apprentice__ to a master who teaches you (and uses you as essentially slave labor) then you get the rank of __journeyman__ (or journey-woman) which lets you work for anyone anywhere the guild is recognized and then after some years and producing an approved 'masterpiece' (and a donation to the guild) you move to the rank of __master__ and can have apprentices of your own.  
 
-Known guilds: _Shipbuilders, Wainwrights (wheel and carriage makers), Cobblers (shoe makers), Coopers (barrel makers), Traders, Carpenters, Masons, Tailors, Smiths, Bricklayers, Borderer (embroider), Soap-makers, Tanners, Bakers, Saddle-makers, Butchers, Mercers (General Traders, a rather risky trade), Adventures/Delvers, Upholsters, Thatchers (roof makers), and Cheese makers._  
+<br>
 
-Guilds that don't exist: _Chandlers (candle makers, because there are numenera that produce light rather commonly), Jewelers (jewels aren't particularly valuable in Steadfast, people work them but there is no guild), Farriers (horse shoe makers, there are no horses), Money-changers (shins don't need to be changed), Cutlers (Knife maker and sharpener, exist but aren't part of a guild.)_  
+__Known guilds:__  
+_Shipbuilders, Wainwrights (wheel and carriage makers), Cobblers (shoe makers), Coopers (barrel makers), Traders, Carpenters, Masons, Tailors, Smiths, Bricklayers, Borderer (embroider), Soap-makers, Tanners, Bakers, Saddle-makers, Butchers, Mercers (General Traders, a rather risky trade), Adventures/Delvers, Upholsters, Thatchers (roof makers), and Cheese makers._  
 
-Healers (a.k.a. Chiurgeons):  
+__Guilds that don't exist:__  
+_Chandlers (candle makers, because there are numenera that produce light rather commonly), Jewelers (jewels aren't particularly valuable in Steadfast, people work them but there is no guild), Farriers (horse shoe makers, there are no horses), Money-changers (shins don't need to be changed), Cutlers (Knife maker and sharpener, exist but aren't part of a guild.)_  
+
+__Healers (a.k.a. Chiurgeons):__    
 Healers are bio-mechanical experts. They're a cross of a Herbal medicine (focused on the proper plants and herbs to eat), a mechanic and a cybernetic doctor. They know how to activate the nanites for healing and how to set and fix bones. Healers have ranks and specialties, but they don't seem to be regulated by a normal guild.
 
-Wright (Numenera crafter):  
+__Wrights (Numenera crafters):__  
 In big cities you can find a wright or two, who specializes in fixing or creating Numenera. Crafting Numenera is exceedingly expensive so professional full-time wrights only exist in places where there is a lot of trade and thus a lot of shins. Because of the ubiquity of Numenara even small aldeia have someone who has a "knack" with Numenara even if they aren't a proper professional wright.
 
-Artists:  
+__Artists:__  
 Some artists have informal guilds, particularly in the south of Steadfast.
 
-Scriveners (Scribes):  
+__Scriveners (Scribes):__  
 Scriveners are controlled exclusively by the Aeon priests.  
 
-#### Inns and places to sleep.
+#### Inns and places to sleep
 {:.subtitle.is-4.mt-5} 
 There are typically two types of places to stay in a town: Ale-houses and Inns. Inns are nice places to stay with separate rooms and even occasionally servants, they are reserved for rich merchants, government officials, and aristocrats. Inns don't have a kitchen for guests and don't serve food. Ale-houses are sort of the opposite, they serve food, but mostly alcohol, and have a place for drunks or poor travelers to "crash" upstairs. They don't usually have beds, and you sort of have to watch your belongings while you sleep. Adventuring guilds (also called Delver's guilds) have similar places to "crash" (and sometimes even barracks for members) but they _do_ hold possessions for members so you don't have to worry about them walking away while you sleep. People in towns commonly rent rooms (and provide board) to journeymen and women who travel for a season, but those usually require a letter of presentation. Merchants do the same for other merchants of the guild, allowing them to stay in their house, usually for free. The very poor or the very desperate sleep on the street. 
 
