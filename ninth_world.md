@@ -297,7 +297,7 @@ Animals in Steadfast | Notes| Cost | Equivalent
 Gallen | Herbivores raised for meat and milk | | Cattle
 Shiul (p. 147) | Massive Four-Horned creatures | | Yaks
 Aneen (p. 225)| Pack animals | 100-1000 shins | Bipedal Camels
-Xi-drakes (p. 259) | Ridable Flying dragons | | Flying dragons/pterodactyl
+Xi-drakes (p. 259) | Ridable Flying dragons | | Flying dragons or pterodactyl
 Seskii (p. 252) | Hell hounds that can be trained | | Wild Hounds
 Raster (p. 248) | Ridable bio-mechanical cross between a bat and a flying squirrel. || Giant Bat crossed with Flying Squirrel (!)
 Brehm (p. 158) | Ridable fast lizards not suitable for pack transport. || Fast Horse-like Velociraptors
