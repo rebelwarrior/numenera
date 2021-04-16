@@ -214,7 +214,7 @@ Full meal with small bottle of Wine | 1 shin
 {:.subtitle.is-4.mt-6} 
 Guilds control the trades in pretty much all cities in Steadfast. There is an "adventuring" guild in some cities as well that will keep track of requests and runs a small barracks for 10% of the take from their posted missions. In some cities, Guilds are quite powerful politically and rival rich merchants in power, in other they're much weaker. Guilds are local and while there is some communication between them (particularly in the North of Steadfast) their strength and organization varies from city to city. Guilds do not regulate healers, scribes or wrights.  
 
-To start in a guild you become an __apprentice__ to a master who teaches you (and uses you as essentially slave labor) then you get the rank of __journeyman__ (or journey-woman) which lets you work for anyone anywhere the guild is recognized and then after some years and producing an approved 'masterpiece' (and a donation to the guild) you move to the rank of __master__ and can have apprentices of your own.  
+To start in a guild you become an __apprentice__ to a master who teaches you (and uses you as essentially slave labor) then you get the rank of __journeyman__ (or journey-woman) which lets you work for anyone anywhere the guild is recognized and then after some years and producing a recognized __masterpiece__ (and a donation to the guild) you move to the rank of __master__ and can have apprentices of your own.  
 
 <br>
 
@@ -247,6 +247,10 @@ Unlike in the medieval world there are no common monasteries that offer hospital
 
 ### Society and Culture
 {:.subtitle.is-3.mt-5} 
+
+#### Gender
+{:.subtitle.is-4.mt-4} 
+Gender is not rigid in the Ninth World. Visitors have strange genders, Automatons may be genderless, and numenera that alter gender exit. Couples of all kinds are not uncommon in the Ninth World and genders are generally considered equal.
 
 #### Games
 {:.subtitle.is-4.mt-4} 
@@ -330,31 +334,28 @@ __Strange to us but familiar to them:__
 Old machines, Self-healing, Numenera, Automatons
 {:.mt-3.mb-3}
 
-Old-Machines:  
+__Old-Machines:__  
 Old-Machines are considered demonic but potentially useful. They're all considered as suspicious. Numenera is the term Aeon Priest use for these too, but in common parlance Numenera is a useful thing, that's potentially dangerous, while an old-machine is something dangerous, that's potentially useful. Old-Machines are treated as if they were sentient or partially sentient and possibly mad.
 
-Numenera:  
+__Numenera:__  
 Numenera are what we would consider magic. They are fascinating, and while some people are suspicious of them, most of steadfast society has adapted and accepted their existence. When you mesh your skin with a machine, these is always called numenera, never called a machine.
 
-Automatons:  
+__Automatons:__  
 Synthetic beings are fairly common in the 9th world. Like people, some are good, some are evil, some benign, some dangerous. They are part of the landscape for residents of the 9th world.
 
-People heal on their own:  
+__People heal on their own:__  
 Unlike our world, most people have this "energy" within them (it actually glows under certain conditions when you heal). These are the __nanites__ rebuilding the body. When the "fire" leaves the body, the body doesn't heal well and death is usually imminent. However, self-healing is slow, sometimes too slow to save the person, therefore healers abound in towns.
 
-Disease:  
+__Disease:__  
 While disease is as common as in our world, the presence of the nanites makes it seem completely different. People tend to recover quickly from sickness, unless it's a "magical" disease. So the normal worries of medieval society around miasma and other explanations for germs don't really exist in the 9th world. If you catch something and don't heal, people know numenera/magic is involved. While famine can decimate the population, widespread plagues aren't known.  
 
-Aldeia and Towns:  
-Unlike the medieval world, most people live _inside_ towns or aldeia and go out to work on the fields during the day (except for market day). (The opposite of real medieval towns.) Typical family home in a town has two floors: a ground floor and a top floor. The top floor is where the family lives in one room and the first floor is for the animals. In an aldiea a typical family home is a single room wooden shack where the livestock and humans all live together. Towns and aldeia are typically ruled by elected councils who collect taxes and are responsible to pay a portion to the regent or noble.
+__Aldeia and Towns:__  
+Unlike the medieval world, most people live _inside_ towns or aldeia and go out to work on the fields during the day (except for market day). (The opposite of real medieval towns.) Typical family home in a town has two floors: a ground floor and a top floor. The top floor is where the family lives in one room and the first floor is for the animals. In an aldiea a typical family home is a single room wooden shack where the livestock and humans all live together. Towns and aldeia are typically ruled by elected councils who collect taxes and are responsible to pay a portion to the regent or noble. In addition to towns, cities and lonely single family homes, there is another common residence in Steadfast, particularly in Milave: the family mansions. These are walled-off complexes of buildings with an internal garden that house the whole family of a rich merchant or a noble and their retinues. They are surrounded by the family's fields, which are typically worked on by slaves. Family mansions are more common in the south than in the north of Steadfast.
 
-Mansions:  
-In addition to towns, cities and lonely single family homes, there is another common residence in Steadfast, particularly in Milave: the family mansions. These are walled-off complexes of buildings with an internal garden that house the whole family of a rich merchant or a noble and their retinues. They are surrounded by the family's fields, which are typically worked on by slaves. Family mansions are more common in the south than in the north of Steadfast.
-
-Slums:  
+__Slums:__  
 Big cities tend to have slums or informal housing built against the wall of the city on the outside or even inside the city walls if there is not enough population. Towns sometimes have stink-alleys where the poorest people live; they smell how they sound and are cleared periodically with people left outside of the town in the morning and not let back in.
 
-Siesta:  
+__Siesta:__  
 Because the day is longer, it is customary in all of Steadfast to take a nap midday, after lunch. Aeon Priests encourage this as they surmise the data-sphere is most active midday as it is solar-powered. Additionally, peasants and agricultural workers don't tend to sleep through the whole night. People in small towns normally go to bed when the sun sets, then wake up in the middle of the night and _"talk"_ or set a small fire before going back to bed and waking up before the sun comes up to go work the fields.
 
 ##### The Weird
