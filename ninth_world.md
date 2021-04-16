@@ -12,7 +12,7 @@ The Ninth World is like a _medieval magical setting_ but not quite:
 2. __Automatons and Visitors__ - The Ninth World has remnants from previous worlds: sentient androids and beings from other worlds. 
 3. __Abhumans__ - Mutated beyond their humanity, abhumans are their own subspecies and a danger to the other inhabitants of the Ninth World. Abhumans are like the goblinoids of a fantasy medieval setting.
 4. __Dangerous World__ - The Ninth World is more dangerous than a medieval world, people live in protected enclaves, rather than by their farms, and avoid travel at night.
-5. __Gender and Sex__ - Gender is not rigid, maybe because Visitor's strange genders, or Automaton's genderless existence or maybe because numenera that can change your gender exist, but gender roles are not like the medieval world. Sex is not Taboo either. 
+5. __Gender and Sex__ - Gender is not rigid, maybe because of Visitor's strange genders, or Automaton's genderless existence or maybe because numenera that can change your gender exist, but gender roles are not like the medieval world. Sex is not Taboo either. 
 6. __Religion__ - Religion is not unified, and the Amber Papacy, the only widespread religion, is more interested in Numenera and its secrets than converting people.  
 7. __Nanites and Healing__ - Nanites, microscopic machines, are everywhere in the Ninth World. Due to their presence, people naturally slowly heal from injury and sickness. Pestilence is unknown, except where the effects of numenera are involved. 
 8. __Iron Wind__ - Not all nanites are benevolent. Some have gone insane and circle the world in a destructive, mad cloud. 
@@ -98,7 +98,7 @@ Government: Unstable Tyranny with Gentry. Taxes are high.
 {:.subtitle.is-5.mt-5} 
 Exports: Numenera (which are found in the chasm) and strange oddities from Yerth.  
 Imports: Foodstuff and anything else it can.  
-Known for: Towns that closed to all outsiders, armored carriages, abhumans, bandits, tarrota, and the Voil chasm.  
+Known for: Towns that are closed to all outsiders, armored carriages, abhumans, bandits, tarrota, and the Voil chasm.  
 Bordered to the south by the Voil Chasm (or the Earthwound as some call it) and to the north by the Thaermor, Malevich was a backwaters land mired in internal civil wars and dreams of conquest. Once a rich land, it is now in ruins. The wealth of the place is concentrated around the few aristocrats and everyone else lives in dire poverty. The aristocrats here can be ___quite depraved___ and the populace poor and superstitious.  
 Secret: Yerth has opened a portal to another dimension.  
 Government: Ostensibly a Monarchy, but in reality it's more of a collection of independent vassal states.
@@ -130,16 +130,18 @@ In Qi, a city of learning, a city of government, wealth is flaunted, put on disp
 Exports: Yellow wool, Arron "sugar", salt and Numenera (from Red Fleet's explorations and ruins)  
 Imports: Red Wood (for masts), Paper, Dynafel Cotton, Processed Metals  
 Known for: Raster Riders, pirates, ruins, sea trade, and the red fleet  
-Ancuan people have been independent and self-reliant since they were the furthest province of the Pytharon Empire. Ancuan is now a kingdom, but like Ghan, it is make up of mostly free-people and has a fairly flat government structure. Unlike Ghan, where the king is well known, and respected, in Ancuan the king is mostly ignored and left to his own devises. Ancuan is a land built on ruins and the countryside abounds with it. Exploration is quite common here and that curiosity also is present in the red fleet, a group of sea explorers. But for all it's salt mines, ruin-laden fields, it is __the sea__ that dominates Ancuan: all major cities have ports. The land of Ancuan has significant riches but also harbors significant dangers which keep it a rather simple kingdom that feels far away from authority.  
+Ancuan people have been independent and self-reliant since they were the farthest province of the Pytharon Empire. Ancuan is now a kingdom, but like Ghan, it is made up of mostly free-people and has a fairly flat government structure. Unlike Ghan, where the king is well known, and respected, in Ancuan the king is mostly ignored and left to his own devises. Ancuan is a land built on ruins and the countryside abounds with it. Exploration is quite common here and that curiosity also is present in the red fleet, a group of sea explorers. But for all it's salt mines, ruin-laden fields, it is __the sea__ that dominates Ancuan: all major cities have ports. The land of Ancuan has significant riches but also harbors significant dangers which keep it a rather simple kingdom that feels very far away from any authority.  
 Secret: There is a town with a hidden side, a hidden Rarrow.  
 Government: Weak Monarchy.
+
+> Iscobal is a land tearing itself apart from within. (p. 153)
 
 9) Iscobal: (_Fantasy France_)   
 {:.subtitle.is-5.mt-5}   
 Exports: Dynafel Cotton, Orange Billiam fruit, pressed-flowers (for cooking),  Wild Game  
 Imports: Numenera (especially those that have to do with dreams)   
 Known for: Palace intrigue, arts, theater, wild game and beautiful nature.  
-Iscobal is a land of great natural beauty, and it is known for its love of the arts. Unfortunately, its monarchy is unstable with competing nobles and palace intrigue and even assassinations attempts on the King which leaves Iscobal trapped in its own affairs.  
+Laying south of Draolis, Iscobal is a land of great natural beauty, with large beautiful wilderness full of game. It is known for its love of the arts. Mulen, its biggest city, even has a grand theater. Unfortunately, Iscobal's monarchy is in turmoil with competing nobles and palace intrigue and even assassinations attempts on the King, which leaves Iscobal mired in its own affairs.  
 Secret: The old queen funded research in the Dreaming Reliquary in the city of Dynafel on how to make dreams a reality.  
 Government: Monarchy with Gentry.
 
