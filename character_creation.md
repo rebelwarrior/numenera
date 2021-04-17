@@ -25,7 +25,7 @@ Grab the [Character Sheet]({{ site.url }}/assets/pdfs/CharacterSheet.pdf)
 In the original Numenera only three types were available (Glaive, Nano and Jack) and I suggest you stick to those when starting out. Unlike other systems, in Numeneara it is the combination of your type, descriptor and focus that really define your character, so your type is only about one third of your character.
 
 <br>
-Characters can be divided into multiple archetypes: Your best game divides them into 8 archetypes and Live to Tell the Tale into 6 ability contour archetypes. But the way Numenera deals with the descriptor type and focus allows you to mix and match more easily. So don't worry too much about that. If you want to learn more see [archetypes]({{ site.url }}/archetypes). (Archetypes can be useful in creating a niche or separate roles for characters in a group and letting each character shine in their own way.)
+Characters can be divided into multiple archetypes: Your best game divides them into 8 archetypes and Live to Tell the Tale into 6 ability contour archetypes. But the way Numenera deals with the descriptor type and focus allows you to mix and match more easily. So don't worry too much about that. If you want to learn more see [Archetypes]({{ site.url }}/archetypes). (Archetypes can be useful in creating a niche or separate roles for characters in a group and letting each character shine in their own way.)
 
 <br>
 Go to the [Starting Values Table]({{ site.url }}/tables/starting_values) and put them on your character sheet. 
@@ -62,7 +62,7 @@ Check out "Breaks down walls"
 #### 4. Choose Two Type Abilities (2/5 to 2/9)
 {:.subtitle.is-4.mt-4} 
 
-Your Type has at least a five options for you to __choose 2 tier abilities__ corresponding to your type at tier one. Pick these after your focus since you'll want them to compliment each other. See the [Tier Abilities Table]({{ site.url}}/tables/tier_abilities.md)
+Your Type has at least a five options for you to __choose 2 tier abilities__ corresponding to your type at tier one. Pick these after your focus since you'll want them to compliment each other. See the [Tier Abilities Table]({{ site.url}}/tables/tier_abilities)
 
 
 #### 5. Resolve Skills Choices (from Type or Focus).
