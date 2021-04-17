@@ -326,7 +326,7 @@ Plants in Steadfast | Notes
 Ganch (weed) | Weed
 Cotton, Beans, Corn | -
 Orange Billam fuit | Oranges
-Arror (p. 160) | Sweet grain (Jakary? Sugar)
+Arror (p. 160) | Sweet grain (like [Jaggery](https://en.wikipedia.org/wiki/Jaggery) Sugar)
 {:.table.is-hoverable.is-bordered}
 
 • Plastic, Metal and synthetic fibers are very common in the 9th world, but unlike our world these materials aren't exactly industrially made. There are multiple plants that produce synthetic and colorful fibers and colors. Synth-steel can be found in the ruins of old tech. 

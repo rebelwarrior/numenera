@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.min.css"> -->
+		<link rel="stylesheet" href="{{ site.url }}/assets/stylesheets/bulma.css">
+		<script src="{{ site.url}}/assets/javascripts/navbar.js"></script>
+		<script defer src="https://use.fontawesome.com/releases/v5.14.0/js/all.js"></script>
+		{% include mathjax.html %}
+  </head>
+  <body>
+		{% include header.html %}
+		<section id="green-line" class=""></section>
+		<br>
+		<div class="container is-widescreen with-background px-3">
+			{{ content }}		
+		</div>
+		<!-- {% include footer.html %} -->
+  </body>
+</html>
