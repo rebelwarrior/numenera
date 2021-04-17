@@ -23,3 +23,11 @@ end
 2/9 = 36
 2/7 = 21
 ```
+
+### Combination Formula
+
+$$
+\binom nk = \frac{n!}{k!(n-k)!}
+$$
+
+### Permutation Formula?

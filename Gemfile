@@ -31,3 +31,6 @@ gem 'rouge' # 3.26.0
 ## Explicitly Required for Ruby 3.0 ##
 gem 'webrick'  # 1.7.0
 
+## Gem for Nesting Yamls excellent for double configs
+gem 'yaml_extend'
+

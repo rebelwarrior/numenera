@@ -5,6 +5,7 @@ GEM
       public_suffix (>= 2.0.2, < 5.0)
     colorator (1.1.0)
     concurrent-ruby (1.1.8)
+    deep_merge (1.2.1)
     em-websocket (0.5.2)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -65,6 +66,8 @@ GEM
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.7.0)
     webrick (1.7.0)
+    yaml_extend (1.1.1)
+      deep_merge (~> 1.1)
 
 PLATFORMS
   x86_64-darwin-19
@@ -79,6 +82,7 @@ DEPENDENCIES
   tzinfo-data
   wdm (~> 0.1.1)
   webrick
+  yaml_extend
 
 BUNDLED WITH
    2.2.15

@@ -17,10 +17,11 @@ Learned:
 2. Bulma __tables look good__ and you can use highlights to give a better look to the header. 
 3. Hamburger menu requires a data-target which is not well documented in the Bulma examples. Looks good and simple to make. 
 4. Learned how to add classes to elements in Kramdown. `{:.class-name}`
-5. Jekyll hosted on GitHub needs two config files one for local development and one for GitHub due to url (site url) property.
+5. Jekyll hosted on GitHub needs two config files one for local development and one for GitHub due to url (site url) property. (see no. 9 below too)
 6. Borrowed list styling from Zurb's Foundation. 
 7. Ruby 3.0 requires explicit 'webbrick' call out in Gemfile.
 8. Bulma requires some fiddling to look good on mobile for markdown files. [Spacing Helpers](https://bulma.io/documentation/helpers/spacing-helpers/)
+9. Found a better way to use a dev config using the gem `yaml_extend`
 
 Exploring:
 Bulma's spacing helpers: pretty cool 
