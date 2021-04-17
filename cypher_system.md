@@ -20,5 +20,5 @@ These are the general rules that allow you to play in many genres like Fantasy, 
 {:.subtitle.is-5.mt-4} 
 
 Dinosaurs are cool...
-
+{:.mb-2}
 

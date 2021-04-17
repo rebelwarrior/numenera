@@ -134,7 +134,7 @@ Ancuan people have been independent and self-reliant since they were the farthes
 Secret: There is a town with a hidden side, a hidden Rarrow.  
 Government: Weak Monarchy.
 
-> _"Iscobal is a land tearing itself apart from within."_ – Numenera Discovery, p. 153.
+> _"Iscobal is a land tearing itself apart from within."_ – Numenera Discovery (p. 153).
 
 9) Iscobal: (_Fantasy France_)   
 {:.subtitle.is-5.mt-5}   
@@ -277,9 +277,9 @@ Food in Steadfast is a decidedly local affair, though there are some staples con
 
 #### Religion
 {:.subtitle.is-4.mt-4} 
-Religion, like food, is a decidedly local affair, though there is a widespread Church-like organization in Steadfast in the form of __the Amber Papacy__, they operate mostly secularly. The Amber Papacy, also called The Order of Truth, and their __Aeon Priests__ are the most trusted experts on numenera.  Additionally the Amber Papacy promotes literacy and controls all scribes (which are used for written contracts) which give it a lot of knowledge and therefore power. 
+Religion, like food, is a decidedly local affair, though there is a widespread Church-like organization in Steadfast in the form of __the Amber Papacy__, they operate mostly secularly. The Amber Papacy, also called The Order of Truth, and their __Aeon Priests__ are the most trusted experts on numenera.  Additionally, the Amber Papacy promotes literacy and controls all scribes (used for almost all written contracts) which give it a lot of knowledge and therefore power. 
 
-> _"May the spirits of the ancients bless this endeavor."_ – Common Aeon Priest blessing.
+> _"May the spirits of the ancients bless this endeavor."_ – Aeon Priest blessing.
 
 #### Music
 {:.subtitle.is-4.mt-4} 
