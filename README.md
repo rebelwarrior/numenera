@@ -26,6 +26,7 @@ Learned:
 Exploring:
 Bulma's spacing helpers: pretty cool 
 Jekyll site-url with github: set `url` on the _config.yml to the github produced url. 
+Alias: `jekyll serve --config _config.dev.yml`
 
 
 ## Conclussion 

@@ -252,7 +252,7 @@ Unlike in the medieval world there are no common monasteries that offer hospital
 
 #### Gender
 {:.subtitle.is-4.mt-4} 
-Gender is not rigid in the Ninth World. Visitors have strange genders, Automatons may be genderless, and numenera that alter gender exit. Couples of all kinds are not uncommon in the Ninth World and genders are generally considered equal.
+Gender is not rigid in the Ninth World. Visitors have strange genders, Automatons may be genderless, and numenera that alter gender exist. Couples of all kinds are not uncommon in the Ninth World and genders are generally considered equal throughout.
 
 #### Games
 {:.subtitle.is-4.mt-4} 
@@ -275,6 +275,11 @@ Expensive colors: Indigo, Gold-thread (not cause gold is rare, but because threa
 #### Food
 {:.subtitle.is-4.mt-4} 
 Food in Steadfast is a decidedly local affair, though there are some staples consumed widely. Cheese and bread are common throughout steadfast and blue-rat on a pike is a favorite festival food all around, especially the ones with a crispy tail.
+
+#### Religion
+{:.subtitle.is-4.mt-4} 
+Religion like food is a decidedly local affair, though there is a widespread Church in Steadfast in the form of __the Amber Papacy__, they operate mostly secularly. The Church promotes literacy and controls all scribes which give it a lot of knowledge and therefore power. 
+
 
 #### Music
 {:.subtitle.is-4.mt-4} 
