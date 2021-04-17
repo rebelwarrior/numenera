@@ -58,7 +58,7 @@ Based rather heavily on Keith Ammann work, I like to sum this up into 4 battle a
 These make more sense but none quite map to Numenera because:
 
 1. __Any character can wear armor.__ The penalty for wearing armor is not being able to avoid getting hit as easily. So if you're good at avoiding getting hit like a Striker, you may not even need armor or a Tank character. You can also quickly get armor or loose it as the group make-up changes. There is flexibility in armor. 
-2. Damage can be on any one of the pools exclusively. This prevents the whole hit-points being one single pool. 
+2. No single pool of damage. Even though excess damage spills over to other pools, damage can occur to multiple pools simultaneously and its kept track separately. This prevents the whole hit-points being one single pool. 
 3. __No single character-type has a monopoly__ on massive damage capabilities like a Wizard in D&D does. 
 4. Only three ability scores as opposed to six in other RPGs. 
 5. The __importance of non-combat roles__ in Numenera is larger than in other RPGs.  
