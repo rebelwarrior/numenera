@@ -134,7 +134,7 @@ Ancuan people have been independent and self-reliant since they were the farthes
 Secret: There is a town with a hidden side, a hidden Rarrow.  
 Government: Weak Monarchy.
 
-> Iscobal is a land tearing itself apart from within. (p. 153)
+> _"Iscobal is a land tearing itself apart from within."_ – Numenera Discovery, p. 153.
 
 9) Iscobal: (_Fantasy France_)   
 {:.subtitle.is-5.mt-5}   
@@ -261,7 +261,6 @@ The game of _"ball"_ is played throughout Steadfast. It is like soccer. except i
 In Malevich, they play a card "game" called Tarrota; and it's said those with the glimmer can predict the future with them. A simplified version of the game is played throughout Steadfast as well.
 
 Four Dimensions is a game that is a strange mix of mahjong, chess and go. It is played with magnetic tiles and metal figurines. Each tile is held like in mahjong, secret to other player, then played as a tile on the board with or without a figurine on top. The tiles being magnetic they can be placed vertical to the game board and can end up forming a cube with two sides open. On your turn you either place a tile or move one of your figurines among the already placed tiles. The game is _viscerally_ hard and a board with pieces is so expensive it's essentially an artifact. Most people play the simplified version with non-magnetic tiles and in only one dimension.  
-
 Betting happens in all games throughout Steadfast, though most commonly in animal races or competitions. In towns and aldeia betting is a low key affair usually not involving shins, but other things like dares and chores. If you want real action, you need to go to the large cities. 
 
 #### Working the fields
@@ -279,6 +278,8 @@ Food in Steadfast is a decidedly local affair, though there are some staples con
 #### Religion
 {:.subtitle.is-4.mt-4} 
 Religion, like food, is a decidedly local affair, though there is a widespread Church-like organization in Steadfast in the form of __the Amber Papacy__, they operate mostly secularly. The Amber Papacy, also called The Order of Truth, and their __Aeon Priests__ are the most trusted experts on numenera.  Additionally the Amber Papacy promotes literacy and controls all scribes (which are used for written contracts) which give it a lot of knowledge and therefore power. 
+
+> _"May the spirits of the ancients bless this endeavor."_ – Common Aeon Priest blessing.
 
 #### Music
 {:.subtitle.is-4.mt-4} 
