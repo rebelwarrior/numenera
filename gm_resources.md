@@ -4,7 +4,7 @@ layout: posts
 ---
 
 # GM'ing Resources
-{:.title.is-2} 
+{:.title.is-2.mt-2} 
 
 <!-- <div class="tabs is-boxed" id="tabs">
   <ul>

@@ -5,7 +5,7 @@ layout: posts
 ---
 
 ## 50 Character Builder Questions for your Tabletop Character
-{:.title.is-2} 
+{:.title.is-2.mt-2} 
 
 _by Ginny Di see: [Ginny Di's youtube](http://youtube.com/ginnydi) or [her website](https://www.ginnydi.com/)_
 

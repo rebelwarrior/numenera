@@ -4,7 +4,7 @@ layout: posts
 ---
 
 # Character Creation 
-{:.title.is-1} 
+{:.title.is-1.mt-2} 
 
 ### Steps:
 {:.subtitle.is-3} 

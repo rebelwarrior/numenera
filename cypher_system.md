@@ -4,7 +4,7 @@ layout: posts
 ---
 
 # Other Cypher Rule Systems
-{:.title.is-1} 
+{:.title.is-1.mt-2} 
 
 ### The Strange
 {:.subtitle.is-4.mt-4} 

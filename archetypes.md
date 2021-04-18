@@ -4,7 +4,7 @@ layout: posts
 ---
 
 # Character Archetypes
-{:.title.is-1} 
+{:.title.is-1.mt-2} 
 
 ## Your Best Game Ever By Monte Cook
 {:.subtitle.is-3} 

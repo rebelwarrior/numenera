@@ -4,11 +4,11 @@ layout: posts
 ---
 
 # The World of Numenéra: The Ninth World
-{:.title.is-1} 
+{:.title.is-1.mt-2} 
 
 The Ninth World is like a _medieval magical setting_ but not quite:
 
-1. __Numenera__ - Numenera is the _sufficiently advanced technologies_ leftover from the previous eras of the Ninth World. It is what we would consider magic. It is a global term for items, effects and abilities that are potentially useful. 
+1. __Numenera__ - Numenera are the _sufficiently advanced technologies_ leftover from the previous eras of the Ninth World. It is what we would consider magic. It is a global term for items, effects and abilities that are potentially useful. 
 > _"Any sufficiently advanced technology is indistinguishable from magic."_ – Arthur C. Clarke's Third Law
 2. __Automatons and Visitors__ - The Ninth World has living remnants from previous worlds: sentient androids and beings from other worlds. 
 3. __Abhumans__ - Mutated beyond their humanity, abhumans are their own subspecies and a danger to the other inhabitants of the Ninth World. Abhumans are like the goblinoids of a fantasy medieval setting.
@@ -18,7 +18,7 @@ The Ninth World is like a _medieval magical setting_ but not quite:
 7. __Nanites and Healing__ - Nanites, microscopic machines, are everywhere in the Ninth World. Due to their presence, people naturally slowly heal from injury and sickness. Pestilence is unknown, except where the effects of numenera are involved. 
 8. __Iron Wind__ - Not all nanites are benevolent. Some have gone insane and circle the world in a destructive, mad cloud. 
 9. __Money__ - Money is in shins. Gold, jewels are pretty but not inherently valuable (or even rare).
-10. __Science__ - The Ninth World is more scientifically advanced than the medieval world, but this knowledge is not distributed. Almost everybody, however, knows the solar system due to the many [orreries](https://en.wikipedia.org/wiki/Orrery) left over from previous worlds (and the fact that the Moon periodically _winks out_ of existence). 
+10. __Science__ - The Ninth World is more scientifically advanced than the medieval world, but knowledge is not distributed. Almost everybody, however, knows the solar system due to the many [orreries](https://en.wikipedia.org/wiki/Orrery) left over from previous worlds (and the fact that the Moon periodically _winks out_ of existence). 
 {:.ml-6}
 
 <br>
