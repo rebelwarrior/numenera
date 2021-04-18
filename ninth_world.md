@@ -167,7 +167,7 @@ __Shin-talk__, is older than true-lang. It's a merchant talk, it has few words a
 
 #### Coins (_Shins_)
 {:.subtitle.is-4} 
-Coinage is called 'shins' everywhere in Steadfast. Most of the economy works on barter. Typically people in a town (or aldeia) will use a split stick to keep track of loans or debts and of taxes. These can be paid with produce instead of coinage. Merchants, guards, mercenaries and aristocrats deal in shins. 
+Coinage is called 'shins' everywhere in Steadfast. Most of the economy works on barter. Typically people in a town (or aldeia) will use a [split stick](https://en.wikipedia.org/wiki/Tally_stick#Split_tally) to keep track of loans or debts and of taxes. These can be paid with produce instead of coinage. Merchants, guards, mercenaries and aristocrats deal in shins. 
 
 Shins are made of a strange material called iotium: 100 shins can usually be transformed into 1 gram of iotium. Shins come in different shapes, some have stamped visages from one of the nine kingdoms, but most don't. It's not clear what iotium is, but it's necessary for crafting or repairing numenera. Iotium is inert in its normal form. Iotium can also be found in its non-inert form and then it is called IoTum (IoTi plural) and it's very valuable for crafting Numenera. 
 
