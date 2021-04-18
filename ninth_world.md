@@ -8,7 +8,7 @@ layout: posts
 
 The Ninth World is like a _medieval magical setting_ but not quite:
 
-1. __Numenera__ - Numenera are what we would consider magic.
+1. __Numenera__ - Numenera, remnants from previous worlds, are what we would consider magic.
 2. __Automatons and Visitors__ - The Ninth World has remnants from previous worlds: sentient androids and beings from other worlds. 
 3. __Abhumans__ - Mutated beyond their humanity, abhumans are their own subspecies and a danger to the other inhabitants of the Ninth World. Abhumans are like the goblinoids of a fantasy medieval setting.
 4. __Dangerous World__ - The Ninth World is more dangerous than a medieval world, people live in protected enclaves, rather than by their farms, and avoid travel at night.
@@ -26,7 +26,7 @@ The Ninth World is like a _medieval magical setting_ but not quite:
 {:.subtitle.is-2} 
 
 _The Steadfast_    
-The Steadfast is collection of Nine warring kingdoms. Its border to the north is the __Tithe river__ that leads to the cloud-crystal sky-fields. To the south there is the frozen south and the frozen dessert beyond the __Sadara river__. The __sea__ lies to the East and the __Black Riage Mountains__ to the West and form the other boundaries of the Steadfast.
+The Steadfast is a collection of Nine warring kingdoms. Its border to the north is the __Tithe river__ that leads to the cloud-crystal sky-fields. To the south there is the frozen south and the frozen dessert beyond the __Sadara river__. The __sea__ lies to the east and the __Black Riage Mountains__ to the west and form the other boundaries of the Steadfast.
 
 > _"Many places offer sanctuary in the Ninth World. That’s why so many people never travel far."_ – Ninth World Bestiary 2
 

@@ -7,6 +7,10 @@ usemathjax: true
 def probability(total_options, selecting)
   factorial(total_options) / (factorial(selecting)*factorial(total_options - selecting))
 end
+def permutation(total_options,selecting_this_many)
+  n,r = [total_options,selecting_this_many]
+  factorial(n)/factorial(n-r)
+end
 def factorial(n)
   (1..n).reduce(1, :*)
 end
