@@ -8,7 +8,7 @@ layout: posts
 
 The Ninth World is like a _medieval magical setting_ but not quite:
 
-1. __Numenera__ - Numenera, remnants from previous worlds, are what we would consider magic.
+1. __Numenera__ - Numenera are remnants from previous worlds, and are so advanced they are what we would consider magic.
 2. __Automatons and Visitors__ - The Ninth World has remnants from previous worlds: sentient androids and beings from other worlds. 
 3. __Abhumans__ - Mutated beyond their humanity, abhumans are their own subspecies and a danger to the other inhabitants of the Ninth World. Abhumans are like the goblinoids of a fantasy medieval setting.
 4. __Dangerous World__ - The Ninth World is more dangerous than a medieval world, people live in protected enclaves, rather than by their farms, and avoid travel at night.
