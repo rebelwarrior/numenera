@@ -59,7 +59,7 @@ Look at the [Foci Table]({{ site.url}}/tables/foci) which has comic book and mov
 For example: Do you want to play a character like Super Mario? 
 Check out "Breaks down walls"
 
-> Type (1/6), Descriptor (1/47) and Focus (1/39) give over 10,000 permutations.
+> Type (1/6), Descriptor (1/47) and Focus (1/39) give 10,998 permutations.
 
 #### 4. Choose Two Type Abilities (2/5 to 2/9)
 {:.subtitle.is-4.mt-4} 

@@ -8,12 +8,13 @@ layout: posts
 
 The Ninth World is like a _medieval magical setting_ but not quite:
 
-1. __Numenera__ - Numenera are remnants from previous worlds, and are so advanced they are what we would consider magic.
-2. __Automatons and Visitors__ - The Ninth World has remnants from previous worlds: sentient androids and beings from other worlds. 
+1. __Numenera__ - Numenera is the _sufficiently advanced technologies_ leftover from the previous eras of the Ninth World. It is what we would consider magic. It is a global term for items, effects and abilities that are potentially useful. 
+> _"Any sufficiently advanced technology is indistinguishable from magic."_ – Arthur C. Clarke's Third Law
+2. __Automatons and Visitors__ - The Ninth World has living remnants from previous worlds: sentient androids and beings from other worlds. 
 3. __Abhumans__ - Mutated beyond their humanity, abhumans are their own subspecies and a danger to the other inhabitants of the Ninth World. Abhumans are like the goblinoids of a fantasy medieval setting.
 4. __Dangerous World__ - The Ninth World is more dangerous than a medieval world, people live in protected enclaves, rather than by their farms, and avoid travel at night.
 5. __Gender and Sex__ - Gender is not rigid, maybe because of Visitor's strange genders, or Automaton's genderless existence or maybe because numenera that can change your gender exist, but gender roles are not like the medieval world. Sex is not Taboo either. 
-6. __Religion__ - Religion is not unified, and the Amber Papacy, the only widespread religion, is more interested in Numenera and its secrets than converting people.  
+6. __Religion__ - Religion is not unified, and the Amber Papacy, the only widespread religion, is more interested in Numenera and its secrets than in converting people.  
 7. __Nanites and Healing__ - Nanites, microscopic machines, are everywhere in the Ninth World. Due to their presence, people naturally slowly heal from injury and sickness. Pestilence is unknown, except where the effects of numenera are involved. 
 8. __Iron Wind__ - Not all nanites are benevolent. Some have gone insane and circle the world in a destructive, mad cloud. 
 9. __Money__ - Money is in shins. Gold, jewels are pretty but not inherently valuable (or even rare).
