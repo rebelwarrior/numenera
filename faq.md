@@ -14,11 +14,14 @@ layout: posts
 6. Melee attacks can be Might or Speed rolls, player's choice. Range attacks are usually Speed rolls.
 7. Characters heal by resting.
 {:.ml-6}
+8. __Bashing__ is __blunt weapon__ damage or specialty. 
 
 ## F.A.Q.
 {:.title.is-2} 
 
 1. Can you put Effort to increase the damage of a Nano's Onslaught? 
 {:.ml-6}
+
+> _"You know what they say, you can't buy experience but it sure is expensive to get."_ – Automaton known as "Glen Rust"
 
 <br>

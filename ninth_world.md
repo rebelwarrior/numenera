@@ -360,6 +360,8 @@ While disease is as common as in our world, the presence of the nanites makes it
 __Aldeia and Towns:__  
 Unlike the medieval world, most people live _inside_ towns or aldeia and go out to work on the fields during the day (except for market day). (The opposite of real medieval towns.) Typical family home in a town has two floors: a ground floor and a top floor. The top floor is where the family lives in one room and the first floor is for the animals. In an aldiea a typical family home is a single room wooden shack where the livestock and humans all live together. Towns and aldeia are typically ruled by elected councils who collect taxes and are responsible to pay a portion to the regent or noble. In addition to towns, cities and lonely single family homes, there is another common residence in Steadfast, particularly in Milave: the family mansions. These are walled-off complexes of buildings with an internal garden that house the whole family of a rich merchant or a noble and their retinues. They are surrounded by the family's fields, which are typically worked on by slaves. Family mansions are more common in the south than in the north of Steadfast.
 
+> Taxes or fees in Steadfast are called tribute, taxes or more commonly: _"skot"_. Skot-free (no fee) is also used.
+
 __Slums:__  
 Big cities tend to have slums or informal housing built against the wall of the city on the outside or even inside the city walls if there is not enough population. Towns sometimes have stink-alleys where the poorest people live; they smell how they sound and are cleared periodically with people left outside of the town in the morning and not let back in.
 
