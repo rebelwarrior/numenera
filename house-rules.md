@@ -1,4 +1,11 @@
 # House Rules
+
+__sign cutter:__ tracking abilty
+
+
+Add danger sense to Lives In the Wilderness focus on Tier 1. 
+
+# House Rules
 ## Pack 12 Item slot
 
 You have 12 item slots within reach roll a d12 (optional) for the target slot or over to get it or you have to spend a turn getting it. 

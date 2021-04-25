@@ -68,6 +68,7 @@ These are necessary for the progress in the adventure.
 Their main purpose is to "inject drama into the meta-game." By using this keys the PCs don't know if it is a necessary key or one meant to make things interesting. They have to figure it out.
 {:.ml-6}
 
-
 ### Landmass Names
+{:.title.is-4} 
 [Glossary of landforms](https://en.wikipedia.org/wiki/Glossary_of_landforms)
+{:.mb-2}
