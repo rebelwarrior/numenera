@@ -1,8 +1,14 @@
+---
+title: The Wandering Walk
+layout: posts
+---
+
 # Wandering Walk
+{:.title.is-1.mt-2} 
 
 The wondering walk doesn't make any sense to me. It is too dangerous for it to be a casual pilgrimage and Religion doesn't seem to quite fit in the Ninth World.
 
-However, the book "Wanderers" by Chuck Wendig does have an out for this. What if the pilgrims are being compelled to walk and are being controlled by outside or even distemporal forces. Then these wonderers are somehow protected at least partially. Abhumans won't touch them; they think they're cursed. Wanderers on the path seem to disappear to outside viewers at times, but to those on the path nothing seems to change.
+However, the book __"Wanderers" by Chuck Wendig__ does have an out for this. What if the pilgrims are being compelled to walk and are being controlled by outside or even distemporal forces. Then these wonderers are somehow protected at least partially. Abhumans won't touch them; they think they're cursed. Wanderers on the path seem to disappear to outside viewers at times, but to those on the path nothing seems to change.
 
 The circular red mark that appears on true pilgrims mark is being caused by an outside effect. Nobody knows what causes this but it compels pilgrims on their way. Sometimes regular family or friends join in seeking to protect the affected family member or friend.
 
