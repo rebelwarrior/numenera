@@ -22,6 +22,9 @@ Grab the [Character Sheet]({{ site.url }}/assets/pdfs/CharacterSheet.pdf)
 6. Delve  (_Explorers_)
 {:.ml-6}
 
+![]({{ site.url }}/assets/images/Numenera_Pyramid_sm.jpg)
+{:.image}
+
 In the original Numenera only three types were available (Glaive, Nano and Jack) and I suggest you stick to those when starting out. Unlike other systems, in Numeneara it is the combination of your type, descriptor and focus that really define your character, so your type is only about one third of your character.
 
 <br>

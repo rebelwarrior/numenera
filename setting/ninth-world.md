@@ -1,5 +1,5 @@
 ---
-title: Setting
+title: Setting: The Ninth World
 layout: posts
 ---
 
@@ -21,7 +21,7 @@ The Ninth World is like a _medieval magical setting_ but not quite:
 10. __Science__ - The Ninth World is more scientifically advanced than the medieval world, but knowledge is not distributed. Almost everybody, however, knows the solar system due to the many [orreries](https://en.wikipedia.org/wiki/Orrery) left over from previous worlds (and the fact that the Moon periodically _winks out_ of existence).
 {:.ml-6}
 
-<br>
+<br> 
 
 ## Location:
 {:.subtitle.is-2}
@@ -295,7 +295,7 @@ Science is way more advanced in Steadfast than it ever was in the medieval world
 The fastest and safest trade is via rivers, so the biggest towns and cities lie close to rivers, especially deep navigable rivers. Mercers (traders) maintain trade routes between all the kingdom and major cities in Steadfast and some even beyond. Because travel is expensive and dangerous, this trade takes place in organized caravans, that hire protection for the trip. Unless it's a day trip, traders do not set out on their own.
 
 ![Monolith]({{ site.url }}/assets/images/Monolith_water.png)
-{:.mt-4}
+{:.image.is-4by3.mt-4}
 
 ### The _'Weird'_ and Normalcy:
 {:.subtitle.is-3.mt-5}
