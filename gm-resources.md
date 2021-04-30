@@ -33,9 +33,8 @@ layout: posts
 {:.title.is-3} 
 
 1. [Consent in RPG Check List](https://www.montecookgames.com/consent-in-gaming/) Excellent resource. 
-{:.ml-6}
-
 2. [The Infinite Construct](https://www.youtube.com/c/THEINFINITECONSTRUCT) has some great music and Numenera Q&As.
+{:.ml-6}
 
 ### Keys 
 {:.title.is-4} 
