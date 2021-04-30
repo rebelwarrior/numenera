@@ -1,5 +1,5 @@
 ---
-title: Setting: The Ninth World
+title: "Setting: The Ninth World"
 layout: posts
 ---
 
@@ -199,7 +199,7 @@ day labor agricultural | 1 shin/day  + food (credit)
 day labor building (city) | 1 shin/day (cash)
 carpenter/mason/journeyman | 3 shin/day
 master carpenter/mason/craft-person | 6 shin/day
-{:.card.is-pulled-right.mx-2.table.is-hoverable.is-bordered.ml-4}
+{:.card.is-pulled-right.px-2.table.is-hoverable.is-bordered.ml-4}
 
 Food | Shins
 :--- | :---
@@ -215,17 +215,19 @@ Full meal with small bottle of Wine | 1 shin
 
 #### Guilds
 {:.subtitle.is-4.mt-6}
-Guilds control the trades in pretty much all cities in Steadfast. There is an "adventuring" guild in some cities as well that will keep track of requests and runs a small barracks for 10% of the take from their posted missions. In some cities, Guilds are quite powerful politically and rival rich merchants in power, in other they're much weaker. Guilds are local and while there is some communication between them (particularly in the North of Steadfast) their strength and organization varies from city to city. Guilds do not regulate healers, scribes or wrights.  
+Guilds control the trades in pretty much all cities in Steadfast. There is an "adventuring" guild in some cities as well that will keep track of requests and runs a small barracks for 10% of the take from their posted missions.  
+
+In some cities, Guilds are quite powerful politically and rival rich merchants in power, in other they're much weaker. Guilds are local and while there is some communication between them (particularly in the North of Steadfast) their strength and organization varies from city to city. Guilds do not regulate healers, scribes or wrights.  
 
 To start in a guild you become an __apprentice__ to a master who teaches you (and uses you as essentially slave labor) then you get the rank of __journeyman__ (or journey-woman) which lets you work for anyone anywhere the guild is recognized and then after some years and producing a recognized __masterpiece__ (and a donation to the guild) you move to the rank of __master__ and can have apprentices of your own.  
 
 <br>
 
 __Known guilds:__  
-_Shipbuilders, Wainwrights (wheel and carriage makers), Cobblers (shoe makers), Coopers (barrel makers), Traders, Carpenters, Masons, Tailors, Smiths, Bricklayers, Borderer (embroider), Soap-makers, Tanners, Bakers, Saddle-makers, Butchers, Mercers (General Traders, a rather risky trade), Adventures/Delvers, Upholsters, Thatchers (roof makers), and Cheese makers._  
+_Shipbuilders, Wainwrights (wheel and carriage makers), Cobblers (shoe makers), Coopers (barrel makers), Carpenters, Masons, Tailors, Smiths, Bricklayers, Borderer (embroider), Soap-makers, Tanners, Bakers, Saddle-makers, Butchers, Mercers (General Traders, a rather risky trade), Adventures/Delvers, Upholsters, Thatchers (roof makers), and Cheese makers._  
 
 __Guilds that don't exist:__  
-_Chandlers (candle makers, because there are numenera that produce light rather commonly), Jewelers (jewels aren't particularly valuable in Steadfast, people work them but there is no guild), Farriers (horse shoe makers, there are no horses), Money-changers (shins don't need to be changed), Cutlers (Knife maker and sharpener, exist but aren't part of a guild.)_  
+_Chandlers (candle makers, because there are numenera that produce light rather commonly), Jewelers (jewels aren't particularly valuable in Steadfast, people work them but there is no guild), Farriers (horse shoe makers, there are no horses), Money-changers (shins don't usually need to be changed), Cutlers (Knife maker and sharpener, exist but aren't part of a guild.)_  
 
 __Healers (a.k.a. Chiurgeons):__    
 Healers are bio-mechanical experts. They're a cross of a Herbal medicine (focused on the proper plants and herbs to eat), a mechanic and a cybernetic doctor. They know how to activate the nanites for healing and how to set and fix bones. Healers have ranks and specialties, but they don't seem to be regulated by a normal guild.
@@ -257,11 +259,12 @@ Gender is not rigid in the Ninth World. Visitors have strange genders, Automaton
 
 #### Games
 {:.subtitle.is-4.mt-4}
-The game of _"ball"_ is played throughout Steadfast. It is like soccer. except it's played by small and large groups alike (up to 300-500 people) and fighting, tripping, and pushing opponents seems to be permitted in most versions. Trades typically play against each other in teams.
+The game of _"ball"_ is played throughout Steadfast. It is simmilar to soccer, except it's played by small and large groups alike (up to 300 people at once) and fighting, tripping, and pushing opponents seems to be permitted in most versions. Trades commonly play against each other in teams.
 
 In Malevich, they play a card "game" called Tarrota; and it's said those with the glimmer can predict the future with them. A simplified version of the game is played throughout Steadfast as well.
 
-Four Dimensions is a game that is a strange mix of mahjong, chess and go. It is played with magnetic tiles and metal figurines. Each tile is held like in mahjong, secret to other player, then played as a tile on the board with or without a figurine on top. The tiles being magnetic they can be placed vertical to the game board and can end up forming a cube with two sides open. On your turn you either place a tile or move one of your figurines among the already placed tiles. The game is _viscerally_ hard and a board with pieces is so expensive it's essentially an artifact. Most people play the simplified version with non-magnetic tiles and in only one dimension.  
+Four Dimensions is a game that is a strange mix of mahjong, chess and go. It is played with magnetic tiles and metal figurines. Each tile is held like in mahjong, secret to other player, then played as a tile on the board with or without a figurine on top. The tiles being magnetic they can be placed vertical to the game board and can end up forming a cube with two sides open. On your turn you either place a tile or move one of your figurines among the already placed tiles. The game is _viscerally_ hard and a board with pieces is so expensive it's essentially an artifact. Most people play the simplified version with non-magnetic tiles and in only one dimension.   
+
 Betting happens in all games throughout Steadfast, though most commonly in animal races or competitions. In towns and aldeia betting is a low key affair usually not involving shins, but other things like dares and chores. If you want real action, you need to go to the large cities.
 
 #### Working the fields
