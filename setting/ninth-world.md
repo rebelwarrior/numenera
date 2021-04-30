@@ -297,9 +297,6 @@ Science is way more advanced in Steadfast than it ever was in the medieval world
 {:.subtitle.is-4.mt-4}
 The fastest and safest trade is via rivers, so the biggest towns and cities lie close to rivers, especially deep navigable rivers. Mercers (traders) maintain trade routes between all the kingdom and major cities in Steadfast and some even beyond. Because travel is expensive and dangerous, this trade takes place in organized caravans, that hire protection for the trip. Unless it's a day trip, traders do not set out on their own.
 
-![Monolith]({{ site.url }}/assets/images/Monolith_water.png)
-{:.image.is-4by3.mt-4}
-
 ### The _'Weird'_ and Normalcy:
 {:.subtitle.is-3.mt-5}
 
