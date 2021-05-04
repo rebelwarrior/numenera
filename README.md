@@ -23,6 +23,7 @@ Learned:
 8. Bulma requires some fiddling to look good on mobile for markdown files. [Spacing Helpers](https://bulma.io/documentation/helpers/spacing-helpers/)
 9. Found a better way to use a dev config using the gem `yaml_extend`
 10. Doesn't seem like you can do Markdown links at the bottom with Jekyll. 
+11. How do I get that chevron on the dropdowns again? With `navbar-link`. 
 
 Exploring:
 Bulma's spacing helpers: pretty cool 

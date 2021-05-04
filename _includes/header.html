@@ -12,15 +12,20 @@
       <span aria-hidden="true"></span>
     </a>
   </div>
+	
   <div class="navbar-menu" id="navMenu">
     <div class="navbar-start">
+			
       <a class="navbar-item" href="{{ site.url}}/">
         Home
       </a>
+			
       <a class="navbar-item" href="{{ site.url}}/setting/ninth-world">
         The Setting
       </a>
+			
       <div class="navbar-item has-dropdown is-hoverable">
+        
         <a class="navbar-link" href="{{ site.url}}/character-creation">
           Character Generation
         </a>
@@ -29,7 +34,7 @@
           <a class="navbar-item" href="{{ site.url}}/character-creation">
             Character Creation
           </a>
-					<hr class="navbar-divider">
+          <hr class="navbar-divider">
           <a class="navbar-item" href="{{ site.url}}/tables/starting-values">
             Starting Values
           </a>
@@ -47,14 +52,30 @@
             Character Sheet
           </a>
         </div>
-			</div>	
-
-      <a class="navbar-item" href="{{ site.url}}/gm-resources">
-        GM Resources
-      </a>
+      </div>	
+			
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link" href="{{ site.url}}/gm-resources">
+          GM stuff
+        </a>
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="{{ site.url}}/gm-resources">
+            GM Resources
+          </a>
+          <hr class="navbar-divider">
+          <a class="navbar-item" href="{{ site.url}}/setting/the-scarp">
+            House Setting: The Scarp
+          </a>
+          <a class="navbar-item" href="{{ site.url}}/setting/wandering-walk">
+            House Rule: The Wandering Walk
+          </a>
+        </div>
+      </div>
+			
       <a class="navbar-item" href="{{ site.url}}/cypher-system">
         Other Cypher Systems
       </a>
+			
     </div>
   </div>
 </nav>
