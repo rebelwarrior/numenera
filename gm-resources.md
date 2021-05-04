@@ -6,6 +6,13 @@ layout: posts
 # GM'ing Resources
 {:.title.is-2.mt-2} 
 
+## House Rules and House Setting
+{:.title.is-3}
+
+1. [House Rule: The Wandering Walk]({{ site.url }}/setting/wandering-walk)
+2. [House Setting: The Scarp]({{ site.url }}/setting/the-scarp)
+{:.ml-6}
+
 ## Best Books
 {:.title.is-3} 
 
@@ -18,13 +25,14 @@ layout: posts
 {:.title.is-3} 
 
 1. [Your Best Game Ever](https://www.montecookgames.com/store/product/your-best-game-ever/) I haven't read it yet but seems to have some good info. 
+2. [The Return of the Lazy Dungeon Master](https://www.kickstarter.com/projects/slyflourish/return-of-the-lazy-dungeon-master) I haven't read it yet but seems to have some good info.
 {:.ml-6}
 
 
 ## Best Videos
 {:.title.is-3} 
 
-1. __7 Types of  NPCs__ [youtube video by Guy Sclanders](https://youtu.be/PDwOlY4ot8s)
+1. [__7 Types of  NPCs__](https://youtu.be/PDwOlY4ot8s) excellent youtube video by Guy Sclanders.
 
 2. Ginny D's [50 Questions]({{ site.url}}/50-questions) to Flesh out PCs.
 {:.ml-6}
@@ -51,4 +59,4 @@ Their main purpose is to "inject drama into the meta-game." By using this keys t
 ### Landmass Names
 {:.title.is-4} 
 [Glossary of landforms](https://en.wikipedia.org/wiki/Glossary_of_landforms)
-{:.mb-2}
+{:.mb-2.ml-6}
