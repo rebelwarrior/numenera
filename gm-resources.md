@@ -60,3 +60,7 @@ Their main purpose is to "inject drama into the meta-game." By using this keys t
 {:.title.is-4} 
 [Glossary of landforms](https://en.wikipedia.org/wiki/Glossary_of_landforms)
 {:.mb-2.ml-6}
+
+###### Image Resources
+{:.title.is-6} 
+<br>
