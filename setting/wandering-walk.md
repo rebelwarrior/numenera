@@ -22,6 +22,6 @@ Most only wander for a bit, a week or so, then as if suddenly waking up from a d
 
 It is true, Wanderers seem to be sleepwalking, but are actually conscious and aware, they just can't seem to stop. Anybody that watches the wanderers long enough will realize that they don't stop walking even to sleep, so maybe they do sleep while walking too. Wanderers don't drink or eat or have any need to do so. When they do stop they're usually famished and will trade for food, so along the path there are places for them to trade to eat, and for those that accompany the pilgrims to eat and sleep as well.   
 
-The route of the Wandering Walk has never been fully mapped as such an enterprise would be quite dangerous, a good part of it being on the lands of the Beyond.  
+The route of the Wandering Walk has never been fully mapped as such an enterprise would be quite dangerous, as a good part of way is on the lands of the Beyond.  
 
 <br>

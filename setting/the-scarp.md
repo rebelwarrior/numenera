@@ -9,9 +9,14 @@ Possible Starting Location
 
 The Scarp is what locals call the small hidden Glen between the mountains in the peninsula and the bone bluffs on the Misty sea side. Because of its height from the sea, it can't be seen from the water and it is often not mapped in most common Ninth World Maps. The scarp is mostly grasslands and it is constantly buffeted by high winds from the sea or the mountains, making it somewhat cold for its latitude and humid. Every year and sometimes more than once a year, an Iron Wind storm crosses nearby or through the Scarp, making it a precarious place to live in. 
 
-Beyond the north wall is the the sabkha arid planes and the mountain pass cross and beyond that around the mountains beyond the crystal flats, civilization, Steadfast.
+Beyond the north wall is the the _sabkha_, the arid planes and the mountain pass and beyond it, around the mountains, beyond the crystal sky fields, civilization, Steadfast.
 
 ## The Shepherds of the Scarp 
+
+The Shepherds trade their wool once a year with a caravan from Steadfast, aside from that they live a simple live. Shepherding the yol 
+
+## Steel Wool
+The wool from the grey yol of the scarp is particularly hardy and called steel wool, clothing made from it is like light armor with the same weight as normal clothing. 
 
 ## The Iron Wind Storm Season 
 

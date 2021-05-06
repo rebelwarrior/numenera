@@ -21,7 +21,10 @@ The Ninth World is like a _medieval magical setting_ but not quite:
 10. __Science__ - The Ninth World is more scientifically advanced than the medieval world, but knowledge is not distributed. Almost everybody, however, knows the solar system due to the many [orreries](https://en.wikipedia.org/wiki/Orrery) left over from previous worlds (and the fact that the Moon periodically _winks out_ of existence).
 {:.ml-6}
 
-<br> 
+
+__Note:__ This is my take on the Numenera Setting. A lot of it is directly based on Numenera: Discovery, but then expanded by me in sections like the ones on languages and economy. Guidebook to the Ninth world was never consulted as I don't own it. 
+{:.card.is-pulled-right.mx-2.table.is-hoverable.is-bordered.ml-4.px-1}
+<br>
 
 ## Location:
 {:.subtitle.is-2}
@@ -38,7 +41,7 @@ The lands to the north and west of Steadfast are collectively called the Outland
 
 __Dangerous World and Settlements:__    
 Almost all settlements are walled, and the rest are fenced. While most inhabited places are ok to move around during the day, at night it is a different story. One of the most dangerous jobs is shepherd since they follow the flock and live out in the open. However, while the Steadfast has its dangers and its wild areas, and dangers are quite real, it is not _always_ dangerous. People have learned to travel in large groups as those tend not to attract as much trouble but even the lonely traveler somehow seems to manage to make it from settlement to settlement most of the time.
-{:.card.is-pulled-right.mx-2.table.is-hoverable.is-bordered.ml-4}
+{:.card.is-pulled-right.mx-2.table.is-hoverable.is-bordered.ml-4.px-1}
 
 
 ## The Nine Kingdoms of Steadfast
@@ -412,8 +415,9 @@ This work stresses the Quasi-Medieval Fantasy Setting and the "discovery" portio
 
 References:  
 {:.subtitle.is-5.mt-5}
-[https://listverse.com/2019/05/10/10-misconceptions-about-medieval-town-life/](https://listverse.com/2019/05/10/10-misconceptions-about-medieval-town-life/)  
-[https://www.thoughtco.com/medieval-guilds-4147821](https://www.thoughtco.com/medieval-guilds-4147821)  
+[Numenera: Discovery & Numenera: Destiny](https://www.montecookgames.com/numenera-discovery-and-destiny/)  
+[https://listverse.com/2019/05/10/10-misconceptions-about-medieval-town-life/](https://listverse.com/2019/05/10/10-misconceptions-about-medieval-town-life/)    
+[https://www.thoughtco.com/medieval-guilds-4147821](https://www.thoughtco.com/medieval-guilds-4147821)    
 [https://en.wikipedia.org/wiki/Za_(guilds)](https://en.wikipedia.org/wiki/Za_(guilds))  
 [https://www.sciencealert.com/humans-used-to-sleep-in-two-shifts-maybe-we-should-again](https://www.sciencealert.com/humans-used-to-sleep-in-two-shifts-maybe-we-should-again)  
 [https://www.bbc.com/news/magazine-16964783](https://www.bbc.com/news/magazine-16964783)  
