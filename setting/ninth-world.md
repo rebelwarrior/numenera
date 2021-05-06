@@ -22,9 +22,10 @@ The Ninth World is like a _medieval magical setting_ but not quite:
 {:.ml-6}
 
 
-__Note:__ This is my take on the Numenera Setting. A lot of it is directly based on Numenera: Discovery, but then expanded by me in sections like the ones on languages and economy. Guidebook to the Ninth world was never consulted as I don't own it. 
+__Note:__ This is my take on the Numenera Setting. A lot of it is directly based on Numenera: Discovery, but then expanded by me in sections like the ones on languages and economy. Guidebook to the Ninth World was never consulted as I don't own it. 
 {:.card.is-pulled-right.mx-2.table.is-hoverable.is-bordered.ml-4.px-1}
-<br>
+
+---------------------
 
 ## Location:
 {:.subtitle.is-2}
@@ -415,7 +416,7 @@ This work stresses the Quasi-Medieval Fantasy Setting and the "discovery" portio
 
 References:  
 {:.subtitle.is-5.mt-5}
-[Numenera: Discovery & Numenera: Destiny](https://www.montecookgames.com/numenera-discovery-and-destiny/)  
+[Numenera: Discovery & Numenera: Destiny](https://www.montecookgames.com/numenera-discovery-and-destiny/)[ (here is the DriveThruRPG link)](https://www.drivethrurpg.com/product/240654/Numenera-Discovery)  
 [https://listverse.com/2019/05/10/10-misconceptions-about-medieval-town-life/](https://listverse.com/2019/05/10/10-misconceptions-about-medieval-town-life/)    
 [https://www.thoughtco.com/medieval-guilds-4147821](https://www.thoughtco.com/medieval-guilds-4147821)    
 [https://en.wikipedia.org/wiki/Za_(guilds)](https://en.wikipedia.org/wiki/Za_(guilds))  
