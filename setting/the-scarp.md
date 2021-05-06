@@ -7,6 +7,9 @@ layout: posts
 {:.title.is-1.mt-2}
 Possible Starting Location
 
+![monastery]({{ site.url }}/assets/images/monastery-weird-sunset-edit.jpg)
+{:.box.is-pulled-right.mx-2}
+
 The Scarp is what locals call the small hidden Glen between the mountains in the peninsula and the bone bluffs on the Misty sea side. Because of its height from the sea, it can't be seen from the water and it is often not mapped in most common Ninth World Maps. The scarp is mostly grasslands and it is constantly buffeted by high winds from the sea or the mountains, making it somewhat cold for its latitude and humid. Every year and sometimes more than once a year, an Iron Wind storm crosses nearby or through the Scarp, making it a precarious place to live in. 
 
 Beyond the north wall is the the _sabkha_, the arid planes and the mountain pass and beyond it, around the mountains, beyond the crystal sky fields, civilization, Steadfast.
@@ -35,3 +38,8 @@ The sea beneath the Bluffs is often filled with fog. Thus it is typically called
 Below the grasslands is a network of tunnels where the shepherds make their houses. These were clearly part of some sort of living quarters from a previous age. The cubbies that are used as beds are small, like for children and the present occupants build extensions with wood and dirt, yet beyond that, no markers of signs of any kind point to what the previous habitants of the bunker may have been. 
 
 The bunker is the main reason living in the Scarp is even possible as when the Iron Wind runs over the grasslands the inhabitants and their sheep can seek refuge below ground inside the air-tight seals of the bunker. Not all the bunker has been explored and not all of it is air-tight so only a few areas are deemed safe for habitation. Nobody has returned from exploring the flooded lower levels of the bunker so those areas are sealed off or blocked. 
+
+<br>
+Image Source: Photo by <a href="https://unsplash.com/@rafikwahba?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Rafik Wahba</a> on <a href="https://unsplash.com/s/photos/monastic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+<br>
