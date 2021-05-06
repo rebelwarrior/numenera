@@ -308,7 +308,7 @@ The fastest and safest trade is via rivers, so the biggest towns and cities lie 
 
 How to approach the weird. I don't like how the 9th World setting is presented where the weird is presented as normal yet it somehow need to be weird too. So let's introduce the strange but familiar concept and the Lovecraftian weird.
 
-The world of the 9th world is a mostly medieval world, but one where "magic" (aka Numenera) is common place. However, magic is very dangerous. To abuse it is to court disaster. So everybody is somewhat skeptical about it.
+The world of the Ninth world is a mostly medieval world, but one where "magic" (aka Numenera) is common place. However, magic is very dangerous. To abuse it is to court disaster. So everybody is somewhat skeptical about it.
 
 Strange but familiar:
 Strange but familiar things are things that are analogues to today's world but slightly different. So fungi-boars instead of pigs for example, but they are exactly like pigs with a slight twist but otherwise the same.
@@ -402,6 +402,8 @@ If abhumans are the more familiar kind of monster in the Ninth World, the rest d
 _Abhumans (p. 13) can be used sort of like goblinoids in a fantasy setting. They are intelligent, use tactics, and tend to attack in groups._
 {:.mt-4.mb-3}
 
+![Tentacles]({{ site.url }}/assets/images/yaselyn-perez-h9udmPyBvo0-unsplash.jpg)
+{:.box.is-pulled-right.mx-2}
 
 #### Ways into Numenera
 {:.subtitle.is-4.mt-5}
@@ -423,5 +425,10 @@ References:
 [https://www.sciencealert.com/humans-used-to-sleep-in-two-shifts-maybe-we-should-again](https://www.sciencealert.com/humans-used-to-sleep-in-two-shifts-maybe-we-should-again)  
 [https://www.bbc.com/news/magazine-16964783](https://www.bbc.com/news/magazine-16964783)  
 [Rise of Rome, Great Courses by Gregory Aldrete](https://www.amazon.com/gp/video/detail/B07FYW2P6Z/ref=atv_wl_hom_c_unkc_1_1)
+
+Images: 
+{:.subtitle.is-5.mt-5}
+Tentacles: Photo by <a href="https://unsplash.com/@thatsjustyas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Yaselyn Perez</a> on <a href="https://unsplash.com/s/photos/tentacles?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 
 <br>

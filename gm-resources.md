@@ -44,6 +44,8 @@ layout: posts
 2. [The Infinite Construct](https://www.youtube.com/c/THEINFINITECONSTRUCT) has some great music and Numenera Q&As.
 {:.ml-6}
 
+<!-- Not sure if I should put this on too. https://d20.rs/ -->
+
 ### Keys 
 {:.title.is-4} 
 
