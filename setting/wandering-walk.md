@@ -11,7 +11,7 @@ The wondering walk doesn't make any sense to me. It is too dangerous for it to b
 
 However, the book __"Wanderers" by Chuck Wendig__ does offers an alternative for this: _What if the pilgrims are being compelled to walk?_
 
-![wanderers]({{ site.url }}/assets/images/konstantinos-kaskanis-J_tpg9cloPg-unsplash.jpg)
+![wanderers]({{ site.url }}/assets/images/konstantinos-kaskanis-J_tpg9cloPg-unsplash-edit.jpg)
 {:.box.is-pulled-right.mx-2}
 
 
