@@ -26,5 +26,15 @@ search Tentacles
 
 Tentacles
 Photo by <a href="https://unsplash.com/@thatsjustyas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Yaselyn Perez</a> on <a href="https://unsplash.com/s/photos/tentacles?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+search Yurt
+
+Photo by <a href="https://unsplash.com/@vitorossetto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Vitor Rossetto</a> on <a href="https://unsplash.com/s/photos/yurt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+  
+  
+search Tents
+
+Photo by <a href="https://unsplash.com/@joshuas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Joshua Sukoff</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
   

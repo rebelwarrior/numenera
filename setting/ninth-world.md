@@ -27,6 +27,9 @@ __Note:__ This is my take on the Numenera Setting. A lot of it is directly based
 
 ---------------------
 
+![wanderers]({{ site.url }}/assets/images/konstantinos-kaskanis-J_tpg9cloPg-unsplash-edit.jpg)
+{:.box.is-pulled-right.mx-2}
+
 ## Location:
 {:.subtitle.is-2}
 
@@ -158,6 +161,8 @@ What people know: An inhospitable frozen desert that ends in an impassible barri
 What people know: A crystal strewn desert, where nothing grows, and crystal float above. Gaians are said to live beyond that in the out-lands.
 {:.ml-6}
 
+![Pyramid]({{ site.url }}/assets/images/BeneathThePyramid-2.jpg)
+{:.box.mx-2}
 
 ### Languages:
 {:.subtitle.is-3.mt-5}
@@ -428,7 +433,11 @@ References:
 
 Images: 
 {:.subtitle.is-5.mt-5}
+Pyramid: Image by David Acevedo  
+
 Tentacles: Photo by <a href="https://unsplash.com/@thatsjustyas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Yaselyn Perez</a> on <a href="https://unsplash.com/s/photos/tentacles?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Wandering Walk: Photo by <a href="https://unsplash.com/@k_kaskanis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Konstantinos Kaskanis</a> on <a href="https://unsplash.com/s/photos/wanderers?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
 <br>
