@@ -7,7 +7,8 @@ layout: posts
 {:.title.is-1.mt-2}
 Possible Starting Location
 
-![monastery]({{ site.url }}/assets/images/monastery-weird-sunset-edit.jpg)
+![monastery]({{ site.url }}/assets/images/monastery-weird-sunset-edit.jpg)  
+The Monastery
 {:.box.is-pulled-right.mx-2}
 
 The Scarp is what locals call the small hidden Glen between the mountains in the peninsula and the bone bluffs on the Misty sea side. Because of its height from the sea, it can't be seen from the water and it is often not mapped in most common Ninth World Maps. The scarp is mostly grasslands and it is constantly buffeted by high winds from the sea or the mountains, making it somewhat cold for its latitude and humid. Every year and sometimes more than once a year, an Iron Wind storm crosses nearby or through the Scarp, making it a precarious place to live in. 

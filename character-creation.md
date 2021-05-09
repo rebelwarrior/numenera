@@ -30,6 +30,8 @@ Characters can be divided into multiple archetypes: Your best game divides them 
 <br>
 Go to the [Starting Values Table]({{ site.url }}/tables/starting-values) and put them on your character sheet. 
 
+![FireMan]({{ site.url }}/assets/images/blake-lisk-BxRSlJhFHus-unsplash-2_DAP_Benson-edit.jpg)
+{:.box.is-pulled-right.mx-2}
 
 #### 2. Chose Descriptor (1/47)
 {:.subtitle.is-4.mt-4} 
@@ -45,7 +47,7 @@ Read those and choose one.
 __Discovery Descriptors:__ _Charming, Clever, Graceful, Intelligent, Learned, Mystical/Mechanical, Rugged, Stealthy, Strong, Strong-Willed, Swift, Tough_  
 __Destiny Descriptors:__ _Adaptable, Articulate, Beneficent, Cheerful, Civic, Committed, Confident, Cultured, Curious, Earnest, Empirical, Exacting, Forward-Thinking, Gregarious, Heroic, Imaginative, Industrious, Intimidating, Intuitive, Irrepressible, Lawful, Loyal, Meddlesome, Nurturing, Obsessive, Optimistic, Organized, Passionate, Persevering, Prepared, Protective, Relentless, Risk-Taking, Serene, Vicious_  
 __Species Descriptors:__ _Varjellen, Lattimor, Mutant_ (require GM approval)
-{:.card.is-pulled-right.mx-2.table.is-hoverable.is-bordered.ml-4}
+{:.card.is-pulled-right.mx-2.table.is-hoverable.is-bordered.px-2.py-1}
 
 
 #### 3. Choose Focus (1/39)
@@ -104,5 +106,8 @@ Connections create ties between the players. Connections are listed in your Focu
 Pick your Background and the answer to the question:  `Why does your character adventure?` Refer to those section of your tier, focus and description choices. Your descriptor has suggestions for the _Initial Link to the Starting Adventure_.
 
 If you wanna deep dive [Ginny Di](https://youtu.be/OCrCrn2vuAc) has a list of 50 questions you can answer. [The 50 Questions]({{ site.url}}/50-questions)
+
+<br>
+Image Source: Fire Man Photo by <a href="https://unsplash.com/@blakeliskphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Blake Lisk</a> on <a href="https://unsplash.com/s/photos/fire-man?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 <br>

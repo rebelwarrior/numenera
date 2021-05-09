@@ -27,7 +27,8 @@ __Note:__ This is my take on the Numenera Setting. A lot of it is directly based
 
 ---------------------
 
-![wanderers]({{ site.url }}/assets/images/konstantinos-kaskanis-J_tpg9cloPg-unsplash-edit.jpg)
+![wanderers]({{ site.url }}/assets/images/konstantinos-kaskanis-J_tpg9cloPg-unsplash-edit.jpg)  
+The Wandering Walk
 {:.box.is-pulled-right.mx-2}
 
 ## Location:

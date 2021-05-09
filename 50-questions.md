@@ -9,6 +9,12 @@ layout: posts
 
 _by Ginny Di see: [Ginny Di's youtube](http://youtube.com/ginnydi) or [her website](https://www.ginnydi.com/)_
 
+![NavareneMerchant]({{ site.url }}/assets/images/michele-seghieri-ICyEZVqS4N4-unsplash_DAP_Benson_New.jpg)  
+A very proper Navarene merchant
+{:.box.is-pulled-right.mx-2}
+
+<br>
+
 1.   Are you a morning person or more of a night owl?
 1.   What’s the first thing you notice about a person when you meet them?
 1.   You see a huge spider in your room. What do you do?
@@ -60,3 +66,7 @@ _by Ginny Di see: [Ginny Di's youtube](http://youtube.com/ginnydi) or [her websi
 1.   If you decided to stop adventuring and settle down, what kind of job would you take?
 1.   As a kid, what did you want to be when you grew up?
 {:.ml-6}
+
+Image Source: Navarene Merchant Photo by <a href="https://unsplash.com/@micheleseghieri?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Michele Seghieri</a> on <a href="https://unsplash.com/s/photos/steampunk-dress?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+<br>
