@@ -30,7 +30,7 @@ Characters can be divided into multiple archetypes: Your best game divides them 
 <br>
 Go to the [Starting Values Table]({{ site.url }}/tables/starting-values) and put them on your character sheet. 
 
-![FireMan]({{ site.url }}/assets/images/blake-lisk-BxRSlJhFHus-unsplash-2_DAP_Benson-edit.jpg)
+![FireMan]({{ site.url }}/assets/images/blake-lisk-BxRSlJhFHus-unsplash-2_DAP_Benson-edit-sm.jpg)
 {:.box.is-pulled-right.mx-2}
 
 #### 2. Chose Descriptor (1/47)
