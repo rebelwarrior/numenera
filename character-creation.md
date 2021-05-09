@@ -11,6 +11,9 @@ layout: posts
 
 Grab the [Character Sheet]({{ site.url }}/assets/pdfs/CharacterSheet.pdf)
 
+![FireMan]({{ site.url }}/assets/images/blake-lisk-BxRSlJhFHus-unsplash-2_DAP_Benson-edit-sm.jpg)
+{:.box.is-pulled-right.mx-2}
+
 #### 1. Choose Type (1/6)
 {:.subtitle.is-4.mt-4} 
 
@@ -29,9 +32,6 @@ Characters can be divided into multiple archetypes: Your best game divides them 
 
 <br>
 Go to the [Starting Values Table]({{ site.url }}/tables/starting-values) and put them on your character sheet. 
-
-![FireMan]({{ site.url }}/assets/images/blake-lisk-BxRSlJhFHus-unsplash-2_DAP_Benson-edit-sm.jpg)
-{:.box.is-pulled-right.mx-2}
 
 #### 2. Chose Descriptor (1/47)
 {:.subtitle.is-4.mt-4} 
@@ -62,6 +62,9 @@ For example: Do you want to play a character like Super Mario?
 Check out "Breaks down walls."
 
 > Type (1/6), Descriptor (1/47) and Focus (1/39) give 10,998 permutations.
+
+![piechart]({{ site.url }}/assets/images/Pies.jpg)
+{:.box.is-pulled-right.mx-2}
 
 #### 4. Choose Two Type Abilities (2/5 to 2/9)
 {:.subtitle.is-4.mt-4} 
