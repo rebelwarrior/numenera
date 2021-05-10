@@ -46,7 +46,7 @@ The lands to the north and west of Steadfast are collectively called the Outland
 
 __Dangerous World and Settlements:__    
 Almost all settlements are walled, and the rest are fenced. While most inhabited places are ok to move around during the day, at night it is a different story. One of the most dangerous jobs is shepherd since they follow the flock and live out in the open. However, while the Steadfast has its dangers and its wild areas, and dangers are quite real, it is not _always_ dangerous. People have learned to travel in large groups as those tend not to attract as much trouble but even the lonely traveler somehow seems to manage to make it from settlement to settlement most of the time.
-{:.card.is-pulled-right.mx-2.table.is-hoverable.is-bordered.ml-4.px-1}
+{:.card.is-pulled-right.mx-2.table.is-hoverable.is-bordered.ml-4.px-2}
 
 
 ## The Nine Kingdoms of Steadfast
@@ -260,6 +260,9 @@ There are typically two types of places to stay in a town: Ale-houses and Inns. 
 
 Unlike in the medieval world there are no common monasteries that offer hospitality.  
 
+![monolith]({{ site.url }}/assets/images/Monolith_water.jpg)
+{:.box.is-pulled-right.mx-2}
+
 ### Society and Culture
 {:.subtitle.is-3.mt-5}
 
@@ -307,16 +310,20 @@ Science is way more advanced in Steadfast than it ever was in the medieval world
 {:.subtitle.is-4.mt-4}
 The fastest and safest trade is via rivers, so the biggest towns and cities lie close to rivers, especially deep navigable rivers. Mercers (traders) maintain trade routes between all the kingdom and major cities in Steadfast and some even beyond. Because travel is expensive and dangerous, this trade takes place in organized caravans, that hire protection for the trip. Unless it's a day trip, traders do not set out on their own.
 
+![Tentacles]({{ site.url }}/assets/images/yaselyn-perez-h9udmPyBvo0-unsplash.jpg)
+{:.box.is-pulled-right.mx-2}
+
 ### The _'Weird'_ and Normalcy:
 {:.subtitle.is-3.mt-5}
 
 > _"If everything is weird, nothing is weird: It's normal."_
 
-How to approach the weird. I don't like how the 9th World setting is presented where the weird is presented as normal yet it somehow need to be weird too. So let's introduce the strange but familiar concept and the Lovecraftian weird.
+_How to approach the weird. I don't like how the 9th World setting is presented where the weird is presented as normal yet it somehow need to be weird too. So let's introduce the strange but familiar concept and the Lovecraftian weird._  
+
 
 The world of the Ninth world is a mostly medieval world, but one where "magic" (aka Numenera) is common place. However, magic is very dangerous. To abuse it is to court disaster. So everybody is somewhat skeptical about it.
 
-Strange but familiar:
+__Strange but familiar:__  
 Strange but familiar things are things that are analogues to today's world but slightly different. So fungi-boars instead of pigs for example, but they are exactly like pigs with a slight twist but otherwise the same.
 <br><br>
 
@@ -373,7 +380,7 @@ While disease is as common as in our world, the presence of the nanites makes it
 __Aldeia and Towns:__  
 Unlike the medieval world, most people live _inside_ towns or aldeia and go out to work on the fields during the day (except for market day). (The opposite of real medieval towns.) Typical family home in a town has two floors: a ground floor and a top floor. The top floor is where the family lives in one room and the first floor is for the animals. In an aldiea a typical family home is a single room wooden shack where the livestock and humans all live together. Towns and aldeia are typically ruled by elected councils who collect taxes and are responsible to pay a portion to the regent or noble. In addition to towns, cities and lonely single family homes, there is another common residence in Steadfast, particularly in Milave: the family mansions. These are walled-off complexes of buildings with an internal garden that house the whole family of a rich merchant or a noble and their retinues. They are surrounded by the family's fields, which are typically worked on by slaves. Family mansions are more common in the south than in the north of Steadfast.
 
-> Taxes or fees in Steadfast are called tribute, taxes or more commonly: _"skot"_. Skot-free (no fee) is also used.
+> Taxes or fees in Steadfast are called tribute, taxes or more commonly: _"skot"_. Skot-free (no fee, as in _"I got into town skot-free"_) is also used.
 
 __Slums:__  
 Big cities tend to have slums or informal housing built against the wall of the city on the outside or even inside the city walls if there is not enough population. Towns sometimes have stink-alleys where the poorest people live; they smell how they sound and are cleared periodically with people left outside of the town in the morning and not let back in.
@@ -408,9 +415,6 @@ If abhumans are the more familiar kind of monster in the Ninth World, the rest d
 _Abhumans (p. 13) can be used sort of like goblinoids in a fantasy setting. They are intelligent, use tactics, and tend to attack in groups._
 {:.mt-4.mb-3}
 
-![Tentacles]({{ site.url }}/assets/images/yaselyn-perez-h9udmPyBvo0-unsplash.jpg)
-{:.box.is-pulled-right.mx-2}
-
 #### Ways into Numenera
 {:.subtitle.is-4.mt-5}
 In Numenera Discovery, they present four ways of using the Ninth World:
@@ -435,6 +439,7 @@ References:
 Images: 
 {:.subtitle.is-5.mt-5}
 Pyramid: Image by David Acevedo  
+Monolith over Water: Image by David Acevedo
 
 Tentacles: Photo by <a href="https://unsplash.com/@thatsjustyas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Yaselyn Perez</a> on <a href="https://unsplash.com/s/photos/tentacles?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
