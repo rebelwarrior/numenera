@@ -3,8 +3,19 @@ title: "Setting: The Ninth World"
 layout: posts
 ---
 
+This is my take on the _Numenera Ninth World_ setting. Based on _Numenera: Discovery_ core rule book, I expand the setting into areas not covered and change a few things to make it feel more consistent and coherent. 
+{:.card.has-text-centered.m-2.mb-4.px-2.is-family-secondary.has-text-grey-light}
+
 # The World of Numenéra: The Ninth World
 {:.title.is-1.mt-2}
+
+Imagine a medieval world, one with only a thousand years of recorded history, yet this world is strange... It's built on the ruins of previous worlds, worlds that had **Numenera**, impossible things, things not of this world, not of this reality, and that this is the ninth such world, built upon ruins of the ruins of the ruis... of fantastical worlds past.
+{:.is-italic}
+
+---
+
+### 10 Differences between a Fantasy Setting and the Ninth World
+{:.subtitle.is-3.mt-2}
 
 The Ninth World is like a _medieval magical setting_ but not quite:
 
@@ -21,11 +32,8 @@ The Ninth World is like a _medieval magical setting_ but not quite:
 10. __Science__ - The Ninth World is more scientifically advanced than the medieval world, but knowledge is not distributed. Almost everybody, however, knows the solar system due to the many [orreries](https://en.wikipedia.org/wiki/Orrery) left over from previous worlds (and the fact that the Moon periodically _winks out_ of existence).
 {:.ml-6}
 
-
-__Note:__ This is my take on the Numenera Setting. A lot of it is directly based on Numenera: Discovery, but then expanded by me in sections like the ones on languages and economy. Guidebook to the Ninth World was never consulted as I don't own it. 
-{:.card.is-pulled-right.mx-2.table.is-hoverable.is-bordered.ml-4.px-1}
-
 ---------------------
+{:.horizontal-rule}
 
 ![wanderers]({{ site.url }}/assets/images/konstantinos-kaskanis-J_tpg9cloPg-unsplash-edit.jpg)  
 The Wandering Walk
@@ -43,11 +51,6 @@ _The Outlands_
 The lands to the north and west of Steadfast are collectively called the Outlands. Another people the _Gaians_ are supposed to inhabit the north of the Outlands, but little is known about them in Steadfast.
 
 <br>
-
-__Dangerous World and Settlements:__    
-Almost all settlements are walled, and the rest are fenced. While most inhabited places are ok to move around during the day, at night it is a different story. One of the most dangerous jobs is shepherd since they follow the flock and live out in the open. However, while the Steadfast has its dangers and its wild areas, and dangers are quite real, it is not _always_ dangerous. People have learned to travel in large groups as those tend not to attract as much trouble but even the lonely traveler somehow seems to manage to make it from settlement to settlement most of the time.
-{:.card.is-pulled-right.mx-2.table.is-hoverable.is-bordered.ml-4.px-2}
-
 
 ## The Nine Kingdoms of Steadfast
 {:.title.is-3.mt-5}
@@ -415,6 +418,8 @@ If abhumans are the more familiar kind of monster in the Ninth World, the rest d
 _Abhumans (p. 13) can be used sort of like goblinoids in a fantasy setting. They are intelligent, use tactics, and tend to attack in groups._
 {:.mt-4.mb-3}
 
+---
+
 #### Ways into Numenera
 {:.subtitle.is-4.mt-5}
 In Numenera Discovery, they present four ways of using the Ninth World:
@@ -425,6 +430,8 @@ In Numenera Discovery, they present four ways of using the Ninth World:
 {:.ml-6}
 
 This work stresses the Quasi-Medieval Fantasy Setting and the "discovery" portion of a Hopeful New World setting, it downplays the post-apocalyptic flavor leaving that for areas beyond Steadfast and preserves the horror for the weird in-betweens the normalcy of Steadfast, were it can truly frighten.
+
+---
 
 References:  
 {:.subtitle.is-5.mt-5}
