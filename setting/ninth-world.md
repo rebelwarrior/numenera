@@ -4,7 +4,7 @@ layout: posts
 ---
 
 This is my take on the _Numenera Ninth World_ setting. Based on _Numenera: Discovery_ core rule book, I expand the setting into areas not covered and change a few things to make it feel more consistent and coherent. 
-{:.card.has-text-centered.m-2.mb-4.px-2.is-family-secondary.has-text-grey-light}
+{:.has-text-centered.m-2.mb-4.px-2.is-family-secondary.has-text-grey-light.message}
 
 # The World of Numenéra: The Ninth World
 {:.title.is-1.mt-2}
@@ -25,7 +25,7 @@ The Ninth World is like a _medieval magical setting_ but not quite:
 3. __Abhumans__ - Mutated beyond their humanity, abhumans are their own subspecies and a danger to the other inhabitants of the Ninth World. Abhumans are like the goblinoids of a fantasy medieval setting.
 4. __Dangerous World__ - The Ninth World is more dangerous than a medieval world, people live in protected enclaves, rather than by their farms, and avoid travel at night.
 5. __Gender and Sex__ - Gender is not rigid, maybe because of Visitor's strange genders, or Automaton's genderless existence or maybe because numenera that can change your gender exist, but gender roles are not like the medieval world. Sex is not Taboo either.
-6. __Religion__ - Religion is not unified, and the Amber Papacy, the only widespread religion, is more interested in Numenera and its secrets than in converting people.  
+6. __Religion__ - Religion is not unified, and the Amber Papacy, the only widespread thing approximating a religion, is more interested in Numenera and its secrets than in converting people.  
 7. __Nanites and Healing__ - Nanites, microscopic machines, are everywhere in the Ninth World. Due to their presence, people naturally slowly heal from injury and sickness. Pestilence is unknown, except where the effects of numenera are involved.
 8. __Iron Wind__ - Not all nanites are benevolent. Some have gone insane and circle the world in a destructive, mad cloud.
 9. __Money__ - Money is in shins. Gold, jewels are pretty but not inherently valuable (or even rare).
@@ -417,6 +417,9 @@ If abhumans are the more familiar kind of monster in the Ninth World, the rest d
 
 _Abhumans (p. 13) can be used sort of like goblinoids in a fantasy setting. They are intelligent, use tactics, and tend to attack in groups._
 {:.mt-4.mb-3}
+
+__The Wandering Walk:__
+There is a pilgrimage, that some say circles the whole continent, that some people are suddenly compelled to do. They call this the wandering walk, and the wanderers: pilgrims. Nobody knows why they do this, the whole wandering walk path has never been mapped and most just wander for few days or weeks. The pilgrims develop a red mark on their hands, walk as if sleep-walking, are semi-conscious and don't eat or sleep or stop. They just shamble on until suddenly they stop and seemingly wake-up and the mark in their hand slowly fades away. While the pilgrims remember walking, they don't remember why they felt compelled to do so. None of them do. Some even wander for years. Occasionally concerned friends or family members accompany them to keep them safe.        
 
 ---
 

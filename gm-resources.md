@@ -33,8 +33,8 @@ layout: posts
 {:.title.is-3} 
 
 1. [__7 Types of  NPCs__](https://youtu.be/PDwOlY4ot8s) excellent youtube video by Guy Sclanders.
-
 2. Ginny D's [50 Questions]({{ site.url}}/50-questions) to Flesh out PCs.
+3.[Numenera Movie: The Strand](https://youtu.be/6xGDE0w0AYo)
 {:.ml-6}
 
 ## Other Resources:
