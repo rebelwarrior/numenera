@@ -3,7 +3,7 @@ title: "Setting: The Ninth World"
 layout: posts
 ---
 
-This is my take on the _Numenera Ninth World_ setting. Based on _Numenera: Discovery_ core rule book, I expand the setting into areas not covered and change a few things to make it feel more consistent and coherent. 
+This is my take on the _Numenera Ninth World_ setting. Based on _Numenera: Discovery_ and _Destiny_ core rule books, I expand the setting into areas not covered and change a few things to make it feel more consistent and coherent. 
 {:.has-text-centered.m-2.mb-4.px-2.is-family-secondary.has-text-grey-light.message}
 
 # The World of Numenéra: The Ninth World
