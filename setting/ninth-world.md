@@ -383,7 +383,7 @@ While disease is as common as in our world, the presence of the nanites makes it
 __Aldeia and Towns:__  
 Unlike the medieval world, most people live _inside_ towns or aldeia and go out to work on the fields during the day (except for market day). (The opposite of real medieval towns.) Typical family home in a town has two floors: a ground floor and a top floor. The top floor is where the family lives in one room and the first floor is for the animals. In an aldiea a typical family home is a single room wooden shack where the livestock and humans all live together. Towns and aldeia are typically ruled by elected councils who collect taxes and are responsible to pay a portion to the regent or noble. In addition to towns, cities and lonely single family homes, there is another common residence in Steadfast, particularly in Milave: the family mansions. These are walled-off complexes of buildings with an internal garden that house the whole family of a rich merchant or a noble and their retinues. They are surrounded by the family's fields, which are typically worked on by slaves. Family mansions are more common in the south than in the north of Steadfast.
 
-> Taxes or fees in Steadfast are called tribute, taxes or more commonly: _"skot"_. Skot-free (no fee, as in _"I got into town skot-free"_) is also used.
+> Taxes in Steadfast are typically called tribute and fees are typically called _skott_. _Skott-free_, meaning without fee, is also commonly used.
 
 __Slums:__  
 Big cities tend to have slums or informal housing built against the wall of the city on the outside or even inside the city walls if there is not enough population. Towns sometimes have stink-alleys where the poorest people live; they smell how they sound and are cleared periodically with people left outside of the town in the morning and not let back in.
@@ -416,10 +416,10 @@ The boogey man is nothing compared to the frightening prospect of abhumans. Whil
 If abhumans are the more familiar kind of monster in the Ninth World, the rest defy reason for most inhabitants.
 
 _Abhumans (p. 13) can be used sort of like goblinoids in a fantasy setting. They are intelligent, use tactics, and tend to attack in groups._
-{:.mt-4.mb-3}
+{:.mt-4.mb-3.message}
 
 __The Wandering Walk:__
-There is a pilgrimage, that some say circles the whole continent, that some people are suddenly compelled to do. They call this the wandering walk, and the wanderers: pilgrims. Nobody knows why they do this, the whole wandering walk path has never been mapped and most just wander for few days or weeks. The pilgrims develop a red mark on their hands, walk as if sleep-walking, are semi-conscious and don't eat or sleep or stop. They just shamble on until suddenly they stop and seemingly wake-up and the mark in their hand slowly fades away. While the pilgrims remember walking, they don't remember why they felt compelled to do so. None of them do. Some even wander for years. Occasionally concerned friends or family members accompany them to keep them safe.        
+There is a pilgrimage that some people are suddenly compelled to do. The people of Steadfast call this pilgrimage: _the wandering walk_, and the wanderers: pilgrims. Nobody knows why they do this, the whole wandering walk path has never been fully mapped, and most wander for just a few days or weeks. The pilgrims develop a red mark on their hands, walk as if sleep-walking, are semi-conscious and don't eat or sleep or stop. They just shamble on until suddenly they stop and seemingly wake-up and the mark in their hand starts to slowly fade away. While the pilgrims remember walking, they don't remember why they felt compelled to do so. None of them do. Some even wander for years. Occasionally concerned friends or family members accompany them to keep them safe. Most abhumans will avoid pilgrims—clearly afraid of something, maybe of catching whatever makes them wander.        
 
 ---
 
@@ -444,7 +444,8 @@ References:
 [https://en.wikipedia.org/wiki/Za_(guilds)](https://en.wikipedia.org/wiki/Za_(guilds))  
 [https://www.sciencealert.com/humans-used-to-sleep-in-two-shifts-maybe-we-should-again](https://www.sciencealert.com/humans-used-to-sleep-in-two-shifts-maybe-we-should-again)  
 [https://www.bbc.com/news/magazine-16964783](https://www.bbc.com/news/magazine-16964783)  
-[Rise of Rome, Great Courses by Gregory Aldrete](https://www.amazon.com/gp/video/detail/B07FYW2P6Z/ref=atv_wl_hom_c_unkc_1_1)
+[Rise of Rome, Great Courses by Gregory Aldrete](https://www.amazon.com/gp/video/detail/B07FYW2P6Z/ref=atv_wl_hom_c_unkc_1_1)  
+[Today I Found out: Scott free](https://youtu.be/OjeJeTrXicE)
 
 Images: 
 {:.subtitle.is-5.mt-5}
