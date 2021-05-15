@@ -22,6 +22,7 @@ Maybe the wanderers are being controlled by outside, extra-dimensional or even e
 
 
 __Abhumans__ won't touch them; they think they're cursed. 
+{:.message.m-2}
 
 
 Additionally, wanderers on the path seem to momentarily disappear to people outside the path, but to those on the path (wanderers or not) nothing seems to change, so tracking them from outside the path is difficult.  

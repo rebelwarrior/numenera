@@ -19,11 +19,11 @@ Imagine a medieval world, one with only a thousand years of recorded history, ye
 
 The Ninth World is like a _medieval magical setting_ but not quite:
 
-1. __Numenera__ - Numenera are the _sufficiently advanced technologies_ leftover from the previous eras of the Ninth World. It is what we would consider magic. It is a global term for items, effects and abilities that are potentially useful.
+1. __Numenera__ - Numenera are the "_sufficiently advanced technologies_" leftover from the previous eras of the Ninth World. Numenera are like 'magic' in a fantasy setting. It is a global term for items, effects and abilities that are potentially useful. 
 > _"Any sufficiently advanced technology is indistinguishable from magic."_ – Arthur C. Clarke's Third Law
 2. __Automatons and Visitors__ - The Ninth World has living remnants from previous worlds: sentient androids and beings from other worlds.
 3. __Abhumans__ - Mutated beyond their humanity, abhumans are their own subspecies and a danger to the other inhabitants of the Ninth World. Abhumans are like the goblinoids of a fantasy medieval setting.
-4. __Dangerous World__ - The Ninth World is more dangerous than a medieval world, people live in protected enclaves, rather than by their farms, and avoid travel at night.
+4. __Dangerous World__ - The Ninth World is more dangerous than a medieval world, people live in protected enclaves, rather than by their farms, and avoid travel at night.  
 5. __Gender and Sex__ - Gender is not rigid, maybe because of Visitor's strange genders, or Automaton's genderless existence or maybe because numenera that can change your gender exist, but gender roles are not like the medieval world. Sex is not Taboo either.
 6. __Religion__ - Religion is not unified, and the Amber Papacy, the only widespread thing approximating a religion, is more interested in Numenera and its secrets than in converting people.  
 7. __Nanites and Healing__ - Nanites, microscopic machines, are everywhere in the Ninth World. Due to their presence, people naturally slowly heal from injury and sickness. Pestilence is unknown, except where the effects of numenera are involved.
@@ -54,7 +54,7 @@ The lands to the north and west of Steadfast are collectively called the Outland
 
 ## The Nine Kingdoms of Steadfast
 {:.title.is-3.mt-5}
-As befits a feudal society, __power in Steadfast is tied to land.__ Land controls the production of food and resources and thus money as well. However, all out war or land grabs are rare in Steadfast. The Amber papacy actively works to avoid war; and the resources needed to wage all-out war, would leave any kingdom involved vulnerable to the rest. Skirmishes, where one group of warriors fight to reduce the forces of the other, are, however, common along the borders. Since only about 10% of the population are warriors, aristocrats or clergy, the vast majority of the population aren't too concerned with skirmishes as they rarely touches them. Far more worrisome to a normal steadfast resident are the wilds. Outside the settlements and the fields attached to them, there are large areas of wilderness, where numenera, treasure and the truly weird can be found. Most residents live in fear of these areas and those that don't, are at the very least are weary of them.  
+As befits a feudal society, __power in Steadfast is tied to land.__ Land controls the production of food and resources and thus money as well. However, all-out war or land grabs are rare in Steadfast. The Amber papacy actively works to avoid war; and the resources needed to wage all-out war, would leave any kingdom involved vulnerable to the rest. Skirmishes, where one group of warriors fight to reduce the forces of the other, are, however, common along the borders. Since only about 10% of the population are warriors, aristocrats or clergy, the vast majority of the population aren't too concerned with skirmishes as they rarely touch them. Far more worrisome to a normal steadfast resident are the wilds. Outside the settlements and the fields attached to them, there are large areas of wilderness, where numenera, treasure and the truly weird can be found. Most residents live in fear of these areas and those that don't, are at the very least are weary of them.  
 
 ### The Feel of the Nine Kingdoms:  
 {:.subtitle.is-3.mt-5}
@@ -316,6 +316,8 @@ The fastest and safest trade is via rivers, so the biggest towns and cities lie 
 ![Tentacles]({{ site.url }}/assets/images/yaselyn-perez-h9udmPyBvo0-unsplash.jpg)
 {:.box.is-pulled-right.mx-2}
 
+---
+
 ### The _'Weird'_ and Normalcy:
 {:.subtitle.is-3.mt-5}
 
@@ -326,28 +328,30 @@ _How to approach the weird. I don't like how the 9th World setting is presented 
 
 The world of the Ninth world is a mostly medieval world, but one where "magic" (aka Numenera) is common place. However, magic is very dangerous. To abuse it is to court disaster. So everybody is somewhat skeptical about it.
 
-__Strange but familiar:__  
+##### Strange but familiar
+{:.subtitle.is-5.mt-5}
+
 Strange but familiar things are things that are analogues to today's world but slightly different. So fungi-boars instead of pigs for example, but they are exactly like pigs with a slight twist but otherwise the same.
 <br><br>
 
-Animals in Steadfast | Notes| Cost | Equivalent
-:--- | :--- | :--- | :---  
-Gallen | Herbivores raised for meat and milk | | Cattle
-Shiul (p. 147) | Massive Four-Horned creatures | | Yaks
-Aneen (p. 225)| Pack animals | 100-1000 shins | Bipedal Camels
-Xi-drakes (p. 259) | Ridable Flying dragons | | Flying dragons or pterodactyl
-Seskii (p. 252) | Hell hounds that can be trained | | Wild Hounds
-Raster (p. 248) | Ridable bio-mechanical cross between a bat and a flying squirrel. || Giant Bat crossed with Flying Squirrel (!)
-Brehm (p. 158) | Ridable fast lizards not suitable for pack transport. || Fast Horse-like Velociraptors
-Yol (p. 160) | short, longhaired creatures known for yellow wool | | Yellow Sheep
-Fungi-boar (invented) | It's a lizard with tentacles near it's mouth. Omnivore. | 30 shins | Boar/Pig
-Swamp-chicken (invented) | Like a cross between a flamingo and a chicken. Lays eggs. | 1 shin | Chicken
-Blue-rat (invented) | Exactly what you think it is, but delicious. | 1/2 shin cooked with bread | Kabob
-Shaggy Goats (p. 150ish) | | |  Goats
-Black Vesa Birds (p. 140) | | | Crows??
-Espron (p. 179) | Ridable Antelopes with 4 horns and 2 sets of ears. || Rideable Reindeer
-Terror Bird (p. 156, Bestiary p. 124)   ||| Prehistoric Murder Chocobo
-Slicer Beetle (p. 156, Bestiary p. 117) |||
+Animals in Steadfast | Notes | Equivalent
+:--- | :--- | :---  
+Gallen | Herbivores raised for meat and milk | Cattle
+Shiul (p. 147) | Massive Four-Horned creatures | Yaks
+Aneen (p. 225)| Pack animals (~100-1000 shins ea.) | Bipedal Camels
+Xi-drakes (p. 259) | Ridable Flying dragons | Flying dragons or pterodactyl
+Seskii (p. 252) | Hell hounds that can be trained | Wild Hounds
+Raster (p. 248) | Ridable bio-mechanical cross between a bat and a flying squirrel. | Giant Bat crossed with Flying Squirrel (!)
+Brehm (p. 158) | Ridable fast lizards not suitable for pack transport. | Fast Horse-like Velociraptors
+Yol (p. 160) | short, longhaired creatures known for yellow wool |  Yellow Sheep
+Fungi-boar (invented) | It's a lizard with tentacles near it's mouth. Omnivore. (~30 shins ea.) | Boar/Pig
+Swamp-chicken (invented) | Like a cross between a flamingo and a chicken. Lays eggs. | Chicken
+Blue-rat (invented) | Exactly what you think it is, but delicious. | Kabob
+Shaggy Goats (p. 150ish) | |  Goats
+Black Vesa Birds (p. 140) | | Crows??
+Espron (p. 179) | Ridable Antelopes with 4 horns and 2 sets of ears. | Rideable Reindeer
+Terror Bird (p. 156, Bestiary p. 124)   || Prehistoric Murder Chocobo
+Slicer Beetle (p. 156, Bestiary p. 117) ||
 {:.table.is-fullwidth.is-hoverable.is-bordered}
 
 Plants in Steadfast | Notes
@@ -358,24 +362,24 @@ Orange Billam fuit | Oranges
 Arror (p. 160) | Sweet grain (like [Jaggery](https://en.wikipedia.org/wiki/Jaggery) Sugar)
 {:.table.is-hoverable.is-bordered}
 
-• Plastic, Metal and synthetic fibers are very common in the 9th world, but unlike our world these materials aren't exactly industrially made. There are multiple plants that produce synthetic and colorful fibers and colors. Synth-steel can be found in the ruins of old tech.
+__Materials:__  
+Plastic, Metal and synthetic fibers are very common in the 9th world, but unlike our world these materials aren't exactly industrially made. There are multiple plants that produce synthetic and colorful fibers and colors. Synth-steel can be found in the ruins of old tech.
 {:.mt-3}
 
-__Strange to us but familiar to them:__  
-Old machines, Self-healing, Numenera, Automatons
-{:.mt-3.mb-3}
+##### Strange to us but familiar to them
+{:.subtitle.is-5.mt-5}
 
 __Old-Machines:__  
-Old-Machines are considered demonic but potentially useful. They're all considered as suspicious. Numenera is the term Aeon Priest use for these too, but in common parlance Numenera is a useful thing, that's potentially dangerous, while an old-machine is something dangerous, that's potentially useful. Old-Machines are treated as if they were sentient or partially sentient and possibly mad.
+Old-Machines are considered suspicious, dangerous and potentially demonic. 'Numenera' is the term Aeon Priest use for these too, but in common parlance _Numenera is a useful thing, that's potentially dangerous, while an old-machine is something dangerous, that's potentially useful_. Old-Machines are treated as if they were sentient or partially sentient and possibly mad. 
 
 __Numenera:__  
-Numenera are what we would consider magic. They are fascinating, and while some people are suspicious of them, most of steadfast society has adapted and accepted their existence. When you mesh your skin with a machine, these is always called numenera, never called a machine.
+Numenera are fascinating, and while some people may be suspicious of them, most of Steadfast society has adapted and accepted their existence. When you _"mesh your skin with a machine"_, these is always called numenera, never called a machine.
 
 __Automatons:__  
 Synthetic beings are fairly common in the 9th world. Like people, some are good, some are evil, some benign, some dangerous. They are part of the landscape for residents of the 9th world.
 
-__People heal on their own:__  
-Unlike our world, most people have this "energy" within them (it actually glows under certain conditions when you heal). These are the __nanites__ rebuilding the body. When the "fire" leaves the body, the body doesn't heal well and death is usually imminent. However, self-healing is slow, sometimes too slow to save the person, therefore healers abound in towns.
+__Self-healing:__  
+People heal on their own. Unlike our world, most people have this "energy" within them (it actually glows under certain conditions when you heal). These are the __nanites__ rebuilding the body. When the "fire" leaves the body, the body doesn't heal well and death is usually imminent. However, self-healing is slow, sometimes too slow to save the person, therefore healers abound in towns.
 
 __Disease:__  
 While disease is as common as in our world, the presence of the nanites makes it seem completely different. People tend to recover quickly from sickness, unless it's a "magical" disease. So the normal worries of medieval society around miasma and other explanations for germs don't really exist in the 9th world. If you catch something and don't heal, people know numenera/magic is involved. While famine can decimate the population, widespread plagues aren't known.  
@@ -445,7 +449,9 @@ References:
 [https://www.sciencealert.com/humans-used-to-sleep-in-two-shifts-maybe-we-should-again](https://www.sciencealert.com/humans-used-to-sleep-in-two-shifts-maybe-we-should-again)  
 [https://www.bbc.com/news/magazine-16964783](https://www.bbc.com/news/magazine-16964783)  
 [Rise of Rome, Great Courses by Gregory Aldrete](https://www.amazon.com/gp/video/detail/B07FYW2P6Z/ref=atv_wl_hom_c_unkc_1_1)  
-[Today I Found out: Scott free](https://youtu.be/OjeJeTrXicE)
+[Today I Found out: Scott free](https://youtu.be/OjeJeTrXicE)  
+[Shadiversity YouTube Channel]()  
+[Metatron YouTube Channel]()  
 
 Images: 
 {:.subtitle.is-5.mt-5}
