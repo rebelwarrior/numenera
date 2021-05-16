@@ -106,6 +106,9 @@ Once a coveted piece of land between three neighboring kingdoms, now it is a sad
 Secret: Thaemor, formerly Thae moor, was a marsh land that suddenly drained out _by raising itself_ about 300 years ago. Nobody knows what caused the land to rise.  
 Government: Unstable Tyranny with Gentry. Taxes are high.
 
+![map]({{ site.url }}/assets/images/steadfast.jpg)
+{:.box.is-pulled-right.mx-2}
+
 5) Malevich: (_Transylvania_)  
 {:.subtitle.is-5.mt-5}
 Exports: Numenera (which are found in the chasm) and strange oddities from Yerth.  
