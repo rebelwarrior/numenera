@@ -407,12 +407,12 @@ Fantasy monster | Abhuman | notes
 Lizard-folk | Chirog, _p. 229_ | Red Lizard-folk
 Orcs? | Margr, _p. 240_ | Goat-faced Humanoids
  Vulture birds (dark crystal) | Murden, _p. 243_ | "Mud-birds" Bird-faced Humanoids
- - | Sathosh, _p. 251_ | Single-Tentacle-Faced Humanoids
+ — | Sathosh, _p. 251_ | Single-Tentacle-Faced Humanoids
 Toad-creatures Koatoah? | Yovok, _p. 261_ | Toad-face Humanoids
  Beastmen | Grush (Bestiary _p. 62_)| Naked White Muscular Abhumans
  Goblins | Killist (Bestiary _p. 72_) | Poison using small Humanoids
- - | Raheunum (Bestiary, _p. 104_)| Underground Humanoids
- - | Rorathik (Bestiary, _p. 109_)| Blue Predator-type Assassins
+ — | Raheunum (Bestiary, _p. 104_)| Underground Humanoids
+ — | Rorathik (Bestiary, _p. 109_)| Blue Predator-type Assassins
  Dustmen/Ghoul | Syzygy Ghoul (Bestiary, _p. 122_) | Collect and Eat the dead
 {:.card.is-pulled-right.mx-2.table.is-hoverable}
 
