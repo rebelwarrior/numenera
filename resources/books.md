@@ -3,15 +3,19 @@ title: Numenera Books
 layout: posts
 ---
 
-# Books To Get
-{:.title.is-2.mt-2} 
+# Intro
+{:.title.is-3.mt-2}
 
 ![Numenera Discovery Book Thumbnail]({{ site.url }}/assets/images/thumbs/discovery-thumb.jpg)
-![Numenera Player Options Book Thumbnail]({{ site.url }}/assets/images/thumbs/player-options-thumb.jpg)
 ![Numenera Destiny Book Thumbnail]({{ site.url }}/assets/images/thumbs/destiny-thumb.jpg)
 {:.card.is-pulled-right.m-2}
 
-To play Numenera you need at least the [Discovery][] core book. Though I would recommend pairing that with [Destiny][] or [Player's Guide][] to get a larger group of descriptors and foci. 
+To play Numenera you only really need **the core book Discovery**. However, many of the character options are in Destiny. If you're just checking Numenera out take a look at the free resources. There is enough there to get started, particularly **the Cypher Rules Primer**. 
+
+# Books To Get
+{:.title.is-3.mt-2} 
+
+To play Numenera you need at least the [Discovery][] core book. Though I would recommend pairing that with [Destiny][] (or [Player's Guide][]) to get a larger group of descriptors and foci. 
 
 <br>
 
@@ -32,10 +36,9 @@ This [book of short adventures][] is fantastic. These adventures are meant for o
 
 
 There is also a ton of free content I recommend getting:
-1. [RPG Consent in Gaming Form](https://www.montecookgames.com/store/product/consent-in-gaming/)
-2. [Cypher Rules Primer](https://www.montecookgames.com/store/product/cypher-system-rules-primer/) 
-3. [Numenera Free Legacy Content](https://www.montecookgames.com/store/product/numenera-discovery-and-destiny/) (contains adventure Beal of Boregal) also at [drive thru](https://www.drivethrurpg.com/product/253970/Original-Numenera-Corebook-Legacy-Content)
-4. [Ashes of the Sea free adventure with quick start rules.](https://www.drivethrurpg.com/product/247640/Ashes-of-the-Sea-FREE-Numenera-Quickstart-Rules-and-Adventure)
+1. [Cypher Rules Primer](https://www.montecookgames.com/store/product/cypher-system-rules-primer/) 
+2. [Numenera Free Legacy Content](https://www.montecookgames.com/store/product/numenera-discovery-and-destiny/) (contains adventure _Beal of Boregal_) also at [drive thru](https://www.drivethrurpg.com/product/253970/Original-Numenera-Corebook-Legacy-Content)
+3. [Ashes of the Sea free adventure with quick start rules.](https://www.drivethrurpg.com/product/247640/Ashes-of-the-Sea-FREE-Numenera-Quickstart-Rules-and-Adventure)
 
 ## More Adventures:
 {:.title.is-3.mt-2} 
