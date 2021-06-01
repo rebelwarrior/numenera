@@ -6,9 +6,10 @@ layout: posts
 # Books To Get
 {:.title.is-2.mt-2} 
 
-![]({{ site.url }}/assets/images/thumbs/discovery-thumb.jpg)
-![]({{ site.url }}/assets/images/thumbs/player-options-thumb.jpg)
-![]({{ site.url }}/assets/images/thumbs/destiny-thumb.jpg)
+![Numenera Discovery Book Thumbnail]({{ site.url }}/assets/images/thumbs/discovery-thumb.jpg)
+![Numenera Player Options Book Thumbnail]({{ site.url }}/assets/images/thumbs/player-options-thumb.jpg)
+![Numenera Destiny Book Thumbnail]({{ site.url }}/assets/images/thumbs/destiny-thumb.jpg)
+{:.card.is-pulled-right.m-2}
 
 To play Numenera you need at least the [Discovery][] core book. Though I would recommend pairing that with [Destiny][] or [Player's Guide][] to get a larger group of descriptors and foci. 
 
@@ -19,14 +20,16 @@ After that my recommendation is to get:
 ## [Explorer's Keys][]
 {:.title.is-3.mt-2} 
 
-![]({{ site.url }}/assets/images/thumbs/explorers-keys-thumb.jpg)
+![Explorer's Keys Book Thumbnail]({{ site.url }}/assets/images/thumbs/explorers-keys-thumb.jpg)
+{:.card.is-pulled-right.m-2}
 
 This [book of short adventures][] is fantastic. These adventures are meant for one session and to be mostly improvised. They're written in a short format, like it's predecessor [Weird Discoveries][] but unlike that book this one has maps only on one page instead of split between two making it way easier to deal with on PDF format and the adventures are more tight in my opinion.  
 
 ## Free Content
 {:.title.is-3.mt-2} 
 
-![]({{ site.url }}/assets/images/thumbs/legacy-content-thumb.jpg)
+![Numenera Legacy Content Cover Thumbnail]({{ site.url }}/assets/images/thumbs/legacy-content-thumb.jpg)
+
 
 There is also a ton of free content I recommend getting:
 1. [RPG Consent in Gaming Form](https://www.montecookgames.com/store/product/consent-in-gaming/)
@@ -40,14 +43,14 @@ There is also a ton of free content I recommend getting:
 ### [Into the Violet Vale][]
 {:.title.is-4.mt-2} 
 
-![]({{ site.url }}/assets/images/thumbs/violet-vale-thumb.jpg)
+![Into the Violet Vale Adventure Cover Thumbnail]({{ site.url }}/assets/images/thumbs/violet-vale-thumb.jpg)
 
 Short adventure also suited for improvised play.
 
 ### [The Devil's Spine][]
 {:.title.is-4.mt-2} 
 
-![]({{ site.url }}/assets/images/thumbs/devils-spine-thumb.jpg)
+![The Devil's Spine Adventure Cover Thumbnail]({{ site.url }}/assets/images/thumbs/devils-spine-thumb.jpg)
 
 Long involved adventure more like a campaign.
 

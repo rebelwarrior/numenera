@@ -13,7 +13,7 @@ layout: posts
 2. [House Setting: The Scarp]({{ site.url }}/setting/the-scarp)
 {:.ml-6}
 
-## Best Books
+## Best Books for GM'ing
 {:.title.is-3} 
 
 1. [Prepless GM By Paul Camp.](https://www.drivethrurpg.com/product/304745/The-Prepless-GM)
@@ -21,7 +21,7 @@ layout: posts
 3. [Weird Discoveries](https://www.drivethrurpg.com/product/148098/Weird-Discoveries-Ten-Instant-Adventures-for-Numenera) (The cheat sheet is cool too.) also possibly Explorer's Keys and Strange Revelations.
 {:.ml-6}
 
-## Other Books
+## Other GM'ing Books
 {:.title.is-3} 
 
 1. [Your Best Game Ever](https://www.montecookgames.com/store/product/your-best-game-ever/) I haven't read it yet but seems to have some good info. 
@@ -64,5 +64,8 @@ Their main purpose is to "inject drama into the meta-game." By using this keys t
 {:.mb-2.ml-6}
 
 ###### Image Resources
-{:.title.is-6} 
+{:.title.is-4} 
+
+## [Other Cypher Systems]({{ site.url}}/resources/cypher-system)
+{:.title.is-4} 
 <br>
