@@ -9,10 +9,10 @@ This is my take on the _Numenera Ninth World_ setting. Based on _Numenera: Disco
 # The World of Numenéra: The Ninth World
 {:.title.is-1.mt-2}
 
-> "Set a billion years in Earth’s future, Numenera allows players take the roles of explorers and adventurers, uncovering the mysteries of long-vanished prior worlds." – Ashes of the Sea
-
 Imagine a medieval world, one with only a thousand years of recorded history, yet this world is... not new. Raised among the still-present ruins of fantastically advanced previous worlds, worlds that had **Numenera**, impossible things, things not even of this world, not of this reality, and that this is _the ninth such world_, built upon ruins of the ruins of the ruins... of inconceivable worlds past.
 {:.is-italic}
+
+> "Set a billion years in Earth’s future, Numenera allows players take the roles of explorers and adventurers, uncovering the mysteries of long-vanished prior worlds." – Ashes of the Sea
 
 ---
 
