@@ -38,7 +38,7 @@ This [book of short adventures][] is fantastic. These adventures are meant for o
 There is also a ton of free content I recommend getting:
 1. [Cypher Rules Primer](https://www.montecookgames.com/store/product/cypher-system-rules-primer/) 
 2. [Numenera Free Legacy Content](https://www.montecookgames.com/store/product/numenera-discovery-and-destiny/) (contains adventure _Beal of Boregal_) also at [drive thru](https://www.drivethrurpg.com/product/253970/Original-Numenera-Corebook-Legacy-Content)
-3. [Ashes of the Sea free adventure with quick start rules.](https://www.drivethrurpg.com/product/247640/Ashes-of-the-Sea-FREE-Numenera-Quickstart-Rules-and-Adventure)
+3. [Ashes of the Sea](https://www.drivethrurpg.com/product/247640/Ashes-of-the-Sea-FREE-Numenera-Quickstart-Rules-and-Adventure) free adventure with quick start rules.
 
 ## More Adventures:
 {:.title.is-3.mt-2} 
