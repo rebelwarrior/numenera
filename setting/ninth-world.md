@@ -14,9 +14,14 @@ Imagine a medieval world, one with only a thousand years of recorded history, ye
 
 > "Set a billion years in Earth’s future, Numenera allows players take the roles of explorers and adventurers, uncovering the mysteries of long-vanished prior worlds." – Ashes of the Sea
 
----
+---------------------
+{:.horizontal-rule}
 
-### 10 Differences between a Fantasy Setting and the Ninth World
+* TOC
+{:toc}
+{:.box.is-pulled-right}
+
+### 10 Differences with a Fantasy Setting
 {:.subtitle.is-3.mt-2}
 
 The Ninth World is like a _medieval magical setting_ but not quite:
@@ -41,7 +46,7 @@ The Ninth World is like a _medieval magical setting_ but not quite:
 The Wandering Walk
 {:.box.is-pulled-right.mx-2}
 
-## Location:
+Location
 {:.subtitle.is-2}
 
 _The Steadfast_    
@@ -58,7 +63,7 @@ The lands to the north and west of Steadfast are collectively called the Outland
 {:.title.is-3.mt-5}
 As befits a feudal society, __power in Steadfast is tied to land.__ Land controls the production of food and resources and thus money as well. However, all-out war or land grabs are rare in Steadfast. The Amber papacy actively works to avoid war; and the resources needed to wage all-out war, would leave any kingdom involved vulnerable to the rest. Skirmishes, where one group of warriors fight to reduce the forces of the other, are, however, common along the borders. Since only about 10% of the population are warriors, aristocrats or clergy, the vast majority of the population aren't too concerned with skirmishes as they rarely touch them. Far more worrisome to a normal steadfast resident are the wilds. Outside the settlements and the fields attached to them, there are large areas of wilderness, where numenera, treasure and the truly weird can be found. Most residents live in fear of these areas and those that don't, are at the very least are weary of them.  
 
-### The Feel of the Nine Kingdoms:  
+### The Feel of the Nine Kingdoms  
 {:.subtitle.is-3.mt-5}
 
 _Listings of the Kingdoms include information that a person with knowledge of the land would have, or at least have and idea. Not everyone would have all the information, but the information isn't secret to the people of that Kingdom. However, someone who isn't from that land, or had not visited, would not know it._
@@ -172,7 +177,7 @@ What people know: A crystal strewn desert, where nothing grows, and crystal floa
 ![Pyramid]({{ site.url }}/assets/images/BeneathThePyramid-2.jpg)
 {:.box.mx-2}
 
-### Languages:
+### Languages
 {:.subtitle.is-3.mt-5}
 __True-lang__, or true language, or the language of truth, is the common tongue in the Steadfast. The Amber Papacy teaches it for free throughout Steadfast with its missionaries and monasteries. It has a simple syllabary and it's written phonetically (unlike its ancient form). The written-form has been simplified for easy teaching, and it takes about a year to learn if you already speak it. The Amber Bible is written in an ancient version of this language which is significantly harder to read and write. Contracts and books are still written in this ancient version of the language. The ability to read simple true-lang is over 90% of the population in cities, writing slightly less so, and only a select few can read or write the ancient form.  
 
@@ -444,7 +449,7 @@ This work stresses the Quasi-Medieval Fantasy Setting and the "discovery" portio
 
 ---
 
-References:  
+## References 
 {:.subtitle.is-5.mt-5}
 [Numenera: Discovery & Numenera: Destiny](https://www.montecookgames.com/numenera-discovery-and-destiny/)[ (here is the DriveThruRPG link)](https://www.drivethrurpg.com/product/240654/Numenera-Discovery)  
 [https://listverse.com/2019/05/10/10-misconceptions-about-medieval-town-life/](https://listverse.com/2019/05/10/10-misconceptions-about-medieval-town-life/)    
@@ -457,8 +462,9 @@ References:
 [Shadiversity YouTube Channel]()  
 [Metatron YouTube Channel]()  
 
-Images: 
+Images 
 {:.subtitle.is-5.mt-5}
+Map: Image by David Acevedo  
 Pyramid: Image by David Acevedo  
 Monolith over Water: Image by David Acevedo
 

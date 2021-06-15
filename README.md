@@ -24,6 +24,7 @@ Learned:
 9. Found a better way to use a dev config using the gem `yaml_extend`
 10. Doesn't seem like you can do Markdown links at the bottom with Jekyll. 
 11. How do I get that chevron on the dropdowns again? With `navbar-link`. 
+12. Table of Contents **(TOC) can be done with Jekyll alone** and Bulma has an advantage because it doesn't require a header to give header css, you can remove a header from the TOC but have it look the same. See "Location" on the settings page. 
 
 Exploring:
 Bulma's spacing helpers: pretty cool 
