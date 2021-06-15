@@ -26,6 +26,7 @@ Learned:
 11. How do I get that chevron on the dropdowns again? With `navbar-link`. 
 12. Table of Contents **(TOC) can be done with Jekyll alone** and Bulma has an advantage because it doesn't require a header to give header css, you can remove a header from the TOC but have it look the same. See "Location" on the settings page. 
 13. With Bulma you can use `{:.is-sr-only}` to add hidden elements to the TOC that still work as links. (If you use `is-hidden` the linking won't work, but they show up on the TOC.) This lets you have different heading on the TOC from the visual one. Though screen readers will get it twice so don't abuse it. Also works with `is-invisible` but not with `is-hidden`.
+14. More [Tips & Tricks](https://about.gitlab.com/blog/2016/07/19/markdown-kramdown-tips-and-tricks/) for Kramdown including `.no_toc`
 
 Exploring:
 Bulma's spacing helpers: pretty cool 

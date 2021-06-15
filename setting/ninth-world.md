@@ -17,7 +17,7 @@ Imagine a medieval world, one with only a thousand years of recorded history, ye
 ---------------------
 {:.horizontal-rule}
 
-* TOC
+- TOC
 {:toc}
 {:.box.is-pulled-right}
 
@@ -215,7 +215,7 @@ __Shin-talk__, is older than true-lang. It's a merchant talk, it has few words a
 {:.subtitle.is-3.mt-5}
 
 #### Coins (_Shins_)
-{:.subtitle.is-4}
+{:.subtitle.is-4.no_toc}
 Coinage is called 'shins' everywhere in Steadfast. Most of the economy works on barter. Typically people in a town (or aldeia) will use a [split stick](https://en.wikipedia.org/wiki/Tally_stick#Split_tally) to keep track of loans or debts and of taxes. These can be paid with produce instead of coinage. Merchants, guards, mercenaries and aristocrats deal in shins.
 
 Shins are made of a strange material called iotium: 100 shins can usually be transformed into 1 gram of iotium. Shins come in different shapes, some have stamped visages from one of the nine kingdoms, but most don't. It's not clear what iotium is, but it's necessary for crafting or repairing numenera. Iotium is inert in its normal form. Iotium can also be found in its non-inert form and then it is called IoTum (IoTi plural) and it's very valuable for crafting Numenera.
@@ -263,7 +263,7 @@ Full meal with small bottle of Wine | 1 shin
 {:.mt-5}
 
 #### Guilds
-{:.subtitle.is-4.mt-6}
+{:.subtitle.is-4.mt-6.no_toc}
 Guilds control the trades in pretty much all cities in Steadfast. There is an "adventuring" guild in some cities as well that will keep track of requests and runs a small barracks for 10% of the take from their posted missions.  
 
 In some cities, Guilds are quite powerful politically and rival rich merchants in power, in other they're much weaker. Guilds are local and while there is some communication between them (particularly in the North of Steadfast) their strength and organization varies from city to city. Guilds do not regulate healers, scribes or wrights.  
@@ -294,7 +294,7 @@ __Adventuring Guilds:__
 Adventuring Guilds, typically called Delving Guilds, are located in many cities throughout Steadfast. The guild was founded by former adventures (some of the few that survive to old age) when they could not adventure anymore. The guild provides temporary housing in the form of barracks (usually three days), storage and other services in exchange for a part (usually 10-15%) of the takings or findings. Adventuring Guilds also function as proto-banks allowing the deposit of shins in one guild-house and the withdrawal in another for a fee. They also keep a board of numenera-rich (and dangerous) sites where delving might be done, and the occasional request from people of the area. In order to use their services, you must be a member in good standing (basically one _not_ suspected of cheating the guild). Adventuring guilds in large cities may run their own Ale houses adjacent.     
 
 #### Inns and places to sleep
-{:.subtitle.is-4.mt-5}
+{:.subtitle.is-4.mt-5.no_toc}
 There are typically two types of places to stay in a town: Ale-houses and Inns. Inns are nice places to stay with separate rooms and even occasionally servants, they are reserved for rich merchants, government officials, and aristocrats. Inns don't have a kitchen for guests and don't serve food. Ale-houses are sort of the opposite, they serve food, but mostly alcohol, and have a place for drunks or poor travelers to "crash" upstairs. They don't usually have beds, and you sort of have to watch your belongings while you sleep. Adventuring guilds (also called Delver's guilds) have similar places to "crash" (and sometimes even barracks for members) but they _do_ hold possessions for members so you don't have to worry about them walking away while you sleep. People in towns commonly rent rooms (and provide board) to journeymen and women who travel for a season, but those usually require a letter of presentation. Merchants do the same for other merchants of the guild, allowing them to stay in their house, usually for free. The very poor or the very desperate sleep on the street.
 
 Unlike in the medieval world there are no common monasteries that offer hospitality.  
@@ -306,11 +306,11 @@ Unlike in the medieval world there are no common monasteries that offer hospital
 {:.subtitle.is-3.mt-5}
 
 #### Gender
-{:.subtitle.is-4.mt-4}
+{:.subtitle.is-4.mt-4.no_toc}
 Gender is not rigid in the Ninth World. Visitors have strange genders, Automatons may be genderless, and numenera that alter gender exist. Couples of all kinds are not uncommon in the Ninth World and genders are generally considered equal throughout.
 
 #### Games
-{:.subtitle.is-4.mt-4}
+{:.subtitle.is-4.mt-4.no_toc}
 The game of _"ball"_ is played throughout Steadfast. It is simmilar to soccer, except it's played by small and large groups alike (up to 300 people at once) and fighting, tripping, and pushing opponents seems to be permitted in most versions. Trades commonly play against each other in teams.
 
 In Malevich, they play a card "game" called Tarrota; and it's said those with the glimmer can predict the future with them. A simplified version of the game is played throughout Steadfast as well.
@@ -320,33 +320,33 @@ Four Dimensions is a game that is a strange mix of mahjong, chess and go. It is 
 Betting happens in all games throughout Steadfast, though most commonly in animal races or competitions. In towns and aldeia betting is a low key affair usually not involving shins, but other things like dares and chores. If you want real action, you need to go to the large cities.
 
 #### Working the fields
-{:.subtitle.is-4.mt-4}
+{:.subtitle.is-4.mt-4.no_toc}
 While some kingdoms (notably Navarene) have the occasional independent single houses in the country side, most aldeia and towns live together in an enclosed or fenced area, and travel and work their fields during the day. Because of this, cities and town have high population density. Shepherds, who travel with their flocks and therefore live outside, are in danger most of their lives. Steadfast is considerably more dangerous than medieval Europe was, and especially so at night.
 
 #### Clothing
-{:.subtitle.is-4.mt-4}
+{:.subtitle.is-4.mt-4.no_toc}
 Expensive colors: Indigo, Gold-thread (not cause gold is rare, but because threading it is time consuming) and brilliant green. Colors that are common: dull yellow (from wool), brown, white, and dull green. All other colors including black, pink (quite in fashion in some places) and purple are somewhere in the middle. Colors that would have been expensive or impossible in the middle ages: like cyan, and magenta, can be found in strange plants or rubbed off old machines. For example, purple can be distilled from some mushrooms that grow underground.  
 
 #### Food
-{:.subtitle.is-4.mt-4}
+{:.subtitle.is-4.mt-4.no_toc}
 Food in Steadfast is a decidedly local affair, though there are some staples consumed widely. Cheese and bread are common throughout steadfast and blue-rat on a pike is a favorite festival food all around, especially the ones with a crispy tail.
 
 #### Religion
-{:.subtitle.is-4.mt-4}
+{:.subtitle.is-4.mt-4.no_toc}
 Religion, like food, is a decidedly local affair, though there is a widespread Church-like organization in Steadfast in the form of __the Amber Papacy__, they operate mostly secularly. The Amber Papacy, also called The Order of Truth, and their __Aeon Priests__ are the most trusted experts on numenera.  Additionally, the Amber Papacy promotes literacy and controls all scribes (used for almost all written contracts) which give it a lot of knowledge and therefore power.
 
 > _"May the spirits of the ancients bless this endeavor."_ – Aeon Priest blessing.
 
 #### Music
-{:.subtitle.is-4.mt-4}
+{:.subtitle.is-4.mt-4.no_toc}
 Music in Steadfast sounds unlike medieval music. The abundance of metals and numeneara that record sound and play it back or beat a rhythm has lead to a music that is both familiar and strange, with strong emphasis on voice and melody and strange with instruments known only to the Ninth World.
 
 #### Science
-{:.subtitle.is-4.mt-4}
+{:.subtitle.is-4.mt-4.no_toc}
 Science is way more advanced in Steadfast than it ever was in the medieval world. Due to the existence of numenera and tools that make it easier to explore the world, many things are known in Steadfast. However, this doesn't mean the knowledge is widespread. So while at Qi University germ theory is understood and even the difference between bacteria and viruses common-place there, this might not be the case in a remote Malevich town, where evil-spirits are to blame for disease. The one exception is the heliocentric theory of the universe, as orrery are found in so many places in Steadfast, pretty much everyone knows the world is round, circles around the Sun and the moon (when it's there) around the Earth.
 
 #### Trade Routes
-{:.subtitle.is-4.mt-4}
+{:.subtitle.is-4.mt-4.no_toc}
 The fastest and safest trade is via rivers, so the biggest towns and cities lie close to rivers, especially deep navigable rivers. Mercers (traders) maintain trade routes between all the kingdom and major cities in Steadfast and some even beyond. Because travel is expensive and dangerous, this trade takes place in organized caravans, that hire protection for the trip. Unless it's a day trip, traders do not set out on their own.
 
 ![Tentacles]({{ site.url }}/assets/images/yaselyn-perez-h9udmPyBvo0-unsplash.jpg)
@@ -364,8 +364,8 @@ _How to approach the weird. I don't like how the 9th World setting is presented 
 
 The world of the Ninth world is a mostly medieval world, but one where "magic" (aka Numenera) is common place. However, magic is very dangerous. To abuse it is to court disaster. So everybody is somewhat skeptical about it.
 
-Strange but familiar
-{:.subtitle.is-5.mt-5}
+##### Strange but familiar
+{:.subtitle.is-5.mt-5.no_toc}
 
 Strange but familiar things are things that are analogues to today's world but slightly different. So fungi-boars instead of pigs for example, but they are exactly like pigs with a slight twist but otherwise the same.
 <br><br>
@@ -402,8 +402,8 @@ __Materials:__
 Plastic, Metal and synthetic fibers are very common in the 9th world, but unlike our world these materials aren't exactly industrially made. There are multiple plants that produce synthetic and colorful fibers and colors. Synth-steel can be found in the ruins of old tech.
 {:.mt-3}
 
-Strange to us but familiar to them
-{:.subtitle.is-5.mt-5}
+##### Strange to us but familiar to them
+{:.subtitle.is-5.mt-5.no_toc}
 
 __Old-Machines:__  
 Old-Machines are considered suspicious, dangerous and potentially demonic. 'Numenera' is the term Aeon Priest use for these too, but in common parlance _Numenera is a useful thing, that's potentially dangerous, while an old-machine is something dangerous, that's potentially useful_. Old-Machines are treated as if they were sentient or partially sentient and possibly mad. 
@@ -431,8 +431,8 @@ Big cities tend to have slums or informal housing built against the wall of the 
 __Siesta:__  
 Because the day is longer, it is customary in all of Steadfast to take a nap midday, after lunch. Aeon Priests encourage this as they surmise the data-sphere is most active midday as it is solar-powered. Additionally, peasants and agricultural workers don't tend to sleep through the whole night. People in small towns normally go to bed when the sun sets, then wake up in the middle of the night and _"talk"_ or set a small fire before going back to bed and waking up before the sun comes up to go work the fields.
 
-The Weird
-{:.subtitle.is-5.mt-5}
+##### The Weird
+{:.subtitle.is-5.mt-5.no_toc}
 
 > _"The concept of a demon—a spiritually evil entity—is a label for threats that can’t be understood."_ – Ninth World Bestiary 2
 
@@ -460,11 +460,12 @@ _Abhumans (p. 13) can be used sort of like goblinoids in a fantasy setting. They
 
 __The Wandering Walk:__
 There is a pilgrimage that some people are suddenly compelled to do. The people of Steadfast call this pilgrimage: _the wandering walk_, and the wanderers: pilgrims. Nobody knows why they do this, the whole wandering walk path has never been fully mapped, and most wander for just a few days or weeks. The pilgrims develop a red mark on their hands, walk as if sleep-walking, are semi-conscious and don't eat or sleep or stop. They just shamble on until suddenly they stop and seemingly wake-up and the mark in their hand starts to slowly fade away. While the pilgrims remember walking, they don't remember why they felt compelled to do so. None of them do. Some even wander for years. Occasionally concerned friends or family members accompany them to keep them safe. Most abhumans will avoid pilgrims—clearly afraid of something, maybe of catching whatever makes them wander.        
+More info in [House Setting: Wandering Walk]({{site.url}}/setting/wandering-walk.html)
 
 ---
 
-Ways into Numenera
-{:.subtitle.is-4.mt-5}
+#### Ways into Numenera
+{:.subtitle.is-4.mt-5.no_toc}
 In Numenera Discovery, they present four ways of using the Ninth World:
 1. Post-Apocalyptic Setting
 2. Quasi-Medieval Fantasy Setting
