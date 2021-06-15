@@ -72,7 +72,7 @@ _Listings of the Kingdoms include information that a person with knowledge of th
 {:.box.is-pulled-right.mx-2}
 
 #### Navarene
-{:.is-sr-only}
+{:.is-invisible}
 
 1) Navarene: (_A Quasi-Medival Victorian England_)  
 {:.subtitle.is-5.mt-5}
@@ -87,7 +87,7 @@ Government: Stable Feudal Monarchy with Landed Gentry
 > _"Rich like a Navarene merchant."_ – old saying, meaning content, but usually used sarcastically to mean the exact opposite: someone with no money and lots of troubles.
 
 #### Ghan
-{:.is-sr-only}
+{:.is-invisible}
 
 2) Ghan: (_Switzerland_)  
 {:.subtitle.is-5.mt-5}
@@ -101,7 +101,7 @@ Government: Stable Monarchy with almost no gentry.
 > _"Ghan has the fleet, but Draolis owns the merchant ships."_ - Common Draolis Merchant saying.
 
 #### Draolis
-{:.is-sr-only}
+{:.is-invisible}
 
 3) Draolis: (_Magical Venice_)  
 {:.subtitle.is-5.mt-5}
@@ -116,7 +116,7 @@ Government: Plutocracy (ruled by rich merchants)
 > _"Half of Qi is the sky."_ – A common Draolis saying, Numenera Discovery (p. 144)
 
 #### Thaemor
-{:.is-sr-only}
+{:.is-invisible}
 
 4) Thaemor: (_formerly Thaemoor, an unhistorical Moorish Kingdom_)  
 {:.subtitle.is-5.mt-5}
@@ -128,7 +128,7 @@ Secret: Thaemor, formerly Thae moor, was a marsh land that suddenly drained out 
 Government: Unstable Tyranny with Gentry. Taxes are high.
 
 #### Malevich
-{:.is-sr-only}
+{:.is-invisible}
 
 5) Malevich: (_Transylvania_)  
 {:.subtitle.is-5.mt-5}
@@ -140,7 +140,7 @@ Secret: Yerth has opened a portal to another dimension.
 Government: Ostensibly a Monarchy, but in reality it's more of a collection of independent vassal states.
 
 #### Pytharon Empire
-{:.is-sr-only}
+{:.is-invisible}
 
 6) Pytharon Emprire: (_Russia, Parthian Empire_)  
 {:.subtitle.is-5.mt-5}
@@ -154,7 +154,7 @@ Government: Monarchy (formerly empire with provinces and governors)
 > _"Those not rich, are poor."_ – Old Aian saying (city in Milave)
 
 #### Milave
-{:.is-sr-only}
+{:.is-invisible}
 
 7) Milave: (_Medieval Italian Principalities_)  
 {:.subtitle.is-5.mt-5}
@@ -168,7 +168,7 @@ Government: Varies, from city states run by princes or nobles to even a republic
 In Qi, a city of learning, a city of government, wealth is flaunted, put on display, sometimes in gaudy fashion. Even servants of rich people in Qi dress fashionably, the location of your house in the city is very important, the closer to the Amber Pope and his machine security the more safe and more expensive. In Aian, the city of merchants, having money to make big deals is considered most important. People dress well, but fashion is not as important. Unlike most of the South of Steadfast, people in Aian don't patronize high art, preferring more popular fare. Education is not important, negotiating and making money is. Your skills are considered important. The biggest display of wealth in Aian is needing and having your own security _force_, rather than just a few bodyguards. Because Aian doesn't have a center like Qi does, where you live in Aian is secondary to how big your place is. Aian is also positively small (30K residents) compared to Qi (500k residents).
 
 #### Ancuan
-{:.is-sr-only}
+{:.is-invisible}
 
 8) Ancuan: (_Pirates and Ruins_)  
 {:.subtitle.is-5.mt-5}
@@ -182,7 +182,7 @@ Government: Weak Monarchy.
 > _"Iscobal is a land tearing itself apart from within."_ – Numenera Discovery (p. 153).
 
 #### Iscobal
-{:.is-sr-only}
+{:.is-invisible}
 
 9) Iscobal: (_Fantasy France_)   
 {:.subtitle.is-5.mt-5}   
