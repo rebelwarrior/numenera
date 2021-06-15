@@ -3,20 +3,22 @@ title: "Setting: The Ninth World"
 layout: posts
 ---
 
-This is my take on the _Numenera Ninth World_ setting. Based on _Numenera: Discovery_ and _Destiny_ core rule books, I expand the setting into areas not covered and change a few things to make it feel more consistent and coherent. 
+This is my take on the _Numenéra Ninth World_ setting. Based on _Numenéra: Discovery_ and _Destiny_ core rule books, I expand the setting into areas not covered and change a few things to make it feel more consistent and coherent. 
 {:.has-text-centered.m-2.mb-4.px-2.is-family-secondary.has-text-grey-light.message}
 
 # The World of Numenéra: The Ninth World
 {:.title.is-1.mt-2}
 
-Imagine a medieval world, one with only a thousand years of recorded history, yet this world is... not new. Raised among the still-present ruins of fantastically advanced previous worlds, worlds that had **Numenera**, impossible things, things not even of this world, not of this reality, and that this is _the ninth such world_, built upon ruins of the ruins of the ruins... of inconceivable worlds past.
+Imagine a medieval world, one with only a thousand years of recorded history, yet this world is... not new. Raised among the still-present ruins of fantastically advanced previous worlds, worlds that had **Numenéra**, impossible things, things not even of this world, not of this reality, and that this is _the ninth such world_, built upon ruins of the ruins of the ruins... of inconceivable worlds past.
 {:.is-italic}
 
-> "Set a billion years in Earth’s future, Numenera allows players take the roles of explorers and adventurers, uncovering the mysteries of long-vanished prior worlds." – Ashes of the Sea
+> "Set a billion years in Earth’s future, Numenéra allows players take the roles of explorers and adventurers, uncovering the mysteries of long-vanished prior worlds." – Ashes of the Sea
 
 ---------------------
 {:.horizontal-rule}
 
+Index
+{:.is-sr-only}
 - TOC
 {:toc}
 {:.box.is-pulled-right}
@@ -26,17 +28,17 @@ Imagine a medieval world, one with only a thousand years of recorded history, ye
 
 The Ninth World is like a _medieval magical setting_ but not quite:
 
-1. __Numenera__ - Numenera are the "_sufficiently advanced technologies_" leftover from the previous eras of the Ninth World. Numenera are like 'magic' in a fantasy setting. It is a global term for items, effects and abilities that are potentially useful. 
+1. __Numenéra__ - Numenéra are the "_sufficiently advanced technologies_" leftover from the previous eras of the Ninth World. Numenéra are like 'magic' in a fantasy setting. It is a global term for items, effects and abilities that are potentially useful. 
 > _"Any sufficiently advanced technology is indistinguishable from magic."_ – Arthur C. Clarke's Third Law
 2. __Automatons and Visitors__ - The Ninth World has living remnants from previous worlds: sentient androids and beings from other worlds.
 3. __Abhumans__ - Mutated beyond their humanity, abhumans are their own subspecies and a danger to the other inhabitants of the Ninth World. Abhumans are like the goblinoids of a fantasy medieval setting.
 4. __Dangerous World__ - The Ninth World is more dangerous than a medieval world, people live in protected enclaves, rather than by their farms, and avoid travel at night.  
-5. __Gender and Sex__ - Gender is not rigid, maybe because of Visitor's strange genders, or Automaton's genderless existence or maybe because numenera that can change your gender exist, but gender roles are not like the medieval world. Sex is not Taboo either.
+5. __Gender and Sex__ - Gender is not rigid, maybe because of Visitor's strange genders, or Automaton's genderless existence or maybe because numenéra that can change your gender exist, but gender roles are not like the medieval world. Sex is not Taboo either.
 6. __Religion__ - Religion is not unified, and the Amber Papacy, the only widespread thing approximating a religion, is more interested in Numenera and its secrets than in converting people.  
 7. __Nanites and Healing__ - Nanites, microscopic machines, are everywhere in the Ninth World. Due to their presence, people naturally slowly heal from injury and sickness. Pestilence is unknown, except where the effects of numenera are involved.
 8. __Iron Wind__ - Not all nanites are benevolent. Some have gone insane and circle the world in a destructive, mad cloud.
 9. __Money__ - Money is in shins. Gold, jewels are pretty but not inherently valuable (or even rare).
-10. __Science__ - The Ninth World is more scientifically advanced than the medieval world, but knowledge is not distributed. Almost everybody, however, knows the solar system due to the many [orreries](https://en.wikipedia.org/wiki/Orrery) left over from previous worlds (and the fact that the Moon periodically _winks out_ of existence).
+10. __Science__ - The Ninth World is more scientifically advanced than the medieval world, but knowledge is not distributed. Almost everybody, however, knows the solar system due to the many [orreries](https://en.wikipedia.org/wiki/Orrery) left over from previous worlds (and the fact that parts of the Moon periodically _wink out_ of existence).
 {:.ml-6}
 
 ---------------------
@@ -61,7 +63,7 @@ The lands to the north and west of Steadfast are collectively called the Outland
 
 ## The Nine Kingdoms of Steadfast
 {:.title.is-3.mt-5}
-As befits a feudal society, __power in Steadfast is tied to land.__ Land controls the production of food and resources and thus money as well. However, all-out war or land grabs are rare in Steadfast. The Amber papacy actively works to avoid war; and the resources needed to wage all-out war, would leave any kingdom involved vulnerable to the rest. Skirmishes, where one group of warriors fight to reduce the forces of the other, are, however, common along the borders. Since only about 10% of the population are warriors, aristocrats or clergy, the vast majority of the population aren't too concerned with skirmishes as they rarely touch them. Far more worrisome to a normal steadfast resident are the wilds. Outside the settlements and the fields attached to them, there are large areas of wilderness, where numenera, treasure and the truly weird can be found. Most residents live in fear of these areas and those that don't, are at the very least are weary of them.  
+As befits a feudal society, __power in Steadfast is tied to the land.__ Land controls the production of food and resources and thus money as well. However, all-out war or land grabs are rare in Steadfast. The Amber papacy actively works to avoid war; and the resources needed to wage all-out war, would leave any kingdom involved vulnerable to the rest. Skirmishes, where one group of warriors fight to reduce the forces of the other, are, however, common along the borders. Since only about 10% of the population are warriors, aristocrats or clergy, the vast majority of the population aren't too concerned with skirmishes as they rarely touch them. Far more worrisome to a normal steadfast resident are the wilds. Outside the settlements and the fields attached to them, there are large areas of wilderness, where numenéra, treasure and the truly weird can be found. Most residents live in fear of these areas and those that don't, are at the very least are weary of them.  
 
 ### The Feel of the Nine Kingdoms  
 {:.subtitle.is-3.mt-5}
@@ -79,11 +81,11 @@ _Listings of the Kingdoms include information that a person with knowledge of th
 Exports: Wood, paper and food.  
 Imports: Numenera (they're rare in Navarene)  
 Known for: Rich wood merchants and red wood. Proper Nobles. A long-living and strict but fair queen.  
-Navarene is a powerhouse wood producer. The Westwood is both a source of wealth, mystery and danger for the country. In addition to that, Navarene is a mayor agricultural exporter and probably the current bread-basket of Steadfast. The Queen is considered fair (if a bit paranoid sometimes) so this is the kingdom where there is least likely to be undue trouble with the law. Corruption in government is unheard of here. Steadfast's main paper production also happens here. The Amber Monolith is located here as well. The reason that the rest of Steadfast makes fun of Navarene rich merchants is not because they're the richest but because the government is so stable, they are the most comfortable and worry-free. Nobles in Navarene seem to be always concerned with propriety and proper behavior. How the Queen regards them is of extreme importance to nobles and lately rich merchants as well.   
+Navarene is a powerhouse wood producer. The Westwood is both a source of wealth, mystery and danger for the country. In addition to that, Navarene is a major agricultural exporter and probably the current bread-basket of Steadfast. The Queen is considered fair (if a bit paranoid sometimes) so this is the kingdom where there is least likely to be undue trouble with the law. Corruption in government is unheard of here. Steadfast's main paper production also happens here. The Amber Monolith is located here as well. The reason that the rest of Steadfast makes fun of Navarene merchants is not because they're the richest but because the government is so stable, they are the most comfortable and worry-free. Nobles in Navarene seem to be always concerned with propriety and proper behavior. How the Queen regards them is of extreme importance to nobles and lately, rich merchants as well.   
 Secret: The reason Navarene is a powerhouse producer is "industrial" automation using old-machines.  
 Government: Stable Feudal Monarchy with Landed Gentry
 
-> _"Rich like a Navarene merchant."_ – old saying, meaning content, but usually used sarcastically to mean the exact opposite: someone with no money and lots of troubles.
+> _"Rich like a Navarene merchant."_ – old saying, meaning content, but often used sarcastically to mean the exact opposite: someone with no money and lots of troubles.
 
 #### Ghan
 {:.is-sr-only}
@@ -108,7 +110,7 @@ Imports: float-stones, foodstuff
 Exports: Cattle (Kordech shiul), luxury goods like Wind-riders gliders
 Trades: luxury goods, numenera, scholars  
 Known for: __Qi__, the Amber Pope's residence, luxury goods, university.  
-If Naveren's rich are concerned with propriety and never out-shinning their queen, Draolis is all about showing off your wealth. Separated from its rival Navarene by the dangerous wilderness called the Dark Hills, Draolis is a country where merchants rule. It is the biggest kingdom in terms of population, and its capital Qi: the biggest city in Steadfast. Qi has a population of half a million, is the residence of the Amber Pope, location of the most famous University, and is known for its air balloons that move the populace like gondolas in the air from one area to the next. These air balloons and dirigibles have a very short range, but are adequate for transporting people and goods within the city. The Amber Pope lives in the Durkhal complex, which is like a city of its own inside of Qi. The countryside is very much agricultural except the area of Kordech, south of the Dark Hills, which has a large cattle processing complex.  
+If Naveren's rich are concerned with propriety and never out-shinning their queen, Draolis is all about showing off your wealth. Separated from its rival Navarene by the dangerous wilderness, called the Dark Hills, Draolis is a country where merchants rule. It is the biggest kingdom in terms of population, and its capital Qi: the biggest city in Steadfast. Qi has a population of half a million, is the residence of the Amber Pope, location of the most famous University, and is known for its air balloons that move the populace like gondolas in the air from one area to the next. These air balloons and dirigibles have a very short range, but are adequate for transporting people and goods within the city. The Amber Pope lives in the Durkhal complex, which is like a city of its own inside of Qi. The countryside is very much agricultural except the area of Kordech, south of the Dark Hills, which has a large cattle processing complex.  
 Secret: The Amber Papacy works to prevent Draolis from openly warring with Navarene.  
 Government: Plutocracy (ruled by rich merchants)
 
@@ -141,7 +143,7 @@ Government: Ostensibly a Monarchy, but in reality it's more of a collection of i
 #### Pytharon Empire
 {:.is-sr-only}
 
-6) Pytharon Emprire: (_Russia, Parthian Empire_)  
+6) Pytharon Empire: (_Russia, Parthian Empire_)  
 {:.subtitle.is-5.mt-5}
 Exports: Grains (wheat and corn), Marble, Alcohol  
 Imports: Azure Steel, Spices, Wood, Paper  
@@ -159,12 +161,12 @@ Government: Monarchy (formerly empire with provinces and governors)
 {:.subtitle.is-5.mt-5}
 Exports: Ganch (weed), float-stones, assorted foodstuff and art.  
 Known for: Diverse City States, the arts, __Aian _"city of merchants"___, and Family mansions.  
-Landlocked, squeezed between the souther dessert, Ancuan and the Pytharon Empire, Milave is an unstable land. Milave is a rich, beautiful and productive land with natural resources like float-stones that generate huge profits. Most of the people of Milave are farmers. Ostensibly ruled by a council, it is really a collection of highly independent city states, each with their own government. This is a land of extremes, there is no kingdom-wide police, no kingdom-wide unity and the cities run the gamut from the merchant-ruled Aian, where money is king, to the cosmopolitan Orrila. It is common for these city-states to sponsor artists as a way to give themselves pride and legitimacy, though beneath the surface of normalcy, the kingdom is on the verge of tearing itself apart as various factions eye each other and make the council ineffective.  
+Landlocked, squeezed between the southern desert, Ancuan and the Pytharon Empire, Milave is an unstable land. Milave is a rich, beautiful and productive land with natural resources like float-stones that generate huge profits. Most of the people of Milave are farmers. Ostensibly ruled by a council, it is really a collection of highly independent city states, each with their own government. This is a land of extremes, there is no kingdom-wide security, no kingdom-wide unity and the cities run the gamut from the merchant-ruled Aian, where money is king, to the cosmopolitan Orrila. It is common for these city-states to sponsor artists as a way to give themselves pride and legitimacy, though beneath the surface of normalcy, the kingdom is on the verge of tearing itself apart as various factions eye each other and make the council ineffective.  
 Secret: The Amber Pope is possibly supporting noble warlord Tarvesh as a leader to take over the kingdom.  
 Government: Varies, from city states run by princes or nobles to even a republic or two.
 
 > _How is Aian different from Qi?_  
-In Qi, a city of learning, a city of government, wealth is flaunted, put on display, sometimes in gaudy fashion. Even servants of rich people in Qi dress fashionably, the location of your house in the city is very important, the closer to the Amber Pope and his machine security the more safe and more expensive. In Aian, the city of merchants, having money to make big deals is considered most important. People dress well, but fashion is not as important. Unlike most of the South of Steadfast, people in Aian don't patronize high art, preferring more popular fare. Education is not important, negotiating and making money is. Your skills are considered important. The biggest display of wealth in Aian is needing and having your own security _force_, rather than just a few bodyguards. Because Aian doesn't have a center like Qi does, where you live in Aian is secondary to how big your place is. Aian is also positively small (30K residents) compared to Qi (500k residents).
+In Qi, a city of learning, a city of government, wealth is flaunted, put on display, sometimes in gaudy fashion. Even servants of rich people in Qi dress fashionably, the location of your house in the city is very important, the closer to the Amber Pope and his machine security the more safe and more expensive. In Aian, the city of merchants, having money to make big deals is considered most important. People dress well, but fashion is not as important. Unlike most of the South of Steadfast, people in Aian don't patronize high art, preferring more popular fare. Education is not important, negotiating and making money is. Your skills are considered important. The biggest display of wealth in Aian is needing and having your own security _force_, rather than just a few bodyguards. Because Aian doesn't have a center like Qi does, where you live in Aian is secondary to how big your place is. Aian is also positively small (30k residents) compared to Qi (500k residents).
 
 #### Ancuan
 {:.is-sr-only}
@@ -174,7 +176,7 @@ In Qi, a city of learning, a city of government, wealth is flaunted, put on disp
 Exports: Yellow wool, Arron "sugar", salt and Numenera (from Red Fleet's explorations and ruins)  
 Imports: Red Wood (for masts), Paper, Dynafel Cotton, Processed Metals  
 Known for: Raster Riders, pirates, ruins, sea trade, and the red fleet  
-Ancuan people have been independent and self-reliant since they were the farthest province of the Pytharon Empire. Ancuan is now a kingdom, but like Ghan, it is made up of mostly free-people and has a fairly flat government structure. Unlike Ghan, where the king is well known, and respected, in Ancuan the king is mostly ignored and left to his own devises. Ancuan is a land built on ruins and the countryside abounds with it. Exploration is quite common here and that curiosity also is present in the red fleet, a group of sea explorers. But for all it's salt mines, ruin-laden fields, it is __the sea__ that dominates Ancuan: all major cities have ports. The land of Ancuan has significant riches but also harbors significant dangers which keep it a rather simple kingdom that feels very far away from any authority.  
+Ancuan people have been independent and self-reliant since they were the farthest province of the Pytharon Empire. Ancuan is now a kingdom, but like Ghan, it is made up of mostly free-people and has a fairly flat government structure. Unlike Ghan, where the king is well known, and respected, in Ancuan the king is mostly ignored and left to his own devises. Ancuan is a land built on ruins and the countryside abounds with it. Exploration is quite common here and that curiosity also is present in the red fleet, a group of sea explorers. But for all its salt mines, ruin-laden fields, it is __the sea__ that dominates Ancuan: all major cities have ports. The land of Ancuan has significant riches but also harbors significant dangers which keep it a rather simple kingdom that feels very far away from any authority.  
 Secret: There is a town with a hidden side, a hidden Rarrow.  
 Government: Weak Monarchy.
 
@@ -197,7 +199,7 @@ Borders:
 1. __Matheunis, the Cold Desert__  
 What people know: An inhospitable frozen desert that ends in an impassible barrier of ice.
 2. __Cloudcrystal Skyfields__  
-What people know: A crystal strewn desert, where nothing grows, and crystal float above. Gaians are said to live beyond that in the out-lands.
+What people know: A crystal strewn desert, where nothing grows, and crystals float above. Gaians are said to live beyond that in the out-lands.
 {:.ml-6}
 
 ![Pyramid]({{ site.url }}/assets/images/BeneathThePyramid-2.jpg)
@@ -217,7 +219,7 @@ __Shin-talk__, is older than true-lang. It's a merchant talk, it has few words a
 {:.subtitle.is-4.no_toc}
 Coinage is called 'shins' everywhere in Steadfast. Most of the economy works on barter. Typically people in a town (or aldeia) will use a [split stick](https://en.wikipedia.org/wiki/Tally_stick#Split_tally) to keep track of loans or debts and of taxes. These can be paid with produce instead of coinage. Merchants, guards, mercenaries and aristocrats deal in shins.
 
-Shins are made of a strange material called iotium: 100 shins can usually be transformed into 1 gram of iotium. Shins come in different shapes, some have stamped visages from one of the nine kingdoms, but most don't. It's not clear what iotium is, but it's necessary for crafting or repairing numenera. Iotium is inert in its normal form. Iotium can also be found in its non-inert form and then it is called IoTum (IoTi plural) and it's very valuable for crafting Numenera.
+Shins are made of a strange material called iotium: 100 shins can usually be transformed into 1 gram of iotium. Shins come in different shapes, some have stamped visages from one of the nine kingdoms, but most don't. It's not clear what iotium is, but it's necessary for crafting or repairing numenéra. Iotium is inert in its normal form. Iotium can also be found in its non-inert form and then it is called IoTum (IoTi plural) and it's very valuable for crafting Numenéra.
 
 Strangely, there is no fractional currency: it's either a shin or credit.
 
@@ -227,6 +229,9 @@ Shins are not particularly heavy (weighting only a gram or two) so people can ca
 
 <!-- _Typical salaries for guards and mercenaries:_
 {:.mt-5} -->
+
+Table of common jobs and their pay.
+{:.is-sr-only}
 
 Job | Shins
 :--- | :---
@@ -280,8 +285,8 @@ _Chandlers (candle makers, because there are numenera that produce light rather 
 __Healers (a.k.a. Chiurgeons):__    
 Healers are bio-mechanical experts. They're a cross of a Herbal medicine (focused on the proper plants and herbs to eat), a mechanic and a cybernetic doctor. They know how to activate the nanites for healing and how to set and fix bones. Healers have ranks and specialties, but they don't seem to be regulated by a normal guild.
 
-__Wrights (Numenera crafters):__  
-In big cities you can find a wright or two, who specializes in fixing or creating Numenera. Crafting Numenera is exceedingly expensive so professional full-time wrights only exist in places where there is a lot of trade and thus a lot of shins. Because of the ubiquity of Numenara even small aldeia have someone who has a "knack" with Numenara even if they aren't a proper professional wright.
+__Wrights (Numenéra crafters):__  
+In big cities you can find a wright or two, who specializes in fixing or creating Numénera. Crafting Numenera is exceedingly expensive so professional full-time wrights only exist in places where there is a lot of trade and thus a lot of shins. Because of the ubiquity of Numenéra even small aldeia have someone who has a "knack" with Numenéra even if they aren't a proper professional wright.
 
 __Artists:__  
 Some artists have informal guilds, particularly in the south of Steadfast.
@@ -290,7 +295,7 @@ __Scriveners (Scribes):__
 Scriveners are controlled exclusively by the Aeon priests.
 
 __Adventuring Guilds:__  
-Adventuring Guilds, typically called Delving Guilds, are located in many cities throughout Steadfast. The guild was founded by former adventures (some of the few that survive to old age) when they could not adventure anymore. The guild provides temporary housing in the form of barracks (usually three days), storage and other services in exchange for a part (usually 10-15%) of the takings or findings. Adventuring Guilds also function as proto-banks allowing the deposit of shins in one guild-house and the withdrawal in another for a fee. They also keep a board of numenera-rich (and dangerous) sites where delving might be done, and the occasional request from people of the area. In order to use their services, you must be a member in good standing (basically one _not_ suspected of cheating the guild). Adventuring guilds in large cities may run their own Ale houses adjacent.     
+Adventuring Guilds, typically called Delving Guilds, are located in many cities throughout Steadfast. The guild was founded by former adventures (some of the few that survive to old age) when they could not adventure anymore. The guild provides temporary housing in the form of barracks (usually three days), storage and other services in exchange for a part (usually 10-15%) of the takings or findings. Adventuring Guilds also function as proto-banks allowing the deposit of shins in one guild-house and the withdrawal in another for a fee. They also keep a board of numenéra-rich (and dangerous) sites where delving might be done, and the occasional request from people of the area. In order to use their services, you must be a member in good standing (basically one _not_ suspected of cheating the guild). Adventuring guilds in large cities may run their own Ale-houses adjacent.     
 
 #### Inns and places to sleep
 {:.subtitle.is-4.mt-5.no_toc}
@@ -320,7 +325,7 @@ Betting happens in all games throughout Steadfast, though most commonly in anima
 
 #### Working the fields
 {:.subtitle.is-4.mt-4.no_toc}
-While some kingdoms (notably Navarene) have the occasional independent single houses in the country side, most aldeia and towns live together in an enclosed or fenced area, and travel and work their fields during the day. Because of this, cities and town have high population density. Shepherds, who travel with their flocks and therefore live outside, are in danger most of their lives. Steadfast is considerably more dangerous than medieval Europe was, and especially so at night.
+While some kingdoms (notably Navarene) have the occasional independent single houses in the country side, most aldeia and towns live together in an enclosed or fenced area, and travel and work their fields during the day. Because of this, cities and towns have high population density. Shepherds, who travel with their flocks and therefore live outside, are in danger most of their lives. Steadfast is considerably more dangerous than medieval Europe was, and especially so at night.
 
 #### Clothing
 {:.subtitle.is-4.mt-4.no_toc}
@@ -332,7 +337,7 @@ Food in Steadfast is a decidedly local affair, though there are some staples con
 
 #### Religion
 {:.subtitle.is-4.mt-4.no_toc}
-Religion, like food, is a decidedly local affair, though there is a widespread Church-like organization in Steadfast in the form of __the Amber Papacy__, they operate mostly secularly. The Amber Papacy, also called The Order of Truth, and their __Aeon Priests__ are the most trusted experts on numenera.  Additionally, the Amber Papacy promotes literacy and controls all scribes (used for almost all written contracts) which give it a lot of knowledge and therefore power.
+Religion, like food, is a local affair, though there is a widespread Church-like organization in Steadfast in the form of __the Amber Papacy__, they operate mostly secularly. The Amber Papacy, also called The Order of Truth, and their __Aeon Priests__ are the most trusted experts on numenéra.  Additionally, the Amber Papacy promotes literacy and controls all scribes (used for almost all written contracts) which give it a lot of knowledge and therefore power.
 
 > _"May the spirits of the ancients bless this endeavor."_ – Aeon Priest blessing.
 
@@ -342,7 +347,7 @@ Music in Steadfast sounds unlike medieval music. The abundance of metals and num
 
 #### Science
 {:.subtitle.is-4.mt-4.no_toc}
-Science is way more advanced in Steadfast than it ever was in the medieval world. Due to the existence of numenera and tools that make it easier to explore the world, many things are known in Steadfast. However, this doesn't mean the knowledge is widespread. So while at Qi University germ theory is understood and even the difference between bacteria and viruses common-place there, this might not be the case in a remote Malevich town, where evil-spirits are to blame for disease. The one exception is the heliocentric theory of the universe, as orrery are found in so many places in Steadfast, pretty much everyone knows the world is round, circles around the Sun and the moon (when it's there) around the Earth.
+Science is way more advanced in Steadfast than it ever was in the medieval world. Due to the existence of numenera and tools that make it easier to explore the world, many things are known in Steadfast. However, this doesn't mean the knowledge is widespread. So while at Qi University germ theory is understood and even the difference between bacteria and viruses common-place, this might not be the case in a remote Malevich town, where evil-spirits are to blame for disease. The one exception is the heliocentric theory of the universe, as orrery are found in so many places in Steadfast, pretty much everyone knows the world is round, circles around the Sun and the moon around the Earth.
 
 #### Trade Routes
 {:.subtitle.is-4.mt-4.no_toc}
@@ -361,7 +366,7 @@ The fastest and safest trade is via rivers, so the biggest towns and cities lie 
 _How to approach the weird. I don't like how the 9th World setting is presented where the weird is presented as normal yet it somehow need to be weird too. So let's introduce the strange but familiar concept and the Lovecraftian weird._  
 
 
-The world of the Ninth world is a mostly medieval world, but one where "magic" (aka Numenera) is common place. However, magic is very dangerous. To abuse it is to court disaster. So everybody is somewhat skeptical about it.
+The world of the Ninth world is a mostly medieval world, but one where "magic" (a.k.a. Numenéra) is common place. However, magic is very dangerous. To abuse it is to court disaster. So everybody is somewhat skeptical about it.
 
 ##### Strange but familiar
 {:.subtitle.is-5.mt-5.no_toc}
@@ -443,14 +448,14 @@ Orcs? | Margr, _p. 240_ | Goat-faced Humanoids
  — | Sathosh, _p. 251_ | Single-Tentacle-Faced Humanoids
 Toad-creatures Koatoah? | Yovok, _p. 261_ | Toad-face Humanoids
  Beastmen | Grush (Bestiary _p. 62_)| Naked White Muscular Abhumans
- Goblins | Killist (Bestiary _p. 72_) | Poison using small Humanoids
+ Goblins | Killist (Bestiary _p. 72_) | Poison-using small Humanoids
  — | Raheunum (Bestiary, _p. 104_)| Underground Humanoids
  — | Rorathik (Bestiary, _p. 109_)| Blue Predator-type Assassins
  Dustmen/Ghoul | Syzygy Ghoul (Bestiary, _p. 122_) | Collect and Eat the dead
 {:.card.is-pulled-right.mx-2.table.is-hoverable}
 
 __Abhumans:__    
-The boogey man is nothing compared to the frightening prospect of abhumans. While mutants are regarded with suspicion throughout Steadfast, no one would confuse a mutant for an abhuman. Abhumans are no longer human; humanoid yes, human no. Abhumans are, however, intelligent. What happened that turn them that way is the source of much speculation. It is rumored that abhumans gain their hatred of humanity, their evilness and their mutated shape, from eating each other, so cannibalism is taboo in all the nine kingdoms. When you close your eyes and think of a demonic entity, that's probably an abhuman looking back at you though the darkness. Abhumans are probably the only monster that a general resident of Steadfast would know by name. Any tracker worth his salt would be able to tell abhumans apart from their tracks alone.
+The boogey man is nothing compared to the frightening prospect of abhumans. While mutants are regarded with suspicion throughout Steadfast, no one would confuse a mutant for an abhuman. Abhumans are no longer human; humanoid yes, human no. Abhumans are, however, intelligent. What happened that turn them that way is the source of much speculation. It is rumored that abhumans gain their hatred of humanity, their evilness and their mutated shape, from eating each other, so cannibalism is taboo in all the nine kingdoms. When you close your eyes and think of a demonic entity, that's probably an abhuman looking back at you through the darkness. Abhumans are probably the only monster that a general resident of Steadfast would know by name. Any tracker worth his salt would be able to tell abhumans apart from their tracks alone.
 
 If abhumans are the more familiar kind of monster in the Ninth World, the rest defy reason for most inhabitants.
 
@@ -463,7 +468,7 @@ More info in [House Setting: Wandering Walk]({{site.url}}/setting/wandering-walk
 
 ---
 
-#### Ways into Numenera
+#### Ways into Numenéra
 {:.subtitle.is-4.mt-5.no_toc}
 In Numenera Discovery, they present four ways of using the Ninth World:
 1. Post-Apocalyptic Setting
