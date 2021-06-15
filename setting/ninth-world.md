@@ -71,6 +71,9 @@ _Listings of the Kingdoms include information that a person with knowledge of th
 ![map]({{ site.url }}/assets/images/steadfast.jpg)
 {:.box.is-pulled-right.mx-2}
 
+#### Navarene
+{:.is-sr-only}
+
 1) Navarene: (_A Quasi-Medival Victorian England_)  
 {:.subtitle.is-5.mt-5}
 
@@ -83,6 +86,9 @@ Government: Stable Feudal Monarchy with Landed Gentry
 
 > _"Rich like a Navarene merchant."_ – old saying, meaning content, but usually used sarcastically to mean the exact opposite: someone with no money and lots of troubles.
 
+#### Ghan
+{:.is-sr-only}
+
 2) Ghan: (_Switzerland_)  
 {:.subtitle.is-5.mt-5}
 Exports: Aneen (bipedal camels) as pack-animals, Gallen hides (cattle hides), some Azure Steel, and Ships.  
@@ -93,6 +99,9 @@ Secret: The Angular Knights have their fortress here. Ghan trades with the Gaian
 Government: Stable Monarchy with almost no gentry.
 
 > _"Ghan has the fleet, but Draolis owns the merchant ships."_ - Common Draolis Merchant saying.
+
+#### Draolis
+{:.is-sr-only}
 
 3) Draolis: (_Magical Venice_)  
 {:.subtitle.is-5.mt-5}
@@ -106,6 +115,9 @@ Government: Plutocracy (ruled by rich merchants)
 
 > _"Half of Qi is the sky."_ – A common Draolis saying, Numenera Discovery (p. 144)
 
+#### Thaemor
+{:.is-sr-only}
+
 4) Thaemor: (_formerly Thaemoor, an unhistorical Moorish Kingdom_)  
 {:.subtitle.is-5.mt-5}
 Exports: Next to nothing. Some metals and few Numenera.  
@@ -115,6 +127,9 @@ Once a coveted piece of land between three neighboring kingdoms, now it is a sad
 Secret: Thaemor, formerly Thae moor, was a marsh land that suddenly drained out _by raising itself_ about 300 years ago. Nobody knows what caused the land to rise.  
 Government: Unstable Tyranny with Gentry. Taxes are high.
 
+#### Malevich
+{:.is-sr-only}
+
 5) Malevich: (_Transylvania_)  
 {:.subtitle.is-5.mt-5}
 Exports: Numenera (which are found in the chasm) and strange oddities from Yerth.  
@@ -123,6 +138,9 @@ Known for: Towns that are closed to all outsiders, armored carriages, abhumans, 
 Bordered to the south by the Voil Chasm (or the Earthwound as some call it) and to the north by the Thaermor, Malevich was a backwaters land mired in internal civil wars and dreams of conquest. Once a rich land, it is now in ruins. The wealth of the place is concentrated around the few aristocrats and everyone else lives in dire poverty. The aristocrats here can be ___quite depraved___ and the populace poor and superstitious.  
 Secret: Yerth has opened a portal to another dimension.  
 Government: Ostensibly a Monarchy, but in reality it's more of a collection of independent vassal states.
+
+#### Pytharon Empire
+{:.is-sr-only}
 
 6) Pytharon Emprire: (_Russia, Parthian Empire_)  
 {:.subtitle.is-5.mt-5}
@@ -135,6 +153,9 @@ Government: Monarchy (formerly empire with provinces and governors)
 
 > _"Those not rich, are poor."_ – Old Aian saying (city in Milave)
 
+#### Milave
+{:.is-sr-only}
+
 7) Milave: (_Medieval Italian Principalities_)  
 {:.subtitle.is-5.mt-5}
 Exports: Ganch (weed), float-stones, assorted foodstuff and art.  
@@ -146,6 +167,9 @@ Government: Varies, from city states run by princes or nobles to even a republic
 > _How is Aian different from Qi?_  
 In Qi, a city of learning, a city of government, wealth is flaunted, put on display, sometimes in gaudy fashion. Even servants of rich people in Qi dress fashionably, the location of your house in the city is very important, the closer to the Amber Pope and his machine security the more safe and more expensive. In Aian, the city of merchants, having money to make big deals is considered most important. People dress well, but fashion is not as important. Unlike most of the South of Steadfast, people in Aian don't patronize high art, preferring more popular fare. Education is not important, negotiating and making money is. Your skills are considered important. The biggest display of wealth in Aian is needing and having your own security _force_, rather than just a few bodyguards. Because Aian doesn't have a center like Qi does, where you live in Aian is secondary to how big your place is. Aian is also positively small (30K residents) compared to Qi (500k residents).
 
+#### Ancuan
+{:.is-sr-only}
+
 8) Ancuan: (_Pirates and Ruins_)  
 {:.subtitle.is-5.mt-5}
 Exports: Yellow wool, Arron "sugar", salt and Numenera (from Red Fleet's explorations and ruins)  
@@ -156,6 +180,9 @@ Secret: There is a town with a hidden side, a hidden Rarrow.
 Government: Weak Monarchy.
 
 > _"Iscobal is a land tearing itself apart from within."_ – Numenera Discovery (p. 153).
+
+#### Iscobal
+{:.is-sr-only}
 
 9) Iscobal: (_Fantasy France_)   
 {:.subtitle.is-5.mt-5}   
@@ -184,7 +211,7 @@ __True-lang__, or true language, or the language of truth, is the common tongue 
 <br>
 __Shin-talk__, is older than true-lang. It's a merchant talk, it has few words and involves some hand signals. Almost everybody knows how to count in shin-talk, and children play a game similar to rock-paper-scissor all over, in shin-talk. Shin-talk has no written-form. Shin-talk is widespread, even outside of Steadfast, in the Outlands and maybe even Beyond.
 
-### Economy and Coins:
+### Economy and Coins
 {:.subtitle.is-3.mt-5}
 
 #### Coins (_Shins_)
@@ -327,7 +354,7 @@ The fastest and safest trade is via rivers, so the biggest towns and cities lie 
 
 ---
 
-### The _'Weird'_ and Normalcy:
+### The _'Weird'_ and Normalcy
 {:.subtitle.is-3.mt-5}
 
 > _"If everything is weird, nothing is weird: It's normal."_
@@ -337,7 +364,7 @@ _How to approach the weird. I don't like how the 9th World setting is presented 
 
 The world of the Ninth world is a mostly medieval world, but one where "magic" (aka Numenera) is common place. However, magic is very dangerous. To abuse it is to court disaster. So everybody is somewhat skeptical about it.
 
-##### Strange but familiar
+Strange but familiar
 {:.subtitle.is-5.mt-5}
 
 Strange but familiar things are things that are analogues to today's world but slightly different. So fungi-boars instead of pigs for example, but they are exactly like pigs with a slight twist but otherwise the same.
@@ -375,7 +402,7 @@ __Materials:__
 Plastic, Metal and synthetic fibers are very common in the 9th world, but unlike our world these materials aren't exactly industrially made. There are multiple plants that produce synthetic and colorful fibers and colors. Synth-steel can be found in the ruins of old tech.
 {:.mt-3}
 
-##### Strange to us but familiar to them
+Strange to us but familiar to them
 {:.subtitle.is-5.mt-5}
 
 __Old-Machines:__  
@@ -404,7 +431,7 @@ Big cities tend to have slums or informal housing built against the wall of the 
 __Siesta:__  
 Because the day is longer, it is customary in all of Steadfast to take a nap midday, after lunch. Aeon Priests encourage this as they surmise the data-sphere is most active midday as it is solar-powered. Additionally, peasants and agricultural workers don't tend to sleep through the whole night. People in small towns normally go to bed when the sun sets, then wake up in the middle of the night and _"talk"_ or set a small fire before going back to bed and waking up before the sun comes up to go work the fields.
 
-##### The Weird
+The Weird
 {:.subtitle.is-5.mt-5}
 
 > _"The concept of a demon—a spiritually evil entity—is a label for threats that can’t be understood."_ – Ninth World Bestiary 2
@@ -436,7 +463,7 @@ There is a pilgrimage that some people are suddenly compelled to do. The people 
 
 ---
 
-#### Ways into Numenera
+Ways into Numenera
 {:.subtitle.is-4.mt-5}
 In Numenera Discovery, they present four ways of using the Ninth World:
 1. Post-Apocalyptic Setting
