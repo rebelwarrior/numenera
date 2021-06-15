@@ -72,11 +72,10 @@ _Listings of the Kingdoms include information that a person with knowledge of th
 {:.box.is-pulled-right.mx-2}
 
 #### Navarene
-{:.is-invisible}
+{:.is-sr-only}
 
 1) Navarene: (_A Quasi-Medival Victorian England_)  
 {:.subtitle.is-5.mt-5}
-
 Exports: Wood, paper and food.  
 Imports: Numenera (they're rare in Navarene)  
 Known for: Rich wood merchants and red wood. Proper Nobles. A long-living and strict but fair queen.  
@@ -87,7 +86,7 @@ Government: Stable Feudal Monarchy with Landed Gentry
 > _"Rich like a Navarene merchant."_ – old saying, meaning content, but usually used sarcastically to mean the exact opposite: someone with no money and lots of troubles.
 
 #### Ghan
-{:.is-invisible}
+{:.is-sr-only}
 
 2) Ghan: (_Switzerland_)  
 {:.subtitle.is-5.mt-5}
@@ -101,7 +100,7 @@ Government: Stable Monarchy with almost no gentry.
 > _"Ghan has the fleet, but Draolis owns the merchant ships."_ - Common Draolis Merchant saying.
 
 #### Draolis
-{:.is-invisible}
+{:.is-sr-only}
 
 3) Draolis: (_Magical Venice_)  
 {:.subtitle.is-5.mt-5}
@@ -116,7 +115,7 @@ Government: Plutocracy (ruled by rich merchants)
 > _"Half of Qi is the sky."_ – A common Draolis saying, Numenera Discovery (p. 144)
 
 #### Thaemor
-{:.is-invisible}
+{:.is-sr-only}
 
 4) Thaemor: (_formerly Thaemoor, an unhistorical Moorish Kingdom_)  
 {:.subtitle.is-5.mt-5}
@@ -128,7 +127,7 @@ Secret: Thaemor, formerly Thae moor, was a marsh land that suddenly drained out 
 Government: Unstable Tyranny with Gentry. Taxes are high.
 
 #### Malevich
-{:.is-invisible}
+{:.is-sr-only}
 
 5) Malevich: (_Transylvania_)  
 {:.subtitle.is-5.mt-5}
@@ -140,7 +139,7 @@ Secret: Yerth has opened a portal to another dimension.
 Government: Ostensibly a Monarchy, but in reality it's more of a collection of independent vassal states.
 
 #### Pytharon Empire
-{:.is-invisible}
+{:.is-sr-only}
 
 6) Pytharon Emprire: (_Russia, Parthian Empire_)  
 {:.subtitle.is-5.mt-5}
@@ -154,13 +153,13 @@ Government: Monarchy (formerly empire with provinces and governors)
 > _"Those not rich, are poor."_ – Old Aian saying (city in Milave)
 
 #### Milave
-{:.is-invisible}
+{:.is-sr-only}
 
 7) Milave: (_Medieval Italian Principalities_)  
 {:.subtitle.is-5.mt-5}
 Exports: Ganch (weed), float-stones, assorted foodstuff and art.  
-Known for: Extremes, the arts, __Aian _"city of merchants"___, and Family mansions.  
-Landlocked, squeezed between the souther dessert, Ancuan and the Pytharon Empire, Milave is an unstable land. Milave is a rich beautiful and productive land with natural resources like float-stones that generate huge profits. Most of the people of Milave are farmers. Ostensibly ruled by a council, it is really a collection of highly independent city states, each with their own government. This is a land of extremes, there is no kingdom-wide police, no kingdom-wide unity and the cities run the gamut from the merchant-ruled Aian, where money is king, to the cosmopolitan Orrila. It is common for these city-states to sponsor artists as a way to give themselves pride and legitimacy, though beneath the surface of normalcy, the kingdom is on the verge of tearing itself apart as various factions eye each other and make the council ineffective.  
+Known for: Diverse City States, the arts, __Aian _"city of merchants"___, and Family mansions.  
+Landlocked, squeezed between the souther dessert, Ancuan and the Pytharon Empire, Milave is an unstable land. Milave is a rich, beautiful and productive land with natural resources like float-stones that generate huge profits. Most of the people of Milave are farmers. Ostensibly ruled by a council, it is really a collection of highly independent city states, each with their own government. This is a land of extremes, there is no kingdom-wide police, no kingdom-wide unity and the cities run the gamut from the merchant-ruled Aian, where money is king, to the cosmopolitan Orrila. It is common for these city-states to sponsor artists as a way to give themselves pride and legitimacy, though beneath the surface of normalcy, the kingdom is on the verge of tearing itself apart as various factions eye each other and make the council ineffective.  
 Secret: The Amber Pope is possibly supporting noble warlord Tarvesh as a leader to take over the kingdom.  
 Government: Varies, from city states run by princes or nobles to even a republic or two.
 
@@ -168,7 +167,7 @@ Government: Varies, from city states run by princes or nobles to even a republic
 In Qi, a city of learning, a city of government, wealth is flaunted, put on display, sometimes in gaudy fashion. Even servants of rich people in Qi dress fashionably, the location of your house in the city is very important, the closer to the Amber Pope and his machine security the more safe and more expensive. In Aian, the city of merchants, having money to make big deals is considered most important. People dress well, but fashion is not as important. Unlike most of the South of Steadfast, people in Aian don't patronize high art, preferring more popular fare. Education is not important, negotiating and making money is. Your skills are considered important. The biggest display of wealth in Aian is needing and having your own security _force_, rather than just a few bodyguards. Because Aian doesn't have a center like Qi does, where you live in Aian is secondary to how big your place is. Aian is also positively small (30K residents) compared to Qi (500k residents).
 
 #### Ancuan
-{:.is-invisible}
+{:.is-sr-only}
 
 8) Ancuan: (_Pirates and Ruins_)  
 {:.subtitle.is-5.mt-5}
@@ -182,7 +181,7 @@ Government: Weak Monarchy.
 > _"Iscobal is a land tearing itself apart from within."_ – Numenera Discovery (p. 153).
 
 #### Iscobal
-{:.is-invisible}
+{:.is-sr-only}
 
 9) Iscobal: (_Fantasy France_)   
 {:.subtitle.is-5.mt-5}   

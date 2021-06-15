@@ -27,7 +27,7 @@ After that my recommendation is to get:
 ![Explorer's Keys Book Thumbnail]({{ site.url }}/assets/images/thumbs/explorers-keys-thumb.jpg)
 {:.card.is-pulled-right.m-2}
 
-This [book of short adventures][] is fantastic. These adventures are meant for one session and to be mostly improvised. They're written in a short format, like it's predecessor [Weird Discoveries][] but unlike that book this one has maps only on one page instead of split between two making it way easier to deal with on PDF format and the adventures are more tight in my opinion.  
+This [book of short adventures][] is fantastic. These adventures are meant for one session and to be mostly improvised. They're written in a short format, like its predecessor [Weird Discoveries][] but unlike that book this one has maps only on one page instead of split between two making it way easier to deal with on PDF format and the adventures are tighter in my opinion.  
 
 ## Free Content
 {:.title.is-3.mt-2} 
