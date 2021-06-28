@@ -36,6 +36,7 @@ layout: posts
 2. Ginny D's [50 Questions]({{ site.url}}/50-questions) to Flesh out PCs.  
 3. [Numenéra Movie: Strand](https://youtu.be/6xGDE0w0AYo)
 {:.ml-6}
+4. [Railroading, Agency and Choice](https://youtu.be/KqIZytzzFKU)
 
 ## Other Resources:
 {:.title.is-3} 
