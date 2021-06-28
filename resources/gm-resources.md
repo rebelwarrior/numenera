@@ -18,7 +18,7 @@ layout: posts
 
 1. [Prepless GM By Paul Camp.](https://www.drivethrurpg.com/product/304745/The-Prepless-GM)
 2. [The Monsters Know What they're Doing: Combat Tactics for Dungeon Masters by Keith Ammann](https://www.themonstersknow.com/)
-3. [Weird Discoveries](https://www.drivethrurpg.com/product/148098/Weird-Discoveries-Ten-Instant-Adventures-for-Numenera) (The cheat sheet is cool too.) also possibly Explorer's Keys and Strange Revelations.
+3. [Weird Discoveries](https://www.drivethrurpg.com/product/148098/Weird-Discoveries-Ten-Instant-Adventures-for-Numenera) (The cheat sheet is cool too.) or [Explorer's Keys](https://www.drivethrurpg.com/product/285114/Explorers-Keys) or [Strange Revelations](https://www.drivethrurpg.com/product/167343/Strange-Revelations-Ten-Instant-Adventures-for-The-Strange).
 {:.ml-6}
 
 ## Other GM'ing Books

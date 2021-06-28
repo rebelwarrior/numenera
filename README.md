@@ -10,7 +10,7 @@ Original Content and Code © David Acevedo
 Learned:
 1. Bulma doesn't work well with markdown
 	1. Bulma has no list CSS
-	2. Bulma has no blockquote CSS (WTF)
+	2. Bulma has no blockquote CSS (WTF) had to take it from Zurb's foundation (?).
 	3. Bulma doesn't style plain h1, h2, etc. by default
 	4. Bulma's margin/padding to the top of titles is ___horrendous___. !!!!!!!
 	5. Table footers seem to display at the top...?
