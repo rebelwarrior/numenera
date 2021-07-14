@@ -64,7 +64,7 @@ Check out "Breaks down walls."
 > Type (1/6), Descriptor (1/47) and Focus (1/39) give 10,998 permutations.
 
 ![piechart]({{ site.url }}/assets/images/Pies.jpg)
-{:.box.is-pulled-right.mx-2}
+{:.image.is-pulled-right.mx-2}
 
 #### 4. Choose Two Type Abilities (2/5 to 2/9)
 {:.subtitle.is-4.mt-4} 
