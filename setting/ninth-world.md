@@ -202,8 +202,8 @@ What people know: An inhospitable frozen desert that ends in an impassible barri
 What people know: A crystal strewn desert, where nothing grows, and crystals float above. Gaians are said to live beyond that in the out-lands.
 {:.ml-6}
 
-![Pyramid]({{ site.url }}/assets/images/BeneathThePyramid-2.jpg)
-{:.box.mx-2}
+![Pyramid]({{ site.url }}/assets/images/BeneathThePyramid-3.jpg)
+{:.image.mx-2}
 
 ### Languages
 {:.subtitle.is-3.mt-5}
