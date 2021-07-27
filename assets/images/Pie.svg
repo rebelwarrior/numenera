@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <circle cx="405.657" cy="340.755" r="193.837" style="fill:rgb(235,235,235);"/>
+    <path d="M573.525,437.674C590.538,408.207 599.494,374.781 599.494,340.755C599.494,233.702 512.71,146.918 405.657,146.918L405.657,340.755L573.525,437.674Z" style="fill:rgb(255,203,98);"/>
+    <g transform="matrix(1,0,0,1,0.707128,38.136)">
+        <text x="453.377px" y="260.997px" style="font-family:'Apple-Chancery', 'Apple Chancery', cursive;font-style:italic;font-size:36px;">Type</text>
+    </g>
+    <path d="M237.789,437.674C272.415,497.648 336.406,534.593 405.657,534.593C474.908,534.593 538.899,497.648 573.525,437.674L405.657,340.755L237.789,437.674Z" style="fill:rgb(101,117,255);"/>
+    <g transform="matrix(1,0,0,1,15.5435,13.8401)">
+        <text x="344.853px" y="445.864px" style="font-family:'Apple-Chancery', 'Apple Chancery', cursive;font-style:italic;font-size:36px;">Focus</text>
+    </g>
+    <path d="M405.657,146.918C298.604,146.918 211.82,233.702 211.82,340.755C211.82,374.781 220.776,408.207 237.789,437.674L405.657,340.755L405.657,146.918Z" style="fill:rgb(123,215,136);"/>
+    <g transform="matrix(1,0,0,1,-19.4393,24.9585)">
+        <text x="252.704px" y="280.08px" style="font-family:'Apple-Chancery', 'Apple Chancery', cursive;font-style:italic;font-size:36px;">Descriptor</text>
+    </g>
+</svg>
