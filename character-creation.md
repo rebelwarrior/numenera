@@ -46,7 +46,7 @@ Read those and choose one.
 
 __Discovery Descriptors:__ _Charming, Clever, Graceful, Intelligent, Learned, Mystical/Mechanical, Rugged, Stealthy, Strong, Strong-Willed, Swift, Tough_  
 __Destiny Descriptors:__ _Adaptable, Articulate, Beneficent, Cheerful, Civic, Committed, Confident, Cultured, Curious, Earnest, Empirical, Exacting, Forward-Thinking, Gregarious, Heroic, Imaginative, Industrious, Intimidating, Intuitive, Irrepressible, Lawful, Loyal, Meddlesome, Nurturing, Obsessive, Optimistic, Organized, Passionate, Persevering, Prepared, Protective, Relentless, Risk-Taking, Serene, Vicious_  
-__Species Descriptors:__ _Varjellen, Lattimor, Mutant_ (require GM approval)
+__Species Descriptors:__ _Varjellen, Lattimor, Mutant_ (requires GM approval)
 {:.card.is-pulled-right.mx-2.table.is-hoverable.is-bordered.px-2.py-1}
 
 
