@@ -63,7 +63,7 @@ Check out "Breaks down walls."
 
 > Type (1/6), Descriptor (1/47) and Focus (1/39) give 10,998 permutations.
 
-![piechart]({{ site.url }}/assets/images/Pie.jpg){:.image.is-pulled-right.is-rounded}
+![piechart]({{ site.url }}/assets/images/Pie.jpg){:.image.is-pulled-right.is-rounded.my-2}
 
 <!-- <img class="image is-pulled-right mx-2" width="450px" src="{{ site.url }}/assets/images/Pie.svg" onerror="this.onerror=null; this.src='{{ site.url }}/assets/images/Pie.jpg'"> -->
 
