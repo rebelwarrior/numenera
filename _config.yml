@@ -50,6 +50,9 @@ sass:
   style: compressed
   sourcemap: always # Defaults to always other options: never and development
   
+  
+# Markdown Engine (useful if Github pages builds it.)
+markdown: kramdown   
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -175,8 +175,8 @@ In Qi, a city of learning, a city of government, wealth is flaunted, put on disp
 {:.subtitle.is-5.mt-5}
 Exports: Yellow wool, Arron "sugar", salt and Numenera (from Red Fleet's explorations and ruins)  
 Imports: Red Wood (for masts), Paper, Dynafel Cotton, Processed Metals  
-Known for: Raster Riders, pirates, ruins, sea trade, and the red fleet  
-Ancuan people have been independent and self-reliant since they were the farthest province of the Pytharon Empire. Ancuan is now a kingdom, but like Ghan, it is made up of mostly free-people and has a fairly flat government structure. Unlike Ghan, where the king is well known, and respected, in Ancuan the king is mostly ignored and left to his own devises. Ancuan is a land built on ruins and the countryside abounds with it. Exploration is quite common here and that curiosity also is present in the red fleet, a group of sea explorers. But for all its salt mines, ruin-laden fields, it is __the sea__ that dominates Ancuan: all major cities have ports. The land of Ancuan has significant riches but also harbors significant dangers which keep it a rather simple kingdom that feels very far away from any authority.  
+Known for: Raster Riders, pirates, ruins, sea trade, amber gleaners and the red fleet.  
+Ancuan people have been independent and self-reliant since they were the farthest province of the Pytharon Empire. Ancuan is now a kingdom, but like Ghan, it is made up of mostly free-people and has a fairly flat government structure. Unlike Ghan, where the king is well known, and respected, in Ancuan the king is mostly ignored and left to his own devises. Ancuan is a land built on ruins and the countryside abounds with it. Exploration is quite common here and that curiosity also is present in the red fleet, a group of sea explorers. But for all its salt mines, ruin-laden fields, it is __the sea__ that dominates Ancuan: all major cities have ports. The land of Ancuan has significant riches but also harbors significant dangers which keep it a rather simple kingdom that feels very far away from any authority. The Amber Gleaners' lodge-house, the Amber lodge, is located here, in the city of Glavis.   
 Secret: There is a town with a hidden side, a hidden Rarrow.  
 Government: Weak Monarchy.
 
@@ -343,11 +343,13 @@ Religion, like food, is a local affair, though there is a widespread Church-like
 
 #### Music
 {:.subtitle.is-4.mt-4.no_toc}
-Music in Steadfast sounds unlike medieval music. The abundance of metals and numeneara that record sound and play it back or beat a rhythm has lead to a music that is both familiar and strange, with strong emphasis on voice and melody and strange with instruments known only to the Ninth World.
+Music in Steadfast sounds unlike medieval music. The abundance of metals and numenera that record sound and play it back or beat a rhythm has lead to a music that is both familiar and strange, with strong emphasis on voice and melody and strange with instruments known only to the Ninth World.
 
 #### Science
 {:.subtitle.is-4.mt-4.no_toc}
 Science is way more advanced in Steadfast than it ever was in the medieval world. Due to the existence of numenera and tools that make it easier to explore the world, many things are known in Steadfast. However, this doesn't mean the knowledge is widespread. So while at Qi University germ theory is understood and even the difference between bacteria and viruses common-place, this might not be the case in a remote Malevich town, where evil-spirits are to blame for disease. The one exception is the heliocentric theory of the universe, as orrery are found in so many places in Steadfast, pretty much everyone knows the world is round, circles around the Sun and the moon around the Earth.
+
+> “Night sight, Moon sight, Stripe tonight, Night sight?” ~children’s rhyme, from _Explorer's Keys_, p. 12.
 
 #### Trade Routes
 {:.subtitle.is-4.mt-4.no_toc}
@@ -442,7 +444,7 @@ Because the day is longer, it is customary in all of Steadfast to take a nap mid
 
 Fantasy monster | Abhuman | notes
 :--- | :--- | :---
-Lizard-folk | Chirog, _p. 229_ | Red Lizard-folk
+Lizard-folk | Chirog, _p. 229_ | Red Lizard-folk (Common in Ancuan)
 Orcs? | Margr, _p. 240_ | Goat-faced Humanoids
  Vulture birds (dark crystal) | Murden, _p. 243_ | "Mud-birds" Bird-faced Humanoids
  — | Sathosh, _p. 251_ | Single-Tentacle-Faced Humanoids
