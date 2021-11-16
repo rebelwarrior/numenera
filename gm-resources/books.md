@@ -6,25 +6,31 @@ layout: posts
 # Intro
 {:.title.is-3.mt-2}
 
+To play Numenera you only really need **the core book [Discovery][]**. However, many of the character options are in [Destiny][]. If you're just checking Numenera out take a look at the free resources. There is enough there to get started, particularly **the Cypher Rules Primer**.
+
 ![Numenera Discovery Book Thumbnail]({{ site.url }}/assets/images/thumbs/discovery-thumb.jpg)
 ![Numenera Destiny Book Thumbnail]({{ site.url }}/assets/images/thumbs/destiny-thumb.jpg)
 {:.card.is-pulled-right.m-2}
 
-To play Numenera you only really need **the core book Discovery**. However, many of the character options are in Destiny. If you're just checking Numenera out take a look at the free resources. There is enough there to get started, particularly **the Cypher Rules Primer**. 
+To run Numenera I'd recommend the Explorer's Keys. You don't need a Bestiary but it could be useful.
+
+For longer campaign style adventures, there are three available that I have:
+1. [The Devil's Spine][]
+2. Jade Colossus (have not read)
+3. Slaves of the Machine God.
+
+I highly recommend the Devil's Spine.
 
 # Books To Get
-{:.title.is-3.mt-2} 
+{:.title.is-3.mt-2}
 
 ## Core Books:
 {:.title.is-4.mt-2}
 
-To play Numenera you need at least the [Discovery][] core book. Though I would recommend pairing that with [Destiny][] (or [Player's Guide][]) to get a larger group of descriptors and foci. 
-
 <br>
 
 1. [Discovery][]  
-2. [Destiny][] *or* [Player's Guide][]  
-
+2. [Destiny][]
 
 <br>
 
@@ -34,7 +40,7 @@ After that my recommendation is to get:
 {:.title.is-4.mt-2}
 
 [Explorer's Keys][]
-{:.title.is-5.mt-2} 
+{:.title.is-5.mt-2}
 
 ![Explorer's Keys Book Thumbnail]({{ site.url }}/assets/images/thumbs/explorers-keys-thumb.jpg)
 {:.card.is-pulled-right.m-2}
@@ -42,7 +48,7 @@ After that my recommendation is to get:
 This [book of short adventures][] is fantastic. These adventures are meant for one session and to be mostly improvised. They're written in a short format, like its predecessor [Weird Discoveries][], but unlike that book, this one has maps only on one page instead of split between two (making it way easier to deal with on PDF format) and the adventures are tighter in my opinion.  
 
 ### Free Content:
-{:.title.is-4.mt-2} 
+{:.title.is-4.mt-2}
 
 ![Numenera Legacy Content Cover Thumbnail]({{ site.url }}/assets/images/thumbs/legacy-content-thumb.jpg)
 
@@ -53,24 +59,55 @@ There is also a ton of free content I recommend getting:
 3. [Ashes of the Sea](https://www.drivethrurpg.com/product/247640/Ashes-of-the-Sea-FREE-Numenera-Quickstart-Rules-and-Adventure) free adventure with quick start rules.
 
 ## More Adventures:
-{:.title.is-3.mt-2} 
+{:.title.is-3.mt-2}
 
 ### [Into the Violet Vale][]
-{:.title.is-4.mt-2} 
+{:.title.is-4.mt-2}
 
 ![Into the Violet Vale Adventure Cover Thumbnail]({{ site.url }}/assets/images/thumbs/violet-vale-thumb.jpg)
 
 Short adventure also suited for improvised play.
 
 ### [The Devil's Spine][]
-{:.title.is-4.mt-2} 
+{:.title.is-4.mt-2}
 
 ![The Devil's Spine Adventure Cover Thumbnail]({{ site.url }}/assets/images/thumbs/devils-spine-thumb.jpg)
 
 Long involved adventure more like a campaign.
 
+## Other Books:
+{:.title.is-3.mt-2}
+
+### Bestiaries and Compendiums
+{:.title.is-4.mt-2}
+
+Technology Compendium
+[Ninth World Bestiary][]
+[Ninth World Bestiary 2][]
+[Ninth World Bestiary 3][]
+
+### Expansions and Guides
+{:.title.is-4.mt-2}
+
+[Ninth World Guidebook][] (Expands Core book and the lands of the Gaians)
+[Torment: Tides of Numenera – The Explorer's Guide][] (Garravia, the land of game)
+[Liminal Shore][]
+
+[Priests of the Aeons][]
+
+[Into the Outside][] (Extra Dimensions)
+[Into the Deep][] (The Deep Ocean)
+[Into the Night][] (Space)
+[Voices of the Datasphere][] (CyberSpace)
+
+### Tiny Bites
+{:.title.is-4.mt-2}
+
+[Love and Sex in the Ninth World][]
+
+
 ## Goodies I want
-{:.title.is-3.mt-2} 
+{:.title.is-3.mt-2}
 
 1. [Cypher Cards][] [1 & 2](https://www.montecookgames.com/store/product/numenera-cypher-deck-2-pdf/)
 2. [Numenera Box][]
@@ -89,3 +126,17 @@ Long involved adventure more like a campaign.
 [Destiny]: https://www.montecookgames.com/store/product/numenera-discovery-and-destiny/
 [The Devil's Spine]: https://www.drivethrurpg.com/product/120025/The-Devils-Spine
 [Player's Guide]: https://www.drivethrurpg.com/product/253972/Numenera-Players-Guide
+[Slaves of the Machine God]: https://www.drivethrurpg.com/product/264882/Slaves-of-the-Machine-God
+[Voices of the Datasphere]: https://www.drivethrurpg.com/product/317762/Voices-of-the-Datasphere
+[Priests of the Aeons]: https://www.drivethrurpg.com/product/271023/Priests-of-the-Aeons
+[Into the Night]: https://www.drivethrurpg.com/product/158526/Into-the-Night
+[Into the Deep]: https://www.drivethrurpg.com/product/182872/Into-the-Deep
+[Into the Outside]: https://www.drivethrurpg.com/product/204712/Into-the-Outside
+[Love and Sex in the Ninth World]: https://www.drivethrurpg.com/product/126065/Love-and-Sex-in-the-Ninth-World
+[Ninth World Guidebook]: https://www.drivethrurpg.com/product/144040/Ninth-World-Guidebook
+[Jade Colossus]: https://www.drivethrurpg.com/product/218646/Jade-Colossus-Ruins-of-the-Prior-Worlds
+[Torment: Tides of Numenera – The Explorer's Guide]: https://www.drivethrurpg.com/product/191118/Torment-Tides-of-NumeneraThe-Explorers-Guide
+[Ninth World Bestiary]: https://www.drivethrurpg.com/product/124816/The-Ninth-World-Bestiary
+[Ninth World Bestiary 2]: https://www.drivethrurpg.com/product/211086/Ninth-World-Bestiary-2
+[Ninth World Bestiary 3]: https://www.drivethrurpg.com/product/276069/Ninth-World-Bestiary-3
+[Liminal Shore]: https://www.drivethrurpg.com/product/330550/Liminal-Shore
