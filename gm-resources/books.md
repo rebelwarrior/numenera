@@ -12,9 +12,9 @@ To play Numenera you only really need **the core book [Discovery][]**. However, 
 ![Numenera Destiny Book Thumbnail]({{ site.url }}/assets/images/thumbs/destiny-thumb.jpg)
 {:.m-2}
 
-To run Numenera I'd recommend the [Explorer's Keys][]. You don't need a Bestiary but it could be useful.
+To run Numenera (GM) I'd recommend the [Explorer's Keys][]. You don't need a Bestiary but it could be useful.
 
-For longer campaign style adventures, there are three available that I have:
+For longer campaign-style adventures, there are three available that I have:
 1. [The Devil's Spine][]
 2. [Jade Colossus][] (have not read)
 3. [Slaves of the Machine God][]
@@ -52,22 +52,22 @@ This [book of short adventures][] is fantastic. These adventures are meant for o
 There is also a ton of free content I recommend getting:
 1. [Cypher Rules Primer][]
 2. [Numenera Free Legacy Content][] (contains adventure _Beal of Boregal_) also at [drive thru](https://www.drivethrurpg.com/product/253970/Original-Numenera-Corebook-Legacy-Content)
-3. [Ashes of the Sea](https://www.drivethrurpg.com/product/247640/Ashes-of-the-Sea-FREE-Numenera-Quickstart-Rules-and-Adventure) free adventure with quick start rules.
+3. [Ashes of the Sea][] free adventure with quick start rules.
 
 ## More Adventures:
 {:.title.is-3.mt-2}
 
+![Into the Violet Vale Adventure Cover Thumbnail]({{ site.url }}/assets/images/thumbs/violet-vale-thumb.jpg)
+![The Devil's Spine Adventure Cover Thumbnail]({{ site.url }}/assets/images/thumbs/devils-spine-thumb.jpg)
+{:.m-2}
+
 ### [Into the Violet Vale][]
 {:.title.is-4.mt-2}
-
-![Into the Violet Vale Adventure Cover Thumbnail]({{ site.url }}/assets/images/thumbs/violet-vale-thumb.jpg)
 
 Short adventure also suited for improvised play.
 
 ### [The Devil's Spine][]
 {:.title.is-4.mt-2}
-
-![The Devil's Spine Adventure Cover Thumbnail]({{ site.url }}/assets/images/thumbs/devils-spine-thumb.jpg)
 
 Long involved adventure more like a campaign.
 
@@ -77,11 +77,14 @@ Long involved adventure more like a campaign.
 ### Bestiaries and Compendiums
 {:.title.is-4.mt-2}
 
-[Technology Compendium][]  
+[Technology Compendium][] (Cyphers)  
 <br>
 [Ninth World Bestiary][]  
 [Ninth World Bestiary 2][]  
 [Ninth World Bestiary 3][]  
+<br>
+[Building Tomorrow][] (Communities)  
+[Numenera Character Options 2][] (More options for Character Types, Foci and Descriptors)
 <br>
 ### Expansions and Guides
 {:.title.is-4.mt-2}
@@ -94,8 +97,9 @@ Long involved adventure more like a campaign.
 <br>
 [Into the Outside][] (Extra Dimensions)  
 [Into the Deep][] (The Deep Ocean)  
-[Into the Night][] (Space)  
+[Into the Night][] (Outer Space)  
 [Voices of the Datasphere][] (CyberSpace)  
+[Edge of the Sun][]
 <br>
 ### Tiny Bites
 {:.title.is-4.mt-2}
@@ -108,10 +112,12 @@ Long involved adventure more like a campaign.
 
 1. [Cypher Cards][] [1 & 2](https://www.montecookgames.com/store/product/numenera-cypher-deck-2-pdf/)
 2. [Numenera Box][]
+3. [Liminal Shore][]
 
 
 <!-- -->
 [Numenera Free Legacy Content]: https://www.montecookgames.com/store/product/numenera-discovery-and-destiny/
+[Ashes of the Sea]: https://www.drivethrurpg.com/product/247640/Ashes-of-the-Sea-FREE-Numenera-Quickstart-Rules-and-Adventure
 [Cypher Rules Primer]: https://www.montecookgames.com/store/product/cypher-system-rules-primer/
 [Cypher Cards]: https://www.montecookgames.com/store/product/numenera-cypher-deck/
 [Numenera Box]: https://www.montecookgames.com/store/product/numenera-deck-box/
@@ -138,3 +144,7 @@ Long involved adventure more like a campaign.
 [Ninth World Bestiary 3]: https://www.drivethrurpg.com/product/276069/Ninth-World-Bestiary-3
 [Liminal Shore]: https://www.drivethrurpg.com/product/330550/Liminal-Shore
 [Technology Compendium]: https://www.drivethrurpg.com/product/133608/Technology-Compendium-Sir-Arthours-Guide-to-the-Numenera?term=numenera+technol
+[Edge of the Sun]: https://www.drivethrurpg.com/product/346507/Edge-of-the-Sun
+[Building Tomorrow]: https://www.drivethrurpg.com/product/256159/Building-Tomorrow
+[Numenera Character Options 2]: https://www.drivethrurpg.com/product/194640/Numenera-Character-Options-2
+[Numenera Player's Guide]: https://www.drivethrurpg.com/product/253972/Numenera-Players-Guide
