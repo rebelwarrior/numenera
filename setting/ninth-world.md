@@ -3,7 +3,7 @@ title: "Setting: The Ninth World"
 layout: posts
 ---
 
-This is my take on the _Numenéra Ninth World_ setting. Based on _Numenéra: Discovery_ and _Destiny_ core rule books, I expand the setting into areas not covered and change a few things to make it feel more consistent and coherent. 
+This is my take on the _Numenéra Ninth World_ setting. Based on _Numenéra: Discovery_ and _Destiny_ core rule books, I expand the setting into areas not covered and change a few things to make it feel more consistent and coherent.
 {:.has-text-centered.m-2.mb-4.px-2.is-family-secondary.has-text-grey-light.message}
 
 # The World of Numenéra: The Ninth World
@@ -28,11 +28,11 @@ Index
 
 The Ninth World is like a _medieval magical setting_ but not quite:
 
-1. __Numenéra__ - Numenéra are the "_sufficiently advanced technologies_" leftover from the previous eras of the Ninth World. Numenéra are like 'magic' in a fantasy setting. It is a global term for items, effects and abilities that are potentially useful. 
+1. __Numenéra__ - Numenéra are the "_sufficiently advanced technologies_" leftover from the previous eras of the Ninth World. Numenéra are like 'magic' in a fantasy setting. It is a global term for items, effects and abilities that are potentially useful.
 > _"Any sufficiently advanced technology is indistinguishable from magic."_ – Arthur C. Clarke's Third Law
 2. __Automatons and Visitors__ - The Ninth World has living remnants from previous worlds: sentient androids and beings from other worlds.
 3. __Abhumans__ - Mutated beyond their humanity, abhumans are their own subspecies and a danger to the other inhabitants of the Ninth World. Abhumans are like the goblinoids of a fantasy medieval setting.
-4. __Dangerous World__ - The Ninth World is more dangerous than a medieval world, people live in protected enclaves, rather than by their farms, and avoid travel at night.  
+4. __Dangerous World__ - The Ninth World is more dangerous than a medieval world; people live in protected enclaves, rather than by their farms, and avoid travel at night.  
 5. __Gender and Sex__ - Gender is not rigid, maybe because of Visitor's strange genders, or Automaton's genderless existence or maybe because numenéra that can change your gender exist, but gender roles are not like the medieval world. Sex is not Taboo either.
 6. __Religion__ - Religion is not unified, and the Amber Papacy, the only widespread thing approximating a religion, is more interested in Numenera and its secrets than in converting people.  
 7. __Nanites and Healing__ - Nanites, microscopic machines, are everywhere in the Ninth World. Due to their presence, people naturally slowly heal from injury and sickness. Pestilence is unknown, except where the effects of numenera are involved.
@@ -148,7 +148,7 @@ Government: Ostensibly a Monarchy, but in reality it's more of a collection of i
 Exports: Grains (wheat and corn), Marble, Alcohol  
 Imports: Azure Steel, Spices, Wood, Paper  
 Known for: Long winters and hardy people, the best stone-workers in Steadfast, and using abhuman (jarlers) as slaves.  
-The South of Steadfast _was_ the Pytharon Empire until its collapse a hundred years or so ago. The Empire covered all lands south of Draolis and Malevich, including the now kingdoms and __former provinces of _Milave, Iscobal,_ and _Ancuan___. Back then the Empire's rolling fields of wheat and corn were the breadbasket of Steadfast, but with success came complacency, and attracted continual raids from the south. Even the abhuman slaves escaped and became roving bands plundering what and where they could. Now the Empire is slowly regaining its footing while it spends a lot of effort securing its southern border from raiders and abhumans attacks from the frozen desert.  
+The South of Steadfast _was_ the Pytharon Empire, until its collapse a hundred years or so ago. The Empire covered all lands south of Draolis and Malevich, including the now kingdoms and __former provinces of _Milave, Iscobal,_ and _Ancuan___. Back then the Empire's rolling fields of wheat and corn were the breadbasket of Steadfast, but with success came complacency, and attracted continual raids from the south. Even the abhuman slaves escaped and became roving bands plundering what and where they could. Now the Empire is slowly regaining its footing while it spends a lot of effort securing its southern border from raiders and abhumans attacks from the frozen desert.  
 Secret: The Empire controls the single trade route to the lands beyond the Black Riage that isn't a mountain pass.  
 Government: Monarchy (formerly empire with provinces and governors)
 
@@ -219,11 +219,11 @@ __Shin-talk__, is older than true-lang. It's a merchant talk, it has few words a
 {:.subtitle.is-4.no_toc}
 Coinage is called 'shins' everywhere in Steadfast. Most of the economy works on barter. Typically people in a town (or aldeia) will use a [split stick](https://en.wikipedia.org/wiki/Tally_stick#Split_tally) to keep track of loans or debts and of taxes. These can be paid with produce instead of coinage. Merchants, guards, mercenaries and aristocrats deal in shins.
 
-Shins are made of a strange material called iotium: 100 shins can usually be transformed into 1 gram of iotium. Shins come in different shapes, some have stamped visages from one of the nine kingdoms, but most don't. It's not clear what iotium is, but it's necessary for crafting or repairing numenéra. Iotium is inert in its normal form. Iotium can also be found in its non-inert form and then it is called IoTum (IoTi plural) and it's very valuable for crafting Numenéra.
+Shins are made of a strange material called iotium: 100 shins can usually be transformed into 1 gram of iotium. Shins come in different shapes, some have stamped visages from one of the nine kingdoms, but most don't. It's not clear what iotium is, but it's necessary for crafting or repairing numenéra. Iotium is inert in its normal form. Iotium can also be found in its non-inert form and then it is called IoTum (IoTi plural) and it's very valuable for crafting Numenéra, but also very dangerous.
 
 Strangely, there is no fractional currency: it's either a shin or credit.
 
-Shins are not particularly heavy (weighting only a gram or two) so people can carry large amounts easily as well. Therefor there are no large denominations of shins.
+Shins are not particularly heavy (weighting only a gram or two) so people can easily carry large amounts as well. Therefore, there are no large denominations of shins.
 
 > _"Shine"_ – means good in Steadfast. (p. 410)
 
@@ -295,7 +295,7 @@ __Scriveners (Scribes):__
 Scriveners are controlled exclusively by the Aeon priests.
 
 __Adventuring Guilds:__  
-Adventuring Guilds, typically called Delving Guilds, are located in many cities throughout Steadfast. The guild was founded by former adventures (some of the few that survive to old age) when they could not adventure anymore. The guild provides temporary housing in the form of barracks (usually three days), storage and other services in exchange for a part (usually 10-15%) of the takings or findings. Adventuring Guilds also function as proto-banks allowing the deposit of shins in one guild-house and the withdrawal in another for a fee. They also keep a board of numenéra-rich (and dangerous) sites where delving might be done, and the occasional request from people of the area. In order to use their services, you must be a member in good standing (basically one _not_ suspected of cheating the guild). Adventuring guilds in large cities may run their own Ale-houses adjacent. The _Amber Gleaners_  (p. 245 Numenera Destiny) is the most famous Aventuring Guild and is located on Ancuan.     
+Adventuring Guilds, typically called Delving Guilds, are located in many cities throughout Steadfast. The guild was founded by former adventures (some of the few that survive to old age) when they could not adventure anymore. The guild provides temporary housing in the form of barracks (usually three days), storage and other services in exchange for a part (usually 10-15%) of the takings or findings. Adventuring Guilds also function as proto-banks allowing the deposit of shins in one guild-house and the withdrawal in another for a fee. They also keep a board of numenéra-rich (and dangerous) sites where delving might be done, and the occasional request from people of the area. In order to use their services, you must be a member in good standing (basically one _not_ suspected of cheating the guild). Adventuring guilds in large cities may run their own Ale-houses adjacent. The _Amber Gleaners_  (p. 245 Numenera Destiny) is the most famous Adventuring Guild and is located on Ancuan.     
 
 #### Inns and places to sleep
 {:.subtitle.is-4.mt-5.no_toc}
@@ -315,7 +315,7 @@ Gender is not rigid in the Ninth World. Visitors have strange genders, Automaton
 
 #### Games
 {:.subtitle.is-4.mt-4.no_toc}
-The game of _"ball"_ is played throughout Steadfast. It is simmilar to soccer, except it's played by small and large groups alike (up to 300 people at once) and fighting, tripping, and pushing opponents seems to be permitted in most versions. Trades commonly play against each other in teams.
+The game of _"ball"_ is played throughout Steadfast. It is similar to soccer, except it's played by small and large groups alike (up to 300 people at once) and fighting, tripping, and pushing opponents seems to be permitted in most versions. Trades commonly play against each other in teams.
 
 In Malevich, they play a card "game" called Tarrota; and it's said those with the glimmer can predict the future with them. A simplified version of the game is played throughout Steadfast as well.
 
@@ -412,7 +412,7 @@ Plastic, Metal and synthetic fibers are very common in the 9th world, but unlike
 {:.subtitle.is-5.mt-5.no_toc}
 
 __Old-Machines:__  
-Old-Machines are considered suspicious, dangerous and potentially demonic. 'Numenera' is the term Aeon Priest use for these too, but in common parlance _Numenera is a useful thing, that's potentially dangerous, while an old-machine is something dangerous, that's potentially useful_. Old-Machines are treated as if they were sentient or partially sentient and possibly mad. 
+Old-Machines are considered suspicious, dangerous and potentially demonic. 'Numenera' is the term Aeon Priest use for these too, but in common parlance _Numenera is a useful thing, that's potentially dangerous, while an old-machine is something dangerous, that's potentially useful_. Old-Machines are treated as if they were sentient or partially sentient and possibly mad.
 
 __Numenera:__  
 Numenera are fascinating, and while some people may be suspicious of them, most of Steadfast society has adapted and accepted their existence. When you _"mesh your skin with a machine"_, these is always called numenera, never called a machine.
@@ -483,7 +483,7 @@ This work stresses the Quasi-Medieval Fantasy Setting and the "discovery" portio
 
 ---
 
-## References 
+## References
 {:.subtitle.is-5.mt-5}
 [Numenera: Discovery & Numenera: Destiny](https://www.montecookgames.com/numenera-discovery-and-destiny/)[ (here is the DriveThruRPG link)](https://www.drivethrurpg.com/product/240654/Numenera-Discovery)  
 [https://listverse.com/2019/05/10/10-misconceptions-about-medieval-town-life/](https://listverse.com/2019/05/10/10-misconceptions-about-medieval-town-life/)    
@@ -493,10 +493,11 @@ This work stresses the Quasi-Medieval Fantasy Setting and the "discovery" portio
 [https://www.bbc.com/news/magazine-16964783](https://www.bbc.com/news/magazine-16964783)  
 [Rise of Rome, Great Courses by Gregory Aldrete](https://www.amazon.com/gp/video/detail/B07FYW2P6Z/ref=atv_wl_hom_c_unkc_1_1)  
 [Today I Found out: Scott free](https://youtu.be/OjeJeTrXicE)  
-[Shadiversity YouTube Channel]()  
+[Shadiversity YouTube Channel](https://www.youtube.com/channel/UCkmMACUKpQeIxN9D9ARli1Q)  
 [Metatron YouTube Channel]()  
+[Ascendance of a Bookworm](https://en.wikipedia.org/wiki/Ascendance_of_a_Bookworm) Anime on [Crunchyroll](https://www.crunchyroll.com/ascendance-of-a-bookworm)
 
-Images 
+Images
 {:.subtitle.is-5.mt-5}
 Map: Image by David Acevedo  
 Pyramid: Image by David Acevedo  
@@ -505,6 +506,6 @@ Monolith over Water: Image by David Acevedo
 Tentacles: Photo by <a href="https://unsplash.com/@thatsjustyas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Yaselyn Perez</a> on <a href="https://unsplash.com/s/photos/tentacles?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 Wandering Walk: Photo by <a href="https://unsplash.com/@k_kaskanis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Konstantinos Kaskanis</a> on <a href="https://unsplash.com/s/photos/wanderers?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
+
 
 <br>

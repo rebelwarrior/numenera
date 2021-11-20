@@ -3,9 +3,6 @@ title: Numenera Books
 layout: posts
 ---
 
-# Intro
-{:.title.is-3.mt-2}
-
 To play Numenera you only really need **the core book [Discovery][]**. However, many of the character options are in **[Destiny][]**. If you're just checking Numenera out take a look at the *free resources*. There is enough there to get started, particularly the **[Cypher Rules Primer][]**.
 
 ![Numenera Discovery Book Thumbnail]({{ site.url }}/assets/images/thumbs/discovery-thumb.jpg)
@@ -72,7 +69,7 @@ Short adventure also suited for improvised play.
 Long involved adventure more like a campaign.
 
 ## Other Books:
-{:.title.is-3.mt-2}
+{:.title.is-3.mt-3}
 
 ### Bestiaries and Compendiums
 {:.title.is-4.mt-2}
@@ -87,7 +84,7 @@ Long involved adventure more like a campaign.
 [Numenera Character Options 2][] (More options for Character Types, Foci and Descriptors)
 <br>
 ### Expansions and Guides
-{:.title.is-4.mt-2}
+{:.title.is-4.mt-3}
 
 [Ninth World Guidebook][] (Expands Core book and the lands of the Gaians, and others around Steadfast)  
 [Torment: Tides of Numenera – The Explorer's Guide][] (Garravia, the land of Torment)  
@@ -102,13 +99,12 @@ Long involved adventure more like a campaign.
 [Edge of the Sun][]
 <br>
 ### Tiny Bites
-{:.title.is-4.mt-2}
+{:.title.is-4.mt-3}
 
 [Love and Sex in the Ninth World][]
 <br>
-<br>
 ## Goodies I want
-{:.title.is-3.mt-2}
+{:.title.is-3.mt-3}
 
 1. [Cypher Cards][] [1 & 2](https://www.montecookgames.com/store/product/numenera-cypher-deck-2-pdf/)
 2. [Numenera Box][]
