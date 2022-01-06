@@ -49,7 +49,7 @@ Based rather heavily on Keith Ammann work, I like to sum this up into 4 battle a
 
 1. Front-line => Melee Fighter, goes toe-to-toe with the enemies
 2. Second-line => Armored Aid, can take a hit but supports or can attack from the second row, either ranged or with a pole-arm.
-3. Third-line => Not very armored, can attack from afar or needs to move in and out of the front row like a sneak attacker.
+3. Third-line => Not very armored but can take some damage, and can attack from afar or needs to move in and out of the front row like a *sneak* attacker.
 4. Protected/Strategist => Unable to fight melee effectively, either aids from afar or attacks from afar.
 {:.ml-6}
 
