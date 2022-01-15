@@ -13,6 +13,7 @@ Frilled Baul | 5 | semifeline mammal with porcupine-like tail
 **Seskii** | 2 | scaled dogs
 Shanu | 2 | Tiny Lemurs
 Thuman | 2 | Human-faced dogs 
+BlackTusk | 4  | White seal catlike mammal 
 {:.table.is-hoverable.is-bordered.ml-4}
 
 Mounts | Level | Description |  Equivalent
