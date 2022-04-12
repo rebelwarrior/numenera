@@ -38,6 +38,7 @@ layout: posts
 4. [Railroading, Agency and Choice](https://youtu.be/KqIZytzzFKU)
 {:.ml-6}
 5. [7 Tips for Numenera Players](https://youtu.be/Bem0efD-i1o) excellent tips for players by Infinite Construct.
+6. [Play Counter Strike, Make Better D&D Dungeons](https://youtu.be/biVZRIZereI) excellent tips for making non-linear dungeons that carry a narrative thread. Really helps avoid a rail-roady linear map. 
 
 ## Other Resources:
 {:.title.is-3}
