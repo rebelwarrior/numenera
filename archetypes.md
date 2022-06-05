@@ -2,9 +2,18 @@
 title: Character Archetypes
 layout: posts
 ---
+*[TTRPGs]: Table Top Role Playing Games
+*[MMORPGs]: Massively Multiplayer Online Role Playing Games
+*[RPG]: Role Playing Game
+*[RPGs]: Role Playing Games
 
 # Character Archetypes
 {:.title.is-1.mt-2}
+
+Character Archetypes are a quick way to to understand the role a charachter plays in a party. They were made popular in MMORPGs where you'd have charters that were DPS or Healers or Tanks and you needed a certain composition to make it through a particular quest.
+Archetypes function in a simmialr way in TTRPGs. However, archetypes are a solution for a charcter creation that locks the character in a particular role. In Numenera the role of archetypes is diminished by many reasons some of which I outline below but the main one is _flexibility_. Numenera doesn't only have flexibility in character creation but once the character is created their role on the party can shift depending on the current party's composition and needs.
+
+There are various ways to look at Archetypes below are a few takes from specific books and then followed by my own.
 
 ## Your Best Game Ever By Monte Cook
 {:.subtitle.is-3}
@@ -65,6 +74,8 @@ These make more sense but none quite map to Numenera because:
 {:.ml-6}
 
 In Numenera Archetypes aren't that common because you have more flexibility in how you create your character. For example: To make a healing character like a __cleric__ in a fantasy RPG, you can pick a glaive and the focus "who performs miracles" that only uses bashing (blunt) weapons but you can also pick a jack or nano.
+
+---
 
 ## Conclusion
 {:.subtitle.is-3}
