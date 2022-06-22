@@ -448,7 +448,7 @@ Lizard-folk | Chirog, _p. 229_ | Red Lizard-folk (Common in Ancuan)
 Orcs? | Margr, _p. 240_ | Goat-faced Humanoids
  Vulture birds (dark crystal) | Murden, _p. 243_ | "Mud-birds" Bird-faced Humanoids
  — | Sathosh, _p. 251_ | Single-Tentacle-Faced Humanoids
-Toad-creatures Koatoah? Bullywugs? | Yovok, _p. 261_ | Toad-face Humanoids
+Koatoah? Bullywugs? | Yovok, _p. 261_ | Toad-face Humanoids
  Beastmen | Grush (Bestiary _p. 62_)| Naked White Muscular Abhumans
  Goblins | Killist (Bestiary _p. 72_) | Poison-using small Humanoids
  — | Raheunum (Bestiary, _p. 104_)| Underground Humanoids
