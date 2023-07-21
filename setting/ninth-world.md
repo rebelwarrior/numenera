@@ -497,6 +497,13 @@ This work stresses the Quasi-Medieval Fantasy Setting and the "discovery" portio
 [Metatron YouTube Channel]()  
 [Ascendance of a Bookworm](https://en.wikipedia.org/wiki/Ascendance_of_a_Bookworm) Anime on [Crunchyroll](https://www.crunchyroll.com/ascendance-of-a-bookworm)
 
+## Inspirations
+{:.subtitle.is-5.mt-5}
+- Wandering Walk – Chuck Wendig's Wanderers (I suggest the excellent audio book)
+- Abhumans, Murden – The Dark Crystal
+- Cybernetics, Post-apocaliptic world – Battle Angel Alita
+- Data-sphere, Cyberspace – Tron
+
 Images
 {:.subtitle.is-5.mt-5}
 Map: Image by David Acevedo  
