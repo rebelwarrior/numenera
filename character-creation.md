@@ -111,6 +111,29 @@ Pick your Background and the answer to the question:  `Why does your character a
 
 If you wanna a deep dive [Ginny Di](https://youtu.be/OCrCrn2vuAc) has a list of 50 questions you can answer. [The 50 Questions]({{ site.url}}/50-questions)
 
+The book has a set of Backgrounds for you to choose, but I recommend you skip this altogether and use a more story-driven way. 
+
+Type | Background | Notes 
+--- | --- | --- 
+Glaive | Intensive Training 
+Glaive | Inborn Traits | Genetically Modified or Mutant
+Glaive | Biomechanical Modification | Cyborg
+Nano | Forbidden Knowledge 
+Nano | Psionics
+Nano | Ports and Plugs
+Jack | Born Lucky | Genetically Modified
+Jack | School of Hard Knocks
+Jack | A Cobbled Jumble | Cyborg and Psionic and Genetically modified
+Arkus | Inborn Traits | Born leader
+Arkus | Enhancements
+Arkus | Training and Experience 
+Wright | Unusual Upbringing 
+Wright | Unexpected Brilliance 
+Wright | Mechanical Indoctrination 
+Delve | What Others Fear to Know
+Delve | Part Machine 
+Delve | Mentor 
+
 <br>
 Image Source: Fire Man Photo by <a href="https://unsplash.com/@blakeliskphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Blake Lisk</a> on <a href="https://unsplash.com/s/photos/fire-man?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
