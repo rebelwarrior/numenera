@@ -457,7 +457,7 @@ Koatoah? Bullywugs? | Yovok, _p. 261_ | Toad-face Humanoids
 {:.card.is-pulled-right.mx-2.table.is-hoverable}
 
 __Abhumans:__    
-The boogey man is nothing compared to the frightening prospect of abhumans. While mutants are regarded with suspicion throughout Steadfast, no one would confuse a mutant for an abhuman. Abhumans are no longer human; humanoid yes, human no. Abhumans are, however, intelligent. What happened that turn them that way is the source of much speculation. It is rumored that abhumans gain their hatred of humanity, their evilness and their mutated shape, from eating each other, so cannibalism is taboo in all the nine kingdoms. When you close your eyes and think of a demonic entity, that's probably an abhuman looking back at you through the darkness. Abhumans are probably the only monster that a general resident of Steadfast would know by name. Any tracker worth his salt would be able to tell abhumans apart from their tracks alone.
+The boogey man is nothing compared to the frightening prospect of abhumans. While mutants are regarded with suspicion throughout Steadfast, no one would confuse a mutant for an abhuman. __Abhumans are no longer human; humanoid yes, human no__. Abhumans are, however, intelligent. What happened that turn them that way is the source of much speculation. It is rumored that abhumans gain their hatred of humanity, their evilness and their mutated shape, from eating each other, so __cannibalism__ is taboo in all the nine kingdoms. When you close your eyes and think of a demonic entity, that's probably an abhuman looking back at you through the darkness. Abhumans are probably the only monster that a general resident of Steadfast would know by name. Any tracker worth his salt would be able to tell abhumans apart from their tracks alone.
 
 If abhumans are the more familiar kind of monster in the Ninth World, the rest defy reason for most inhabitants.
 
@@ -473,9 +473,9 @@ More info in [House Setting: Wandering Walk]({{site.url}}/setting/wandering-walk
 #### Ways into Numenéra
 {:.subtitle.is-4.mt-5.no_toc}
 In Numenera Discovery, they present four ways of using the Ninth World:
-1. Post-Apocalyptic Setting
-2. Quasi-Medieval Fantasy Setting
-3. Weird Horror Setting
+1. Post-Apocalyptic Setting (like Mad Max)
+2. Quasi-Medieval Fantasy Setting (like Forgotten Realms)
+3. Weird Horror Setting (Lovecraftian)
 4. Hopeful New World Setting.
 {:.ml-6}
 
