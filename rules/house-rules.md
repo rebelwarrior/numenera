@@ -15,7 +15,7 @@ House Rule: Only 12 items slots are within reach. You must search for the rest.
 Who speaks first goes first. 
 
 ## Edge and applying Effort
-Rather than the 3 then 2 to apply effort. Everyone starts with a -1 on Edge. Same effect, easier math. 
+Rather than the 3 then 2 to apply effort. Everyone starts with a -1 on Edge. Same effect, easier math. Now always 2 to apply effort.
 
 
 ## Add _Danger Sense_ to Lives in the Wilderness
