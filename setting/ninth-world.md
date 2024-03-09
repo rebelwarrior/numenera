@@ -499,8 +499,8 @@ This work stresses the Quasi-Medieval Fantasy Setting and the "discovery" portio
 [Today I Found out: Scott free](https://youtu.be/OjeJeTrXicE)  
 [Shadiversity YouTube Channel](https://www.youtube.com/channel/UCkmMACUKpQeIxN9D9ARli1Q)  
 [Metatron YouTube Channel]()  
-[Ascendance of a Bookworm](https://en.wikipedia.org/wiki/Ascendance_of_a_Bookworm) Anime on [Crunchyroll](https://www.crunchyroll.com/ascendance-of-a-bookworm)
-[Romanian Proverbs](https://en.wikiquote.org/wiki/Romanian_proverbs)
+[Ascendance of a Bookworm](https://en.wikipedia.org/wiki/Ascendance_of_a_Bookworm) Anime on [Crunchyroll](https://www.crunchyroll.com/ascendance-of-a-bookworm)  
+[Romanian Proverbs](https://en.wikiquote.org/wiki/Romanian_proverbs)  
 
 
 ## Inspirations
