@@ -128,6 +128,8 @@ Once a coveted piece of land between three neighboring kingdoms, now it is a sad
 Secret: Thaemor, formerly Thae moor, was a marsh land that suddenly drained out _by raising itself_ about 300 years ago. Nobody knows what caused the land to rise.  
 Government: Unstable Tyranny with Gentry. Taxes are high.
 
+> _"If it is not true; it is very well invented."_ - Malevichian Saying
+
 #### Malevich
 {:.is-sr-only}
 
