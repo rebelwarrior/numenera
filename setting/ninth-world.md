@@ -500,6 +500,8 @@ This work stresses the Quasi-Medieval Fantasy Setting and the "discovery" portio
 [Shadiversity YouTube Channel](https://www.youtube.com/channel/UCkmMACUKpQeIxN9D9ARli1Q)  
 [Metatron YouTube Channel]()  
 [Ascendance of a Bookworm](https://en.wikipedia.org/wiki/Ascendance_of_a_Bookworm) Anime on [Crunchyroll](https://www.crunchyroll.com/ascendance-of-a-bookworm)
+[Romanian Proverbs](https://en.wikiquote.org/wiki/Romanian_proverbs)
+
 
 ## Inspirations
 {:.subtitle.is-5.mt-5}
@@ -508,7 +510,7 @@ This work stresses the Quasi-Medieval Fantasy Setting and the "discovery" portio
 - Cybernetics, Post-apocaliptic world – Battle Angel Alita
 - Data-sphere, Cyberspace – Tron
 
-Images
+## Images
 {:.subtitle.is-5.mt-5}
 Map: Image by David Acevedo  
 Pyramid: Image by David Acevedo  
