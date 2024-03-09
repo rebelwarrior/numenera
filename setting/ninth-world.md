@@ -140,6 +140,8 @@ Bordered to the south by the Voil Chasm (or the Earthwound as some call it) and 
 Secret: Yerth has opened a portal to another dimension.  
 Government: Ostensibly a Monarchy, but in reality it's more of a collection of independent vassal states.
 
+> _"Appetite comes with food."_ - Old Pytharon saying 
+
 #### Pytharon Empire
 {:.is-sr-only}
 
