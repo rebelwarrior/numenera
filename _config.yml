@@ -49,7 +49,7 @@ sass:
   sass_dir: _sass # This folder should only contain imports. 
   style: compressed
   sourcemap: always # Defaults to always other options: never and development
-  
+  quiet_deps: true # Key to remove deprecation warnings. 
   
 # Markdown Engine (useful if Github pages builds it.)
 markdown: kramdown   
