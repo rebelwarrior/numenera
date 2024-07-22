@@ -510,6 +510,7 @@ This work stresses the Quasi-Medieval Fantasy Setting and the "discovery" portio
 - Cybernetics, Post-apocaliptic world – Battle Angel Alita
 - Data-sphere, Cyberspace – Tron
 
+
 ## Images
 {:.subtitle.is-5.mt-5}
 Map: Image by David Acevedo  
