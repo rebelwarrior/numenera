@@ -65,7 +65,7 @@ There is also a ton of free content I recommend getting:
 
 [Technology Compendium][] (Cyphers)  
 <br>
-[Ninth World Bestiary][] 
+[Ninth World Bestiary][]  
 [Ninth World Bestiary 2][]  
 [Ninth World Bestiary 3][]  
 <br>
@@ -86,7 +86,7 @@ There is also a ton of free content I recommend getting:
 [Into the Night][] (Outer Space)  
 [Voices of the Datasphere][] (CyberSpace)  
 [Edge of the Sun][]
-[Liminal Shore][] (Biological World)
+[Liminal Shore][] (Biological World)  
 [Break the Horizon][]
 [Building Tomorrow][]
 [The Glimmering Valley][]
