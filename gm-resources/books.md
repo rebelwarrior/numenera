@@ -31,15 +31,6 @@ For longer campaign-style adventures the [The Devil's Spine][] is an impressive 
 ## Other Books
 {:.title.is-4.mt-2}
 
-### Long Adventures
-{:.title.is-4.mt-2}
-1. [The Devil's Spine][] (excellent)
-2. [Jade Colossus][] (have not read)
-3. [Slaves of the Machine God][] (little convoluted)
-
-![The Devil's Spine Adventure Cover Thumbnail]({{ site.url }}/assets/images/thumbs/devils-spine-thumb.jpg)
-{:.m-2}
-
 ### Quick Adventures
 {:.title.is-4.mt-2}
 1. [Explorer's Keys][] (excellent)
@@ -60,36 +51,44 @@ There is also a ton of free content I recommend getting:
 
 ![Numenera Legacy Content Cover Thumbnail]({{ site.url }}/assets/images/thumbs/legacy-content-thumb.jpg)
 
+
+### Long Adventures
+{:.title.is-4.mt-2}
+1. [The Devil's Spine][] (excellent)
+2. [Jade Colossus][] (have not read)
+3. [Slaves of the Machine God][] (little convoluted)
+
+![The Devil's Spine Adventure Cover Thumbnail]({{ site.url }}/assets/images/thumbs/devils-spine-thumb.jpg)
+{:.m-2}
+
 ### Bestiaries and Compendiums
 {:.title.is-4.mt-2}
 
 [Technology Compendium][] (Cyphers)  
 <br>
-[Ninth World Bestiary][]  
+[Ninth World Bestiary 1][]  
 [Ninth World Bestiary 2][]  
 [Ninth World Bestiary 3][]  
 <br>
 
 ### Source books
 {:.title.is-4.mt-3}
-
-[Building Tomorrow][] (Communities)  
 [Numenera Character Options 2][] (More options for Character Types, Foci and Descriptors)
 <br>
 [Ninth World Guidebook][] (Expands Core book and the lands of the Gaians, and others around Steadfast)  
 [Torment: Tides of Numenera – The Explorer's Guide][] (Garravia, the land of Torment)    
 <br>
+[Building Tomorrow][] (Communities) 
 [Priests of the Aeons][]  
-<br>
 [Into the Outside][] (Extra Dimensions)  
 [Into the Deep][] (The Deep Ocean)  
 [Into the Night][] (Outer Space)  
 [Voices of the Datasphere][] (CyberSpace)  
-[Edge of the Sun][]
+[Edge of the Sun][] (Sci-fi machine bordering the Sun)  
 [Liminal Shore][] (Biological World)  
-[Break the Horizon][]
-[Building Tomorrow][]
-[The Glimmering Valley][]
+[Break the Horizon][]  
+[Building Tomorrow][]  
+[The Glimmering Valley][]  
 <br>
 
 These guidebooks expand the world but in general aren’t very useful for play. I liked [Ninth World Guidebook][] as it’s a sort of Gazetteer of other areas to explore. 
@@ -97,10 +96,11 @@ These guidebooks expand the world but in general aren’t very useful for play. 
 ### Tiny Bites
 {:.title.is-4.mt-3}
 
-[Love and Sex in the Ninth World][]
+- [Love and Sex in the Ninth World][] 
+- [Into the Violet Vale][] (great short adventure)  
 <br>
 ## Goodies I want
-{:.title.is-3.mt-3}
+{:.title.is-4.mt-3}
 
 1. [Cypher Cards][] [1 & 2](https://www.montecookgames.com/store/product/numenera-cypher-deck-2-pdf/)
 2. [Numenera Box][]
@@ -131,7 +131,7 @@ These guidebooks expand the world but in general aren’t very useful for play. 
 [Ninth World Guidebook]: https://www.drivethrurpg.com/product/144040/Ninth-World-Guidebook
 [Jade Colossus]: https://www.drivethrurpg.com/product/218646/Jade-Colossus-Ruins-of-the-Prior-Worlds
 [Torment: Tides of Numenera – The Explorer's Guide]: https://www.drivethrurpg.com/product/191118/Torment-Tides-of-NumeneraThe-Explorers-Guide
-[Ninth World Bestiary]: https://www.drivethrurpg.com/product/124816/The-Ninth-World-Bestiary
+[Ninth World Bestiary 1]: https://www.drivethrurpg.com/product/124816/The-Ninth-World-Bestiary
 [Ninth World Bestiary 2]: https://www.drivethrurpg.com/product/211086/Ninth-World-Bestiary-2
 [Ninth World Bestiary 3]: https://www.drivethrurpg.com/product/276069/Ninth-World-Bestiary-3
 [Liminal Shore]: https://www.drivethrurpg.com/product/330550/Liminal-Shore
