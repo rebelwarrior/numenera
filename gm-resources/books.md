@@ -3,39 +3,49 @@ title: Numenera Books
 layout: posts
 ---
 
-To play Numenera you only really need **the core book [Discovery][]**. However, many of the character options are in **[Destiny][]**. If you're just checking Numenera out take a look at the *free resources*. There is enough there to get started, particularly the **[Cypher Rules Primer][]**.
+# Numenera Books
+{:.title.is-4.mt-2}
+
+Numenera is a subset of Cypher System books. The Numenera setting is fantastic and very well developed but because it has a lot of materials it can be hard to navigate. 
+
+## What do you need to play? 
+{:.title.is-4.mt-2}
+
+You just need the core books to play: [Discovery][] and [Destiny][]. Almost all the core rules are in Discovery so you can just start with that one. 
+
+If you're just checking Numenera out take a look at the *free resources*. There is enough there to get started, particularly the **[Cypher Rules Primer][]**.
 
 ![Numenera Discovery Book Thumbnail]({{ site.url }}/assets/images/thumbs/discovery-thumb.jpg)
 ![Numenera Destiny Book Thumbnail]({{ site.url }}/assets/images/thumbs/destiny-thumb.jpg)
 {:.m-2}
 
-To run Numenera (GM) I'd recommend the [Explorer's Keys][]. You don't need a Bestiary but it could be useful.
+## What do you need to GM? 
+{:.title.is-4.mt-2}
 
-For longer campaign-style adventures, there are three available that I have:
-1. [The Devil's Spine][]
+To run Numenera (GM) I'd recommend the [Explorer's Keys][]. You don't need a Bestiary but it could be useful. Additionally Monte Cook produces a whole bunch of supplements that could be useful as well like cards with cyphers [Cypher Cards][]. 
+
+For longer campaign-style adventures the [The Devil's Spine][] is an impressive adventure. 
+
+----
+
+## Other Books
+{:.title.is-4.mt-2}
+
+### Long Adventures
+{:.title.is-4.mt-2}
+1. [The Devil's Spine][] (excellent)
 2. [Jade Colossus][] (have not read)
-3. [Slaves of the Machine God][]
+3. [Slaves of the Machine God][] (little convoluted)
 
-I highly recommend the Devil's Spine.
+![The Devil's Spine Adventure Cover Thumbnail]({{ site.url }}/assets/images/thumbs/devils-spine-thumb.jpg)
+{:.m-2}
 
-# Books To Get
-{:.title.is-3.mt-2}
-
-## Core Books:
+### Quick Adventures
 {:.title.is-4.mt-2}
+1. [Explorer's Keys][] (excellent)
+2. [Weird Discoveries][] (very good)
 
-1. [Discovery][]  
-2. [Destiny][]
-
-After that my recommendation is to get:
-
-### Adventures & Extras:
-{:.title.is-4.mt-2}
-
-[Explorer's Keys][]
-{:.title.is-5.mt-2}
-
-This [book of short adventures][] is fantastic. These adventures are meant for one session and to be mostly improvised. They're written in a short format, like its predecessor [Weird Discoveries][], but unlike that book, this one has maps only on one page instead of split between two (making it way easier to deal with on PDF format) and the adventures are tighter in my opinion.  
+These [books of short adventures][] are fantastic. These adventures are meant for one session and to be mostly improvised.
 
 ![Explorer's Keys Book Thumbnail]({{ site.url }}/assets/images/thumbs/explorers-keys-thumb.jpg)
 {:.m-2}
@@ -43,52 +53,31 @@ This [book of short adventures][] is fantastic. These adventures are meant for o
 ### Free Content:
 {:.title.is-4.mt-2}
 
-![Numenera Legacy Content Cover Thumbnail]({{ site.url }}/assets/images/thumbs/legacy-content-thumb.jpg)
-
-
 There is also a ton of free content I recommend getting:
 1. [Cypher Rules Primer][]
 2. [Numenera Free Legacy Content][] (contains adventure _Beal of Boregal_) also at [drive thru](https://www.drivethrurpg.com/product/253970/Original-Numenera-Corebook-Legacy-Content)
 3. [Ashes of the Sea][] free adventure with quick start rules.
 
-## More Adventures:
-{:.title.is-3.mt-2}
-
-![Into the Violet Vale Adventure Cover Thumbnail]({{ site.url }}/assets/images/thumbs/violet-vale-thumb.jpg)
-![The Devil's Spine Adventure Cover Thumbnail]({{ site.url }}/assets/images/thumbs/devils-spine-thumb.jpg)
-{:.m-2}
-
-### [Into the Violet Vale][]
-{:.title.is-4.mt-2}
-
-Short adventure also suited for improvised play.
-
-### [The Devil's Spine][]
-{:.title.is-4.mt-2}
-
-Long involved adventure more like a campaign.
-
-## Other Books:
-{:.title.is-3.mt-3}
+![Numenera Legacy Content Cover Thumbnail]({{ site.url }}/assets/images/thumbs/legacy-content-thumb.jpg)
 
 ### Bestiaries and Compendiums
 {:.title.is-4.mt-2}
 
 [Technology Compendium][] (Cyphers)  
 <br>
-[Ninth World Bestiary][]  
+[Ninth World Bestiary][] 
 [Ninth World Bestiary 2][]  
 [Ninth World Bestiary 3][]  
 <br>
+
+### Source books
+{:.title.is-4.mt-3}
+
 [Building Tomorrow][] (Communities)  
 [Numenera Character Options 2][] (More options for Character Types, Foci and Descriptors)
 <br>
-### Expansions and Guides
-{:.title.is-4.mt-3}
-
 [Ninth World Guidebook][] (Expands Core book and the lands of the Gaians, and others around Steadfast)  
-[Torment: Tides of Numenera – The Explorer's Guide][] (Garravia, the land of Torment)  
-[Liminal Shore][]  
+[Torment: Tides of Numenera – The Explorer's Guide][] (Garravia, the land of Torment)    
 <br>
 [Priests of the Aeons][]  
 <br>
@@ -97,7 +86,14 @@ Long involved adventure more like a campaign.
 [Into the Night][] (Outer Space)  
 [Voices of the Datasphere][] (CyberSpace)  
 [Edge of the Sun][]
+[Liminal Shore][] (Biological World)
+[Break the Horizon][]
+[Building Tomorrow][]
+[The Glimmering Valley][]
 <br>
+
+These guidebooks expand the world but in general aren’t very useful for play. I liked [Ninth World Guidebook][] as it’s a sort of Gazetteer of other areas to explore. 
+
 ### Tiny Bites
 {:.title.is-4.mt-3}
 
@@ -108,7 +104,7 @@ Long involved adventure more like a campaign.
 
 1. [Cypher Cards][] [1 & 2](https://www.montecookgames.com/store/product/numenera-cypher-deck-2-pdf/)
 2. [Numenera Box][]
-3. [Liminal Shore][]
+
 
 
 <!-- -->
