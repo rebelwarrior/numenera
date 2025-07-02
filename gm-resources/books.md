@@ -9,8 +9,8 @@ layout: posts
 ## My Favorite Books
 {:.title.is-4.mt-2}
 - [Glimmering Valley][]
-- [Explorer Keys][]
-- [Devil’s Spine][]
+- [Explorer's Keys][]
+- [The Devil's Spine][]
 - [Into the Violet Vale][]
 
 ![Explorer's Keys Book Thumbnail]({{ site.url }}/assets/images/thumbs/explorers-keys-thumb.jpg)
@@ -114,3 +114,4 @@ There is also a ton of free content I recommend getting:
 [Priests of the Aeons]: https://www.drivethrurpg.com/
 [Break the Horizon]: https://www.drivethrurpg.com/
 [Building Tomorrow]: https://www.drivethrurpg.com/
+[The Glimmering Valley]: https://www.drivethrurpg.com/
