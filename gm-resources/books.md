@@ -8,7 +8,7 @@ layout: posts
 
 ## My Favorite Books
 {:.title.is-4.mt-2}
-- [Glimmering Valley][]
+- [The Glimmering Valley][]
 - [Explorer's Keys][]
 - [The Devil's Spine][]
 - [Into the Violet Vale][]
@@ -54,6 +54,7 @@ There is also a ton of free content I recommend getting:
 1. [The Devil's Spine][] (excellent)
 2. [Jade Colossus][] (have not read)
 3. [Slaves of the Machine God][] (little convoluted)
+4. [Where the Machines Wait][] (5E compatible)
 
 
 ### Source books
@@ -111,7 +112,8 @@ There is also a ton of free content I recommend getting:
 [Building Tomorrow]: https://www.drivethrurpg.com/product/256159/Building-Tomorrow
 [Numenera Character Options 2]: https://www.drivethrurpg.com/product/194640/Numenera-Character-Options-2
 [Numenera Player's Guide]: https://www.drivethrurpg.com/product/253972/Numenera-Players-Guide
-[Priests of the Aeons]: https://www.drivethrurpg.com/
-[Break the Horizon]: https://www.drivethrurpg.com/
-[Building Tomorrow]: https://www.drivethrurpg.com/
-[The Glimmering Valley]: https://www.drivethrurpg.com/
+[Priests of the Aeons]: https://www.drivethrurpg.com/en/product/271023/priests-of-the-aeons
+[Break the Horizon]: https://www.drivethrurpg.com/en/product/389610/break-the-horizon
+[Building Tomorrow]: https://www.drivethrurpg.com/en/product/256159/building-tomorrow
+[The Glimmering Valley]: https://www.drivethrurpg.com/en/product/461273/the-glimmering-valley
+[Where the Machines Wait]: https://www.drivethrurpg.com/en/product/358148/where-the-machines-wait
