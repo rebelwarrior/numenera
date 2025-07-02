@@ -59,6 +59,7 @@ There is also a ton of free content I recommend getting:
 
 ### Source books
 {:.title.is-4.mt-3}
+
 [Numenera Character Options 2][] (More options for Character Types, Foci and Descriptors)
 <br>
 [Ninth World Guidebook][] (Gazetteer: Expands Core book map)  
