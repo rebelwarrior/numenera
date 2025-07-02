@@ -7,11 +7,12 @@ layout: posts
 {:.title.is-4.mt-2}
 
 ## My Favorite Books
-{:.title.is-4.mt-2}
+{:.subtitle.is-4.mt-2}
 - [The Glimmering Valley][]
 - [Explorer's Keys][]
 - [The Devil's Spine][]
 - [Into the Violet Vale][]
+{:.ml-6}
 
 ![Explorer's Keys Book Thumbnail]({{ site.url }}/assets/images/thumbs/explorers-keys-thumb.jpg)
 {:.m-2}
@@ -20,26 +21,33 @@ layout: posts
 {:.m-2}
 
 ## Core Books 
-{:.title.is-4.mt-2}
-1. Numenera Discovery
-2. Numenera Destiny
+{:.subtitle.is-4.mt-2}
 
+1. [Numenera Discovery][] (Basic Rules - How to play the game)
+2. [Numenera Destiny][] (Advanced Rules - How to build communities)
+{:.ml-6}
+
+For Players:
+1. [Numenera Player’s Guide][] (Basic Character Creation Rules)
+2. Combine with the free [Cypher Rules Primer][] for a good player starter.
+{:.ml-6}
 
 ## Rest of the Books 
-{:.title.is-4.mt-2}
+{:.subtitle.is-4.mt-2}
 
 ### Free Content:
-{:.title.is-4.mt-2}
+{:.subtitle.is-4.mt-2}
 
 There is also a ton of free content I recommend getting:
 1. [Cypher Rules Primer][]
 2. [Numenera Free Legacy Content][] (contains adventure _Beal of Boregal_) also at [drive thru](https://www.drivethrurpg.com/product/253970/Original-Numenera-Corebook-Legacy-Content)
 3. [Ashes of the Sea][] free adventure with quick start rules.
+{:.ml-6}
 
 ![Numenera Legacy Content Cover Thumbnail]({{ site.url }}/assets/images/thumbs/legacy-content-thumb.jpg)
 
 ### Bestiaries and Compendiums
-{:.title.is-4.mt-2}
+{:.subtitle.is-4.mt-2}
 
 [Technology Compendium][] (Cyphers)  
 <br>
@@ -50,15 +58,15 @@ There is also a ton of free content I recommend getting:
 
 
 ### Adventures
-{:.title.is-4.mt-2}
+{:.subtitle.is-4.mt-2}
 1. [The Devil's Spine][] (excellent)
 2. [Jade Colossus][] (have not read)
 3. [Slaves of the Machine God][] (little convoluted)
 4. [Where the Machines Wait][] (5E compatible)
-
+{:.ml-6}
 
 ### Source books
-{:.title.is-4.mt-3}
+{:.subtitle.is-4.mt-3}
 
 [Numenera Character Options 2][] (More options for Character Types, Foci and Descriptors)
 <br>
@@ -90,10 +98,11 @@ There is also a ton of free content I recommend getting:
 [book of short adventures]: https://www.drivethrurpg.com/product/285114/Explorers-Keys
 [Weird Discoveries]: https://www.drivethrurpg.com/product/148098/Weird-Discoveries-Ten-Instant-Adventures-for-Numenera
 [Into the Violet Vale]: https://www.drivethrurpg.com/product/133401/Into-the-Violet-Vale
-[Discovery]: https://www.montecookgames.com/store/product/numenera-discovery-and-destiny/
-[Destiny]: https://www.montecookgames.com/store/product/numenera-discovery-and-destiny/
-[The Devil's Spine]: https://www.drivethrurpg.com/product/120025/The-Devils-Spine
+[Numenera Discovery]: https://www.montecookgames.com/store/product/numenera-discovery-and-destiny/
+[Numenera Destiny]: https://www.montecookgames.com/store/product/numenera-discovery-and-destiny/
+[Numenera Player’s Guide]: https://www.montecookgames.com/store/product/numenera-players-guide-2/
 [Player's Guide]: https://www.drivethrurpg.com/product/253972/Numenera-Players-Guide
+[The Devil's Spine]: https://www.drivethrurpg.com/product/120025/The-Devils-Spine
 [Slaves of the Machine God]: https://www.drivethrurpg.com/product/264882/Slaves-of-the-Machine-God
 [Voices of the Datasphere]: https://www.drivethrurpg.com/product/317762/Voices-of-the-Datasphere
 [Priests of the Aeons]: https://www.drivethrurpg.com/product/271023/Priests-of-the-Aeons
@@ -103,7 +112,7 @@ There is also a ton of free content I recommend getting:
 [Love and Sex in the Ninth World]: https://www.drivethrurpg.com/product/126065/Love-and-Sex-in-the-Ninth-World
 [Ninth World Guidebook]: https://www.drivethrurpg.com/product/144040/Ninth-World-Guidebook
 [Jade Colossus]: https://www.drivethrurpg.com/product/218646/Jade-Colossus-Ruins-of-the-Prior-Worlds
-[Torment: Tides of Numenera – The Explorer's Guide]: https://www.drivethrurpg.com/product/191118/Torment-Tides-of-NumeneraThe-Explorers-Guide
+[Torment: Tides of Numenera – The Explorer's Guide]: https://www.drivethrurpg.com/product/191118/Torment-Tides-of-NumeneraThe-Explorers-Guide  
 [Ninth World Bestiary 1]: https://www.drivethrurpg.com/product/124816/The-Ninth-World-Bestiary
 [Ninth World Bestiary 2]: https://www.drivethrurpg.com/product/211086/Ninth-World-Bestiary-2
 [Ninth World Bestiary 3]: https://www.drivethrurpg.com/product/276069/Ninth-World-Bestiary-3
