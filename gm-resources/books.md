@@ -6,40 +6,27 @@ layout: posts
 # Numenera Books
 {:.title.is-4.mt-2}
 
-Numenera is a subset of Cypher System books. The Numenera setting is fantastic and very well developed but because it has a lot of materials it can be hard to navigate. 
-
-## What do you need to play? 
+## My Favorite Books
 {:.title.is-4.mt-2}
-
-You just need the core books to play: [Discovery][] and [Destiny][]. Almost all the core rules are in Discovery so you can just start with that one. 
-
-If you're just checking Numenera out take a look at the *free resources*. There is enough there to get started, particularly the **[Cypher Rules Primer][]**.
-
-![Numenera Discovery Book Thumbnail]({{ site.url }}/assets/images/thumbs/discovery-thumb.jpg)
-![Numenera Destiny Book Thumbnail]({{ site.url }}/assets/images/thumbs/destiny-thumb.jpg)
-{:.m-2}
-
-## What do you need to GM? 
-{:.title.is-4.mt-2}
-
-To run Numenera (GM) I'd recommend the [Explorer's Keys][]. You don't need a Bestiary but it could be useful. Additionally Monte Cook produces a whole bunch of supplements that could be useful as well like cards with cyphers [Cypher Cards][]. 
-
-For longer campaign-style adventures the [The Devil's Spine][] is an impressive adventure. 
-
-----
-
-## Other Books
-{:.title.is-4.mt-2}
-
-### Quick Adventures
-{:.title.is-4.mt-2}
-1. [Explorer's Keys][] (excellent)
-2. [Weird Discoveries][] (very good)
-
-These [books of short adventures][] are fantastic. These adventures are meant for one session and to be mostly improvised.
+- [Glimmering Valley][]
+- [Explorer Keys][]
+- [Devil’s Spine][]
+- [Into the Violet Vale][]
 
 ![Explorer's Keys Book Thumbnail]({{ site.url }}/assets/images/thumbs/explorers-keys-thumb.jpg)
 {:.m-2}
+
+![The Devil's Spine Adventure Cover Thumbnail]({{ site.url }}/assets/images/thumbs/devils-spine-thumb.jpg)
+{:.m-2}
+
+## Core Books 
+{:.title.is-4.mt-2}
+1. Numenera Discovery
+2. Numenera Destiny
+
+
+## Rest of the Books 
+{:.title.is-4.mt-2}
 
 ### Free Content:
 {:.title.is-4.mt-2}
@@ -51,16 +38,6 @@ There is also a ton of free content I recommend getting:
 
 ![Numenera Legacy Content Cover Thumbnail]({{ site.url }}/assets/images/thumbs/legacy-content-thumb.jpg)
 
-
-### Long Adventures
-{:.title.is-4.mt-2}
-1. [The Devil's Spine][] (excellent)
-2. [Jade Colossus][] (have not read)
-3. [Slaves of the Machine God][] (little convoluted)
-
-![The Devil's Spine Adventure Cover Thumbnail]({{ site.url }}/assets/images/thumbs/devils-spine-thumb.jpg)
-{:.m-2}
-
 ### Bestiaries and Compendiums
 {:.title.is-4.mt-2}
 
@@ -71,11 +48,19 @@ There is also a ton of free content I recommend getting:
 [Ninth World Bestiary 3][]  
 <br>
 
+
+### Adventures
+{:.title.is-4.mt-2}
+1. [The Devil's Spine][] (excellent)
+2. [Jade Colossus][] (have not read)
+3. [Slaves of the Machine God][] (little convoluted)
+
+
 ### Source books
 {:.title.is-4.mt-3}
 [Numenera Character Options 2][] (More options for Character Types, Foci and Descriptors)
 <br>
-[Ninth World Guidebook][] (Expands Core book and the lands of the Gaians, and others around Steadfast)  
+[Ninth World Guidebook][] (Gazetteer: Expands Core book map)  
 [Torment: Tides of Numenera – The Explorer's Guide][] (Garravia, the land of Torment)    
 <br>
 [Building Tomorrow][] (Communities) 
@@ -83,31 +68,17 @@ There is also a ton of free content I recommend getting:
 [Into the Outside][] (Extra Dimensions)  
 [Into the Deep][] (The Deep Ocean)  
 [Into the Night][] (Outer Space)  
-[Voices of the Datasphere][] (CyberSpace)  
+[Voices of the Datasphere][] (Cyber-Space)  
 [Edge of the Sun][] (Sci-fi machine bordering the Sun)  
 [Liminal Shore][] (Biological World)  
 [Break the Horizon][]  
 [Building Tomorrow][]  
-[The Glimmering Valley][]  
+[The Glimmering Valley][] (Secret Valley: Great Starting point!)  
 <br>
 
-These guidebooks expand the world but in general aren’t very useful for play. I liked [Ninth World Guidebook][] as it’s a sort of Gazetteer of other areas to explore. 
-
-### Tiny Bites
-{:.title.is-4.mt-3}
-
-- [Love and Sex in the Ninth World][] 
-- [Into the Violet Vale][] (great short adventure)  
-<br>
-## Goodies I want
-{:.title.is-4.mt-3}
-
-1. [Cypher Cards][] [1 & 2](https://www.montecookgames.com/store/product/numenera-cypher-deck-2-pdf/)
-2. [Numenera Box][]
 
 
-
-<!-- -->
+<!-- Links Below -->
 [Numenera Free Legacy Content]: https://www.montecookgames.com/store/product/numenera-discovery-and-destiny/
 [Ashes of the Sea]: https://www.drivethrurpg.com/product/247640/Ashes-of-the-Sea-FREE-Numenera-Quickstart-Rules-and-Adventure
 [Cypher Rules Primer]: https://www.montecookgames.com/store/product/cypher-system-rules-primer/
@@ -140,3 +111,6 @@ These guidebooks expand the world but in general aren’t very useful for play. 
 [Building Tomorrow]: https://www.drivethrurpg.com/product/256159/Building-Tomorrow
 [Numenera Character Options 2]: https://www.drivethrurpg.com/product/194640/Numenera-Character-Options-2
 [Numenera Player's Guide]: https://www.drivethrurpg.com/product/253972/Numenera-Players-Guide
+[Priests of the Aeons]: https://www.drivethrurpg.com/
+[Break the Horizon]: https://www.drivethrurpg.com/
+[Building Tomorrow]: https://www.drivethrurpg.com/
