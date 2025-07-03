@@ -74,15 +74,15 @@ There is also a ton of free content I recommend getting:
 [Torment: Tides of Numenera – The Explorer's Guide][] (Garravia, the land of Torment)    
 <br>
 [Building Tomorrow][] (Communities) 
-[Priests of the Aeons][]  
+[Priests of the Aeons][] (Numenera-focused Institution)   
 [Into the Outside][] (Extra Dimensions)  
 [Into the Deep][] (The Deep Ocean)  
 [Into the Night][] (Outer Space)  
 [Voices of the Datasphere][] (Cyber-Space)  
-[Edge of the Sun][] (Sci-fi machine bordering the Sun)  
+[Edge of the Sun][] (Sci-fi Space - machine bordering the Sun)  
 [Liminal Shore][] (Biological World)  
-[Break the Horizon][]  
-[Building Tomorrow][]  
+[Break the Horizon][] (Travel, Vehicles and Mounts)  
+[Building Tomorrow][] (Crafting and Community Resources)  
 [The Glimmering Valley][] (Secret Valley: Great Starting point!)  
 <br>
 
