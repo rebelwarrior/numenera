@@ -7,21 +7,37 @@ layout: posts
 {:.title.is-4.mt-2}
 
 ## My Favorite Books
-{:.subtitle.is-4.mt-2}
+{:.subtitle.is-4.mt-2}  
+![Explorer's Keys Book Thumbnail]({{ site.url }}/assets/images/thumbs/explorers-keys-thumb.jpg)
+![The Devil's Spine Adventure Cover Thumbnail]({{ site.url }}/assets/images/thumbs/devils-spine-thumb.jpg)
+![Violet Vale Adventure Cover Thumbnail]({{ site.url }}/assets/images/thumbs/violet-vale-thumb.jpg)
+{:.m-2}  
 - [The Glimmering Valley][]
 - [Explorer's Keys][]
 - [The Devil's Spine][]
 - [Into the Violet Vale][]
 {:.ml-6}
 
-![Explorer's Keys Book Thumbnail]({{ site.url }}/assets/images/thumbs/explorers-keys-thumb.jpg)
-{:.m-2}
+#### The Glimmering Valley
+{:.subtitle.is-5.mt-2}
+This book presents a fantastic starting point for any new players with a short area and campaign to get started. One of the best illustrated books in the serries. 
 
-![The Devil's Spine Adventure Cover Thumbnail]({{ site.url }}/assets/images/thumbs/devils-spine-thumb.jpg)
-{:.m-2}
+#### Explorer's Keys
+{:.subtitle.is-5.mt-2}
+This book of short adventures uses a great system of "Key" or movable story points to allow for quick set-up and running of adventures. The adventrues in this book are excellent. 
+
+##### The Devil's Spine 
+{:.subtitle.is-5.mt-2}
+This campaign length adventure is great adventure that takes you to various places in Steadfast. 
+
 
 ## Core Books 
 {:.subtitle.is-4.mt-2}
+
+![Numenera Discovery Cover Thumbnail]({{ site.url }}/assets/images/thumbs/discovery-thumb.jpg)
+![Numenera Destiny Cover Thumbnail]({{ site.url }}/assets/images/thumbs/destiny-thumb.jpg)
+![Player's Guide Cover Thumbnail]({{ site.url }}/assets/images/thumbs/player-guide-thumb.jpg)
+{:.m-2}  
 
 1. [Numenera Discovery][] (Basic Rules - How to play the game)
 2. [Numenera Destiny][] (Advanced Rules - How to build communities)
