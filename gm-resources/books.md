@@ -12,10 +12,10 @@ layout: posts
 ![The Devil's Spine Adventure Cover Thumbnail]({{ site.url }}/assets/images/thumbs/devils-spine-thumb.jpg)
 ![Violet Vale Adventure Cover Thumbnail]({{ site.url }}/assets/images/thumbs/violet-vale-thumb.jpg)
 {:.m-2}  
+
 - [The Glimmering Valley][]
 - [Explorer's Keys][]
 - [The Devil's Spine][]
-- [Into the Violet Vale][]
 {:.ml-6}
 
 #### The Glimmering Valley
@@ -24,9 +24,9 @@ This book presents a fantastic starting point for any new players with a short a
 
 #### Explorer's Keys
 {:.subtitle.is-5.mt-2}
-This book of short adventures uses a great system of "Key" or movable story points to allow for quick set-up and running of adventures. The adventrues in this book are excellent. 
+This book of short adventures uses a great system of "[Keys][]" or movable story points to allow for quick set-up and running of adventures. The adventrues in this book are excellent. 
 
-##### The Devil's Spine 
+#### The Devil's Spine 
 {:.subtitle.is-5.mt-2}
 This campaign length adventure is great adventure that takes you to various places in Steadfast. 
 
@@ -143,3 +143,4 @@ There is also a ton of free content I recommend getting:
 [Building Tomorrow]: https://www.drivethrurpg.com/en/product/256159/building-tomorrow
 [The Glimmering Valley]: https://www.drivethrurpg.com/en/product/461273/the-glimmering-valley
 [Where the Machines Wait]: https://www.drivethrurpg.com/en/product/358148/where-the-machines-wait
+[Keys]: /gm-resources/gm-resources 

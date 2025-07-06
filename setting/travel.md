@@ -8,4 +8,6 @@ Form of Travel | Risk Level | Notes
 --- | --- | --- 
 Walking or Cart-pulling | High (at night) | Most common form of travel but very unsafe at night. 
 Ardeen Caravan | Very High | A common target of subhuman attacks. 
-
+Dirigible | Low while in Qi | Low altitude flying. 
+Raster | 
+Xi-drake | Medium if you're an Arcuan Knight | 
