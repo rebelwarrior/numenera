@@ -19,6 +19,7 @@ layout: posts
 1. [Prepless GM By Paul Camp.](https://www.drivethrurpg.com/product/304745/The-Prepless-GM)
 2. [The Monsters Know What they're Doing: Combat Tactics for Dungeon Masters by Keith Ammann](https://www.themonstersknow.com/)
 3. [Explorer's Keys](https://www.drivethrurpg.com/product/285114/Explorers-Keys)
+4. [So You Want To Be A Game Master: Everything You Need to Start Your Tabletop Adventure for Dungeons and Dragons, Pathfinder, and Other Systems](https://www.amazon.com/You-Want-Game-Master-Adventure_for/dp/1645679152) 
 {:.ml-6}
 
 ## Other GM'ing Books
