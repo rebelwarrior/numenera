@@ -7,6 +7,10 @@
 
 /*! bulma.io v1.0.4 | MIT License | github.com/jgthms/bulma */
 
-@use "index"; // @use "sass";
-@use "lists";
-@use "custom";
+// @use "index"; // @use "sass";
+// @use "lists";
+// @use "custom";
+
+@import "index"; // @use "sass";
+@import "lists";
+@import "custom";
