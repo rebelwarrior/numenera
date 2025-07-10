@@ -95,6 +95,7 @@ There is also a ton of free content I recommend getting:
 [Into the Deep][] (The Deep Ocean)  
 [Into the Night][] (Outer Space)  
 [Voices of the Datasphere][] (Cyber-Space)  
+[Vertices][] (Locations that connect with the Datasphere)  
 [Edge of the Sun][] (Sci-fi Space - machine bordering the Sun)  
 [Liminal Shore][] (Biological World)  
 [Break the Horizon][] (Travel, Vehicles and Mounts)  
@@ -142,5 +143,6 @@ There is also a ton of free content I recommend getting:
 [Break the Horizon]: https://www.drivethrurpg.com/en/product/389610/break-the-horizon
 [Building Tomorrow]: https://www.drivethrurpg.com/en/product/256159/building-tomorrow
 [The Glimmering Valley]: https://www.drivethrurpg.com/en/product/461273/the-glimmering-valley
-[Where the Machines Wait]: https://www.drivethrurpg.com/en/product/358148/where-the-machines-wait
+[Where the Machines Wait]: https://www.drivethrurpg.com/en/product/358148/where-the-machines-wait  
+[Vertices]: https://www.drivethrurpg.com/en/product/365835/vertices  
 [Keys]: /gm-resources/gm-resources 

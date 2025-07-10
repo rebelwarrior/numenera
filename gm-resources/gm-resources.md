@@ -47,6 +47,7 @@ layout: posts
 1. [Consent in RPG Check List](https://www.montecookgames.com/consent-in-gaming/) Excellent resource.
 2. [The Infinite Construct](https://www.youtube.com/c/THEINFINITECONSTRUCT) (YouTube Channel) has some great music and Numenera Q&As.
 3. [List of Free Cypher System Resources](https://d20.rs/cypher-system-freebies)
+4. [Cypher Unlimited](https://www.youtube.com/@CypherUnlimited) YouTube Channel for a podcast on Cypher System. 
 {:.ml-6}
 
 
