@@ -6,9 +6,7 @@
 @charset "utf-8";
 
 /*! bulma.io v1.0.4 | MIT License | github.com/jgthms/bulma */
-// @use "sass";
 
+@use "index"; // @use "sass";
 @use "lists";
 @use "custom";
-
-@import "sass"; // This gets a waring but apparently ok in Jekyll
